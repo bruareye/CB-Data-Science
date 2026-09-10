@@ -1,0 +1,957 @@
+Unnamed: 0.1;Unnamed: 0;id_empleado;sexo;edad;ciudad;departamento;salario;fecha_ingreso;evaluacion_desempeno;modalidad;estado_civil
+0;661;96097;female;41;guayaquil;Ventas;$3355,03;09/05/2024;3;presencial;Union Libre
+1;478;24153;m;34;Guayaquil;Tecnologia;$2393,25;Apr 09, 2015;3;presencial;Divorciado
+2;320;11977;M;38;GYE;Ventas;$2423,75;2015-07-15;3;presencial;Casado
+3;105;80203;F;27;GYE;Operaciones;$1058,84;25/08/2025;5;presencial;Soltero
+4;311;54186;M;32;quito;RRHH;$1975,49;2020-08-12;3;hibrido;Casado
+5;251;85308;female;35;guayaquil;Ventas;$5183,54;18/11/2024;2;presencial;Soltero
+6;878;83368;M;23;Guayaquil;Operaciones;$1165,81;2018-03-02;4;presencial;Soltero
+7;451;18076;female;30;UIO;Tecnologia;$7784,72;15/07/2015;5;remoto;Divorciado
+8;568;85617;M;28;Guayaquil;Tecnologia;$4914,88;2020-09-30;4;hibrido;Soltero
+9;682;42494;F;44;guayaquil;Tecnologia;$4118,38;2024-06-17;3;presencial;Divorciado
+10;636;92549;F;39;Guayaquil;Operaciones;$1692,02;09/12/2016;5;hibrido;Casado
+11;773;17551;m;35;quito;Marketing;$3098,24;2018-12-11;4;presencial;Soltero
+12;815;59609;female;42;Guayaquil;Tecnologia;$6443,82;2015-01-14;4;remoto;Casado
+13;26;98625;M;25;Guayaquil;Tecnologia;$2784,48;2021-07-30;3;hibrido;Soltero
+14;433;38348;female;22;UIO;Tecnologia;$2160,34;18/07/2022;3;presencial;Soltero
+15;64;51282;m;30;Guayaquil;Ventas;$1384,1;01/12/2017;4;presencial;Union Libre
+16;160;39926;m;27;quito;Finanzas;$3655,13;04/08/2022;1;presencial;Soltero
+17;307;83713;F;31;Guayaquil;Marketing;$2952,28;23/11/2024;3;hibrido;Casado
+18;426;61241;female;26;quito;Operaciones;$793,04;18/01/2024;2;hibrido;Casado
+19;263;37704;M;35;quito;Operaciones;$3874,03;17/12/2019;4;presencial;Casado
+20;697;63428;female;38;guayaquil;Marketing;$1385,05;2025-12-10;3;presencial;Soltero
+21;666;86479;female;38;guayaquil;Operaciones;$993,18;2023-11-01;2;hibrido;Casado
+22;6;39824;m;40;GYE;Tecnologia;$3121,45;2022-09-07;4;remoto;Casado
+23;922;27224;female;35;guayaquil;Ventas;$2577,0;Dec 19, 2019;3;presencial;Union Libre
+24;390;42702;female;29;quito;Finanzas;$2689,12;09/03/2023;1;presencial;Casado
+25;757;26025;F;44;quito;Operaciones;$2115,24;2016-09-02;1;presencial;Soltero
+26;237;60404;m;26;quito;Marketing;$3498,67;2016-07-24;4;presencial;Soltero
+27;411;50918;F;45;UIO;Tecnologia;$5071,64;25/01/2015;1;hibrido;Casado
+28;656;58026;M;33;quito;Tecnologia;$3125,76;08/07/2015;3;remoto;Casado
+29;911;20622;F;29;Guayaquil;RRHH;$2331,7;Mar 18, 2024;4;presencial;Soltero
+30;798;49200;m;30;UIO;Finanzas;$3557,55;2022-04-17;4;hibrido;Soltero
+31;367;79819;female;34;GYE;Ventas;$1558,21;02/01/2018;3;presencial;Casado
+32;726;77640;M;39;Guayaquil;Tecnologia;$4227,0;14/09/2016;4;hibrido;Soltero
+33;364;24720;female;31;GYE;Ventas;$1983,04;Jul 08, 2019;3;presencial;Soltero
+34;737;99430;F;26;quito;Tecnologia;$2871,46;28/05/2021;3;remoto;Soltero
+35;138;43804;M;26;Guayaquil;Ventas;$1553,34;2017-09-25;2;presencial;Union Libre
+36;590;33730;M;38;guayaquil;Operaciones;$1345,01;2015-05-23;4;presencial;Soltero
+37;497;95118;female;44;Guayaquil;Ventas;$2592,46;2017-09-12;3;presencial;Divorciado
+38;836;23057;female;36;guayaquil;Finanzas;$4707,4;May 26, 2018;5;presencial;Casado
+39;843;18129;female;35;Guayaquil;Operaciones;$2993,55;02/10/2023;4;presencial;Soltero
+40;644;32739;female;26;guayaquil;Tecnologia;$1235,04;01/11/2024;3;remoto;Soltero
+41;807;61897;female;32;Guayaquil;Operaciones;$2623,22;2018-11-06;4;remoto;Casado
+42;935;26264;M;46;guayaquil;Tecnologia;$4428,69;15/04/2021;5;remoto;Soltero
+43;580;58061;M;34;UIO;Tecnologia;$1892,12;2019-03-06;4;presencial;Union Libre
+44;439;54566;F;25;quito;Marketing;$1069,84;2022-02-05;3;presencial;Union Libre
+45;54;38078;m;31;UIO;Operaciones;$1779,84;2015-12-15;2;presencial;Casado
+46;384;77406;female;42;Guayaquil;Tecnologia;$4430,93;10/09/2016;3;remoto;Union Libre
+47;817;46254;m;47;UIO;Tecnologia;$3571,79;Apr 05, 2015;4;remoto;Union Libre
+48;447;70522;F;42;guayaquil;Tecnologia;$2377,01;2024-06-06;3;hibrido;Casado
+49;894;95945;female;28;Guayaquil;Marketing;$1946,62;2018-06-08;5;remoto;Soltero
+50;230;66777;m;27;Guayaquil;Tecnologia;$1465,99;2022-01-16;4;hibrido;Union Libre
+51;805;18532;M;54;Guayaquil;Tecnologia;$5815,25;16/01/2016;3;remoto;Soltero
+52;727;17653;F;36;quito;Operaciones;$1332,13;30/06/2021;4;presencial;Casado
+53;348;81957;m;40;guayaquil;Ventas;$2761,88;2025-10-02;2;presencial;Casado
+54;681;62009;F;34;Guayaquil;Tecnologia;$2947,1;2015-10-29;4;remoto;Casado
+55;885;66747;m;51;quito;Operaciones;$3542,06;18/11/2021;4;presencial;Soltero
+56;586;51210;F;41;GYE;Ventas;$1475,66;20/08/2017;4;presencial;Casado
+57;771;31793;F;37;guayaquil;Operaciones;$1414,76;16/10/2019;4;remoto;Casado
+58;925;78444;M;30;Guayaquil;Tecnologia;$1645,41;2017-09-09;1;remoto;Soltero
+59;892;10582;female;37;GYE;Ventas;$1063,6;2021-05-17;3;hibrido;Casado
+60;252;73990;female;29;GYE;Operaciones;$1503,16;08/04/2023;3;presencial;Soltero
+61;176;82054;F;47;guayaquil;RRHH;$3989,32;02/07/2024;4;hibrido;Soltero
+62;738;43388;m;24;quito;Ventas;$1424,81;2015-01-03;2;presencial;Soltero
+63;814;19937;m;37;guayaquil;Tecnologia;$2383,72;2021-08-31;3;hibrido;Casado
+64;537;35424;female;36;guayaquil;Marketing;$1382,96;2025-10-31;1;presencial;Casado
+65;609;36327;F;32;Guayaquil;Finanzas;$5298,43;2016-12-20;3;presencial;Soltero
+66;673;10656;m;26;Guayaquil;Tecnologia;$2031,37;2015-04-11;5;hibrido;Soltero
+67;877;93598;F;28;GYE;Operaciones;$700,0;2016-06-19;4;presencial;Soltero
+68;470;37843;M;37;GYE;Marketing;$1615,43;18/01/2026;3;presencial;Soltero
+69;94;34351;M;36;Guayaquil;Marketing;$902,95;Aug 25, 2021;5;presencial;Soltero
+70;274;52718;F;34;guayaquil;Operaciones;$2552,92;2022-03-04;3;hibrido;Soltero
+71;416;76932;M;40;UIO;Tecnologia;$2720,12;2016-05-31;4;remoto;Casado
+72;615;86269;M;27;quito;Tecnologia;$6034,73;2017-03-08;4;remoto;Casado
+73;362;98166;m;39;Guayaquil;Operaciones;$1986,71;Jun 30, 2019;3;presencial;Soltero
+74;616;48912;m;41;Guayaquil;Ventas;$1860,21;29/08/2024;4;presencial;Casado
+75;496;75591;F;26;Guayaquil;Tecnologia;$2200,43;2023-10-26;4;remoto;Soltero
+76;14;18207;m;30;UIO;RRHH;$1862,83;11/06/2021;3;hibrido;Casado
+77;680;75872;F;24;quito;Tecnologia;$1859,92;2020-03-28;4;remoto;Soltero
+78;410;91091;M;32;Guayaquil;Operaciones;$1202,8;17/11/2025;4;presencial;Union Libre
+79;145;37001;m;21;Guayaquil;Finanzas;$2075,97;2022-05-17;1;presencial;Soltero
+80;292;25574;m;38;quito;Ventas;$2578,42;2016-02-15;4;hibrido;Casado
+81;594;29139;m;35;Guayaquil;Operaciones;$1981,41;17/02/2017;5;presencial;Casado
+82;163;11606;female;21;Guayaquil;Ventas;$3118,14;12/10/2021;4;presencial;Soltero
+83;629;22568;female;45;guayaquil;Finanzas;$3415,5;Jul 05, 2022;3;presencial;Soltero
+84;642;68992;m;33;quito;Tecnologia;$2945,69;2019-06-12;4;remoto;Casado
+85;902;47516;F;21;Guayaquil;Tecnologia;$6097,42;10/01/2022;3;remoto;Soltero
+86;290;77538;m;33;Guayaquil;Operaciones;$1004,03;2024-12-14;4;presencial;Soltero
+87;199;89005;M;46;UIO;Tecnologia;$1935,24;Jan 09, 2024;4;remoto;Casado
+88;627;69407;female;43;Guayaquil;Operaciones;$1925,73;28/10/2019;5;presencial;Divorciado
+89;622;52671;female;37;quito;Tecnologia;$2315,7;2019-11-26;3;hibrido;Union Libre
+90;873;35954;F;38;Guayaquil;Finanzas;$2789,68;28/09/2017;2;hibrido;Soltero
+91;250;23271;female;45;guayaquil;Operaciones;$1076,67;25/07/2025;4;presencial;Casado
+92;546;12036;female;34;guayaquil;Ventas;$1653,17;Feb 28, 2019;3;presencial;Soltero
+93;837;39370;female;29;Guayaquil;Tecnologia;$1443,29;2019-05-18;3;remoto;Soltero
+94;928;97084;F;39;GYE;Tecnologia;$3631,08;2020-01-05;5;remoto;Soltero
+95;10;97650;m;34;UIO;Marketing;$2235,42;08/01/2022;4;hibrido;Casado
+96;216;59542;F;21;guayaquil;Tecnologia;$3593,57;2025-07-01;4;remoto;Union Libre
+97;863;76783;female;41;Guayaquil;Tecnologia;$4997,29;2020-02-24;3;remoto;Casado
+98;234;51724;F;35;Guayaquil;Tecnologia;$1269,7;2015-07-30;3;remoto;Divorciado
+99;741;83908;m;35;Guayaquil;Tecnologia;$4556,69;05/09/2018;3;remoto;Soltero
+100;528;72850;m;45;quito;Tecnologia;$6043,21;2015-06-03;2;hibrido;Divorciado
+101;249;60707;F;35;Guayaquil;RRHH;$1176,74;08/05/2019;3;hibrido;Soltero
+102;830;74451;female;38;Guayaquil;Tecnologia;$876,55;2024-11-25;3;hibrido;Casado
+103;419;68555;M;32;Guayaquil;Operaciones;$2584,65;16/07/2021;3;hibrido;Soltero
+104;765;55208;M;34;Guayaquil;Finanzas;$2320,05;24/06/2025;3;presencial;Casado
+105;255;99788;F;33;Guayaquil;Operaciones;$919,69;2016-08-26;2;presencial;Casado
+106;272;53836;F;54;Guayaquil;Tecnologia;$1728,04;31/07/2018;5;remoto;Casado
+107;48;72134;m;45;Guayaquil;Operaciones;$1933,74;2021-12-24;4;presencial;Casado
+108;358;86366;female;49;guayaquil;Tecnologia;$974,97;27/07/2021;3;hibrido;Casado
+109;378;85348;M;29;Guayaquil;Marketing;$1346,82;2024-07-13;3;presencial;Union Libre
+110;194;19567;M;26;GYE;Tecnologia;$1907,62;27/06/2020;4;remoto;Union Libre
+111;583;91751;M;32;guayaquil;Tecnologia;$871,21;2022-07-09;2;hibrido;Union Libre
+112;835;74471;m;51;Guayaquil;Ventas;$1357,2;2020-02-06;3;remoto;Soltero
+113;241;63355;female;40;GYE;Tecnologia;$6319,88;27/07/2016;3;presencial;Casado
+114;180;80893;m;44;Guayaquil;Tecnologia;$858,06;2020-11-15;3;remoto;Soltero
+115;693;70971;m;46;GYE;Finanzas;$4399,2;2020-10-08;3;presencial;Union Libre
+116;4;59304;F;44;Guayaquil;Tecnologia;$1718,89;12/05/2017;4;hibrido;Divorciado
+117;872;33851;female;33;quito;Ventas;$1374,91;Apr 12, 2017;5;presencial;Union Libre
+118;112;18251;F;44;guayaquil;Operaciones;$2250,49;23/02/2016;3;hibrido;Union Libre
+119;401;51454;M;30;Guayaquil;Tecnologia;$2679,05;06/10/2015;3;hibrido;Union Libre
+120;492;48950;m;32;UIO;Tecnologia;$2640,73;Feb 27, 2022;1;remoto;Union Libre
+121;886;66972;m;28;Guayaquil;Tecnologia;$1130,59;2025-01-17;3;hibrido;Union Libre
+122;521;76813;M;41;UIO;Tecnologia;$2101,85;Jul 24, 2024;4;remoto;Union Libre
+123;111;66247;M;25;guayaquil;Operaciones;$2914,02;30/04/2015;4;presencial;Soltero
+124;793;57789;F;36;quito;Operaciones;$2101,63;2018-10-27;2;presencial;Union Libre
+125;406;74783;m;26;GYE;Operaciones;$1180,63;2015-09-21;5;presencial;Soltero
+126;428;63824;m;53;GYE;Ventas;$3044,03;2019-07-01;2;presencial;Union Libre
+127;109;49215;F;42;Guayaquil;Marketing;$1051,97;2016-11-01;3;presencial;Casado
+128;192;20370;female;35;guayaquil;Tecnologia;$8000,0;Feb 02, 2022;4;remoto;Union Libre
+129;557;81041;m;37;UIO;Finanzas;$2930,95;28/07/2019;4;presencial;Casado
+130;8;28698;F;40;UIO;Operaciones;$1537,52;2022-01-30;2;presencial;Casado
+131;266;39452;F;33;GYE;Ventas;$2087,68;2023-10-11;5;presencial;Soltero
+132;647;72116;F;37;UIO;RRHH;$2438,97;2025-06-02;3;presencial;Soltero
+133;35;55051;m;35;Guayaquil;Finanzas;$3274,24;2020-11-08;3;presencial;Casado
+134;275;13883;m;36;GYE;Ventas;$1231,69;2018-07-05;4;presencial;Soltero
+135;545;20748;F;34;guayaquil;Operaciones;$2311,6;07/09/2024;2;presencial;Soltero
+136;235;24389;m;36;guayaquil;Operaciones;$700,0;2016-09-09;5;presencial;Casado
+137;496;75591;F;26;Guayaquil;Tecnologia;$2200,43;2023-10-26;4;remoto;Soltero
+138;405;28065;F;44;quito;Operaciones;$4316,75;2018-11-20;3;presencial;Casado
+139;866;53134;m;34;guayaquil;Marketing;$1072,69;02/11/2015;5;presencial;Casado
+140;352;78921;m;34;quito;Operaciones;$1886,84;2020-12-11;3;presencial;Soltero
+141;811;93587;M;54;Guayaquil;Ventas;$4946,8;Nov 26, 2024;4;presencial;Casado
+142;446;87698;F;44;Guayaquil;Ventas;$1103,76;14/02/2023;3;presencial;Casado
+143;336;71636;M;36;GYE;Tecnologia;$4088,16;2023-03-29;1;remoto;Soltero
+144;864;75527;F;41;quito;Marketing;$1208,51;28/08/2020;3;presencial;Casado
+145;438;26260;M;41;guayaquil;Tecnologia;$3638,11;2017-12-11;4;hibrido;Soltero
+146;283;89096;M;42;quito;Marketing;$1021,58;Oct 23, 2023;2;presencial;Divorciado
+147;106;43027;M;43;GYE;Operaciones;$1588,42;23/03/2025;2;presencial;Casado
+148;920;51304;M;40;quito;Marketing;$2707,11;2016-06-29;4;presencial;Divorciado
+149;404;75263;m;35;UIO;Finanzas;$4259,5;2017-06-14;3;presencial;Union Libre
+150;153;52009;M;34;Guayaquil;Operaciones;$2237,27;2023-04-14;3;presencial;Casado
+151;794;77012;female;38;GYE;Ventas;$3210,5;2021-01-18;1;presencial;Casado
+152;39;68537;F;54;Guayaquil;Tecnologia;$1632,79;2019-07-08;2;remoto;Soltero
+153;268;52851;M;31;GYE;Operaciones;$2069,68;2025-10-10;3;presencial;Casado
+154;226;54793;M;31;quito;Finanzas;$1972,1;28/06/2025;4;presencial;Soltero
+155;675;51258;m;51;GYE;Tecnologia;$3186,77;2019-08-09;3;remoto;Soltero
+156;879;42403;M;37;guayaquil;Finanzas;$1826,92;13/02/2015;2;remoto;Soltero
+157;244;10886;M;44;Guayaquil;Tecnologia;$2691,8;2023-01-22;5;remoto;Casado
+158;144;66785;M;30;GYE;Ventas;$2735,04;2022-01-13;3;presencial;Union Libre
+159;224;20346;F;43;guayaquil;Tecnologia;$3103,79;28/01/2019;5;hibrido;Casado
+160;927;12748;female;39;GYE;Ventas;$3843,47;2023-08-26;3;presencial;Union Libre
+161;552;59592;m;49;Guayaquil;Operaciones;$1233,75;2021-01-21;5;remoto;Casado
+162;161;56042;F;42;UIO;Operaciones;$1225,42;22/01/2020;1;presencial;Soltero
+163;698;23962;F;37;quito;Operaciones;$1954,49;14/04/2024;4;presencial;Casado
+164;471;50687;M;28;quito;Operaciones;$1674,06;2019-05-13;4;presencial;Soltero
+165;108;92711;F;30;Guayaquil;Ventas;$1041,67;2016-04-12;3;hibrido;Union Libre
+166;664;24322;M;47;UIO;Tecnologia;$5550,95;Sep 24, 2020;3;hibrido;Union Libre
+167;396;31355;M;29;guayaquil;Finanzas;$3654,31;Apr 05, 2019;4;hibrido;Soltero
+168;751;22855;m;39;guayaquil;Operaciones;$1392,8;Nov 14, 2017;4;hibrido;Soltero
+169;482;58917;M;35;Guayaquil;RRHH;$1138,48;03/12/2021;2;hibrido;Divorciado
+170;658;43859;m;32;quito;Finanzas;$2066,99;2025-02-12;4;presencial;Casado
+171;78;86792;m;36;UIO;Marketing;$1305,04;2024-07-15;1;hibrido;Union Libre
+172;277;75928;female;39;Guayaquil;Tecnologia;$3781,41;13/02/2026;5;remoto;Soltero
+173;486;80307;m;43;guayaquil;Tecnologia;$2382,89;04/09/2020;5;remoto;Soltero
+174;242;76366;F;27;GYE;Ventas;$3405,16;15/08/2021;4;hibrido;Union Libre
+175;151;78212;female;45;UIO;Ventas;$2705,47;2017-12-02;3;presencial;Casado
+176;477;64262;female;36;Guayaquil;Ventas;$4402,75;2022-02-26;4;presencial;Union Libre
+177;227;19563;M;44;UIO;Ventas;$3500,6;24/08/2017;4;presencial;Union Libre
+178;606;26510;m;29;Guayaquil;Marketing;$1164,74;2015-07-17;5;presencial;Soltero
+179;716;21388;m;35;guayaquil;Finanzas;$2403,11;Jan 22, 2016;5;presencial;Soltero
+180;646;54355;M;31;Guayaquil;Ventas;$2287,85;13/02/2024;3;presencial;Divorciado
+181;462;21832;female;25;guayaquil;Tecnologia;$4086,07;Oct 02, 2021;1;presencial;Union Libre
+182;709;38337;m;40;quito;Ventas;$1812,7;04/10/2021;3;presencial;Soltero
+183;205;14005;m;30;guayaquil;Finanzas;$3538,51;2017-01-03;4;presencial;Casado
+184;663;94899;F;41;UIO;Tecnologia;$3065,85;Aug 27, 2022;5;hibrido;Casado
+185;113;50111;m;32;Guayaquil;Ventas;$700,0;19/03/2022;3;hibrido;Casado
+186;217;46497;F;44;guayaquil;RRHH;$1774,55;Nov 30, 2019;3;presencial;Union Libre
+187;868;23532;F;29;guayaquil;Ventas;$1788,39;28/07/2022;4;presencial;Soltero
+188;253;80267;m;32;guayaquil;Operaciones;$4936,09;29/04/2023;3;presencial;Casado
+189;169;19702;F;51;Guayaquil;Tecnologia;$1836,68;2025-09-05;3;hibrido;Soltero
+190;750;20728;female;37;GYE;Tecnologia;$3060,9;2022-04-21;5;remoto;Union Libre
+191;810;89885;M;43;Guayaquil;RRHH;$1595,85;2022-12-05;4;presencial;Soltero
+192;612;97050;F;31;Guayaquil;Marketing;$2370,23;19/02/2023;3;presencial;Union Libre
+193;592;50648;m;50;GYE;Operaciones;$2228,45;2015-07-02;2;presencial;Casado
+194;46;18530;M;40;quito;Tecnologia;$6131,21;12/03/2025;3;remoto;Union Libre
+195;882;81758;M;40;quito;Tecnologia;$5413,79;2023-07-16;4;hibrido;Union Libre
+196;895;59664;M;38;Guayaquil;Tecnologia;$3081,05;20/03/2017;4;remoto;Casado
+197;674;63599;female;40;guayaquil;Finanzas;$5394,53;13/06/2024;3;presencial;Casado
+198;730;27361;female;31;Guayaquil;RRHH;$2915,36;01/09/2015;1;presencial;Casado
+199;422;73980;F;41;guayaquil;Tecnologia;$2539,86;2023-10-14;3;remoto;Union Libre
+200;758;70167;m;30;Guayaquil;Ventas;$1164,36;2024-03-19;3;presencial;Union Libre
+201;625;95237;female;36;UIO;Finanzas;$7662,69;2023-10-09;1;presencial;Casado
+202;317;56719;M;37;Guayaquil;Finanzas;$2472,16;2015-11-13;2;presencial;Casado
+203;413;96484;M;44;quito;Marketing;$8000,0;25/07/2020;3;presencial;Casado
+204;44;93523;M;40;Guayaquil;Operaciones;$1838,09;12/07/2016;1;presencial;Soltero
+205;792;15685;female;37;guayaquil;Tecnologia;$2959,45;2024-12-26;3;hibrido;Union Libre
+206;124;49325;m;39;UIO;Tecnologia;$3416,9;Jul 03, 2022;3;hibrido;Soltero
+207;755;79539;m;31;UIO;Tecnologia;$2603,89;14/12/2018;3;remoto;Casado
+208;400;88406;F;25;Guayaquil;Marketing;$2456,69;2019-09-22;4;presencial;Soltero
+209;542;40250;F;22;Guayaquil;Operaciones;$3113,01;2022-09-18;3;presencial;Union Libre
+210;668;25200;M;34;Guayaquil;Tecnologia;$2913,67;01/07/2017;4;remoto;Casado
+211;786;20978;M;39;guayaquil;RRHH;$1847,59;May 24, 2021;4;presencial;Soltero
+212;337;96932;m;39;Guayaquil;Ventas;$1208,38;2017-12-20;3;hibrido;Soltero
+213;479;50176;F;30;Guayaquil;Ventas;$4222,45;11/11/2019;4;hibrido;Union Libre
+214;341;22458;F;31;Guayaquil;Finanzas;$1776,84;16/03/2019;4;presencial;Soltero
+215;657;43485;M;43;GYE;RRHH;$1087,97;2024-06-05;1;presencial;Casado
+216;754;18364;F;34;quito;Tecnologia;$2474,77;02/04/2017;3;hibrido;Casado
+217;525;57555;m;42;guayaquil;Tecnologia;$3895,59;20/08/2020;4;hibrido;Casado
+218;898;96998;female;54;UIO;Finanzas;$2062,52;2024-02-10;3;presencial;Casado
+219;514;48068;F;54;Guayaquil;Finanzas;$8000,0;2021-09-19;5;presencial;Union Libre
+220;589;48882;F;34;GYE;Operaciones;$1555,91;23/03/2018;3;remoto;Casado
+221;301;37758;M;31;quito;Operaciones;$1977,94;2017-08-21;4;hibrido;Soltero
+222;708;92963;m;34;quito;Operaciones;$974,24;07/10/2022;3;presencial;Casado
+223;541;65028;female;36;guayaquil;Tecnologia;$3916,72;May 29, 2019;3;hibrido;Soltero
+224;333;56999;female;40;Guayaquil;Ventas;$2105,42;2020-11-18;4;remoto;Casado
+225;919;87686;m;34;GYE;Tecnologia;$7021,64;May 08, 2017;3;hibrido;Union Libre
+226;687;27342;M;34;Guayaquil;Finanzas;$1819,0;2024-01-14;2;presencial;Union Libre
+227;876;70401;M;36;guayaquil;Operaciones;$2305,49;2018-03-29;3;presencial;Union Libre
+228;308;47383;female;51;Guayaquil;Tecnologia;$3572,47;29/11/2023;3;hibrido;Divorciado
+229;749;91866;F;30;GYE;Finanzas;$5336,74;2019-01-02;2;hibrido;Union Libre
+230;132;43153;F;26;Guayaquil;Finanzas;$4818,22;2021-12-15;4;presencial;Soltero
+231;570;22068;female;36;guayaquil;Operaciones;$1591,16;08/05/2022;4;presencial;Casado
+232;429;79520;M;44;guayaquil;Operaciones;$1623,89;2015-10-12;1;hibrido;Casado
+233;889;49904;M;37;Guayaquil;Tecnologia;$3315,77;2021-07-19;3;remoto;Casado
+234;948;48796;M;31;guayaquil;Operaciones;$4383,0;18/01/2016;3;presencial;Soltero
+235;909;54707;female;27;Guayaquil;Operaciones;$2433,86;20/09/2018;3;presencial;Soltero
+236;833;72966;M;44;quito;Operaciones;$2328,11;2026-02-02;3;presencial;Casado
+237;425;33521;F;39;guayaquil;Operaciones;$1184,58;Jun 07, 2021;4;hibrido;Soltero
+238;29;25373;female;42;Guayaquil;Operaciones;$2347,44;2016-06-27;1;hibrido;Soltero
+239;156;11416;M;48;guayaquil;Finanzas;$4451,57;2021-03-05;3;remoto;Casado
+240;28;18595;m;42;UIO;Tecnologia;$2953,46;08/11/2019;3;remoto;Casado
+241;70;92898;female;25;Guayaquil;Tecnologia;$2001,56;14/09/2025;4;remoto;Union Libre
+242;260;77789;F;43;Guayaquil;Tecnologia;$3592,43;2019-01-06;4;hibrido;Soltero
+243;296;98392;M;27;quito;Ventas;$5506,12;2020-07-15;4;presencial;Soltero
+244;683;38492;F;40;guayaquil;Ventas;$1200,61;04/09/2020;2;hibrido;Union Libre
+245;273;79574;m;37;UIO;Finanzas;$7554,33;2018-09-06;3;hibrido;Casado
+246;640;31503;M;24;quito;Tecnologia;$2627,09;2015-01-22;4;remoto;Casado
+247;513;79837;F;43;GYE;Tecnologia;$6134,94;2024-12-25;5;remoto;Casado
+248;133;38966;female;31;Guayaquil;Tecnologia;$3485,67;2024-02-18;2;remoto;Soltero
+249;118;30855;m;27;Guayaquil;Tecnologia;$3457,32;2019-01-16;4;remoto;Soltero
+250;799;70266;female;32;GYE;Tecnologia;$4312,01;2025-09-10;3;remoto;Union Libre
+251;139;19771;m;34;GYE;Finanzas;$2501,05;2022-06-27;4;presencial;Union Libre
+252;110;61994;F;32;GYE;Ventas;$948,34;Dec 31, 2021;3;presencial;Soltero
+253;601;66745;m;23;guayaquil;Tecnologia;$1247,67;30/06/2025;3;hibrido;Soltero
+254;323;99440;M;42;guayaquil;Ventas;$4715,19;05/01/2021;3;presencial;Casado
+255;261;31550;F;29;guayaquil;Operaciones;$1060,63;31/12/2017;5;hibrido;Soltero
+256;491;49498;M;42;GYE;Operaciones;$1762,96;2026-01-05;3;presencial;Soltero
+257;203;84452;female;54;guayaquil;Tecnologia;$2840,12;2021-02-10;4;remoto;Union Libre
+258;375;20212;M;39;guayaquil;Ventas;$3863,54;2025-01-27;1;presencial;Soltero
+259;700;51119;M;27;GYE;Finanzas;$1880,5;03/05/2019;3;presencial;Soltero
+260;293;22063;m;32;quito;Ventas;$2067,07;2024-12-17;3;remoto;Casado
+261;239;14962;M;38;UIO;Tecnologia;$3182,77;2022-09-15;4;remoto;Soltero
+262;502;51020;female;32;guayaquil;Tecnologia;$2277,79;2024-04-27;3;hibrido;Union Libre
+263;613;42672;female;44;GYE;RRHH;$1684,51;18/11/2017;3;presencial;Divorciado
+264;933;82013;m;43;GYE;Operaciones;$1523,13;23/11/2021;5;presencial;Union Libre
+265;373;72105;M;41;quito;Finanzas;$2886,0;2021-09-14;3;presencial;Soltero
+266;119;56472;F;40;GYE;Operaciones;$1828,66;2018-03-01;3;presencial;Soltero
+267;125;58368;F;51;UIO;Tecnologia;$3866,3;2021-12-09;5;hibrido;Casado
+268;855;51543;m;25;quito;Ventas;$3273,78;20/09/2016;3;presencial;Soltero
+269;333;56999;female;40;Guayaquil;Ventas;$2105,42;2020-11-18;4;remoto;Casado
+270;523;92625;m;37;Guayaquil;Tecnologia;$1680,72;2023-03-13;3;remoto;Casado
+271;128;86119;M;28;quito;Finanzas;$1558,57;23/07/2016;4;presencial;Union Libre
+272;827;16049;m;31;quito;Ventas;$3753,77;2021-06-23;4;presencial;Divorciado
+273;832;27942;M;29;UIO;RRHH;$1216,39;23/10/2017;3;presencial;Casado
+274;85;27815;m;21;Guayaquil;Tecnologia;$2082,62;03/11/2016;1;presencial;Soltero
+275;607;35969;female;34;guayaquil;Operaciones;$1302,76;03/01/2021;3;presencial;Union Libre
+276;917;11894;female;40;guayaquil;Ventas;$1181,43;2017-02-22;5;presencial;Divorciado
+277;7;32195;m;34;guayaquil;Finanzas;$2558,53;2023-02-03;4;presencial;Union Libre
+278;841;96154;m;45;Guayaquil;Tecnologia;$6927,03;2018-12-03;3;hibrido;Casado
+279;650;40981;m;51;UIO;Marketing;$1298,54;08/12/2020;3;presencial;Soltero
+280;825;18884;F;42;Guayaquil;Finanzas;$2810,08;Feb 04, 2019;4;presencial;Casado
+281;847;46612;F;46;Guayaquil;Tecnologia;$1997,13;Feb 25, 2022;4;remoto;Casado
+282;520;83291;m;32;guayaquil;Marketing;$1569,76;2020-11-01;4;presencial;Union Libre
+283;526;21488;female;35;UIO;Operaciones;$2779,48;25/10/2024;4;hibrido;Casado
+284;905;85826;m;30;Guayaquil;Tecnologia;$7393,57;2025-10-17;4;hibrido;Casado
+285;487;13809;F;21;guayaquil;Operaciones;$1031,2;Feb 09, 2020;3;hibrido;Soltero
+286;547;51826;m;40;Guayaquil;Operaciones;$3082,44;Apr 17, 2021;3;presencial;Union Libre
+287;152;10704;F;36;Guayaquil;Operaciones;$3408,76;2022-12-27;2;remoto;Soltero
+288;690;73522;m;32;quito;Operaciones;$2914,24;19/01/2017;4;presencial;Union Libre
+289;47;98723;female;38;guayaquil;Operaciones;$1616,4;2024-05-22;2;presencial;Casado
+290;780;39035;M;41;guayaquil;Tecnologia;$1759,83;2023-08-10;2;presencial;Casado
+291;512;24857;M;43;Guayaquil;Finanzas;$2565,95;24/03/2015;4;presencial;Casado
+292;420;64004;F;36;Guayaquil;Tecnologia;$2223,23;12/04/2025;3;presencial;Casado
+293;101;23548;m;39;quito;Finanzas;$2958,06;2019-11-05;3;remoto;Casado
+294;871;27874;F;39;UIO;Ventas;$1334,03;2015-10-29;3;presencial;Union Libre
+295;350;10492;F;35;UIO;Finanzas;$4227,67;28/04/2025;3;hibrido;Casado
+296;865;67228;female;39;UIO;Operaciones;$2589,97;2023-05-07;3;presencial;Casado
+297;899;96204;M;46;Guayaquil;RRHH;$2698,75;01/04/2022;3;presencial;Casado
+298;427;36530;F;45;guayaquil;Tecnologia;$1779,48;Jul 28, 2020;3;remoto;Casado
+299;25;58402;m;32;GYE;Operaciones;$3758,64;2016-10-12;4;presencial;Casado
+300;73;65249;F;54;UIO;Operaciones;$2505,76;28/11/2015;5;presencial;Casado
+301;247;34655;M;35;Guayaquil;Tecnologia;$4322,49;28/03/2023;4;hibrido;Union Libre
+302;950;52301;m;24;guayaquil;Ventas;$1914,26;2025-12-13;2;presencial;Union Libre
+303;32;53995;m;41;Guayaquil;Tecnologia;$4828,25;2023-12-25;3;remoto;Soltero
+304;114;51984;F;33;guayaquil;Finanzas;$4391,88;16/08/2016;3;remoto;Union Libre
+305;191;88864;F;48;UIO;Tecnologia;$2877,81;2018-04-14;4;hibrido;Casado
+306;941;98539;F;41;UIO;Operaciones;$907,58;Oct 19, 2023;5;presencial;Divorciado
+307;684;10439;M;26;UIO;Marketing;$1563,67;26/09/2025;4;presencial;Soltero
+308;881;79353;M;40;Guayaquil;Tecnologia;$7369,34;Jan 19, 2023;4;remoto;Casado
+309;782;90622;M;39;quito;Tecnologia;$5128,1;2015-06-09;4;remoto;Union Libre
+310;464;20952;F;33;guayaquil;Tecnologia;$3126,28;Jun 15, 2025;4;presencial;Casado
+311;776;98162;female;41;UIO;Operaciones;$1172,42;2024-08-19;4;presencial;Soltero
+312;789;91856;M;26;guayaquil;Tecnologia;$1238,91;2015-01-26;3;remoto;Soltero
+313;819;62846;female;36;Guayaquil;Tecnologia;$3081,21;2026-02-14;4;remoto;Casado
+314;188;85207;F;31;guayaquil;Finanzas;$2803,1;01/02/2016;3;presencial;Soltero
+315;295;41585;female;42;GYE;RRHH;$2260,0;16/07/2023;2;presencial;Casado
+316;943;80541;m;33;guayaquil;Tecnologia;$2947,85;2017-02-17;3;remoto;Soltero
+317;186;49833;m;30;guayaquil;Ventas;$2633,58;22/01/2023;3;presencial;Union Libre
+318;498;98862;m;33;Guayaquil;Operaciones;$806,9;25/05/2022;2;hibrido;Soltero
+319;581;90697;F;24;Guayaquil;Tecnologia;$3687,31;28/04/2019;3;remoto;Soltero
+320;86;38657;m;26;guayaquil;Tecnologia;$3682,55;Dec 20, 2025;4;hibrido;Soltero
+321;944;67597;M;37;GYE;Ventas;$2139,25;06/12/2020;5;hibrido;Soltero
+322;45;61076;female;35;Guayaquil;Tecnologia;$2244,64;2024-06-21;5;remoto;Casado
+323;330;11086;M;39;GYE;Operaciones;$2133,76;2017-12-08;4;presencial;Soltero
+324;371;24210;m;40;Guayaquil;Ventas;$1334,57;2025-01-21;5;presencial;Casado
+325;826;37107;M;45;Guayaquil;Tecnologia;$3603,38;Mar 13, 2016;5;remoto;Casado
+326;484;93980;female;22;GYE;Tecnologia;$4171,74;2022-05-03;5;hibrido;Soltero
+327;16;58962;m;49;quito;Operaciones;$1706,49;2021-12-16;3;remoto;Casado
+328;907;35778;M;35;quito;Tecnologia;$3270,53;2021-06-03;3;remoto;Union Libre
+329;623;23357;M;33;quito;Operaciones;$3085,42;2018-08-19;3;remoto;Casado
+330;632;50126;m;44;Guayaquil;Tecnologia;$6834,21;2015-08-14;1;hibrido;Divorciado
+331;549;50152;female;24;Guayaquil;RRHH;$1518,91;2015-12-03;3;presencial;Soltero
+332;809;96137;M;46;quito;Ventas;$1335,91;2021-08-14;5;presencial;Casado
+333;685;93679;M;41;guayaquil;Tecnologia;$2295,34;2020-03-03;4;presencial;Casado
+334;42;64179;m;43;guayaquil;Finanzas;$2943,23;2018-05-24;4;hibrido;Casado
+335;791;79291;m;51;guayaquil;RRHH;$2020,63;13/06/2022;4;presencial;Casado
+336;209;80558;m;33;UIO;Operaciones;$1117,87;2017-07-31;3;presencial;Casado
+337;677;69952;m;22;guayaquil;Operaciones;$1152,2;10/06/2021;1;hibrido;Union Libre
+338;578;25853;m;38;quito;Ventas;$1537,29;2017-05-21;5;presencial;Soltero
+339;434;35506;m;38;GYE;Ventas;$6235,87;08/01/2015;4;presencial;Union Libre
+340;620;19478;F;21;guayaquil;Finanzas;$700,0;2015-08-19;2;presencial;Union Libre
+341;733;92745;M;24;Guayaquil;Finanzas;$2510,62;Nov 16, 2022;5;hibrido;Soltero
+342;355;51199;female;39;GYE;Tecnologia;$4668,45;2021-03-09;4;remoto;Union Libre
+343;924;92499;F;30;Guayaquil;Finanzas;$1530,3;25/09/2018;2;presencial;Union Libre
+344;34;58692;F;36;UIO;Ventas;$1238,73;Dec 15, 2016;3;presencial;Union Libre
+345;550;17074;female;33;quito;Operaciones;$2262,92;2023-01-11;3;presencial;Soltero
+346;309;31889;M;40;UIO;Tecnologia;$4662,9;2018-05-07;5;remoto;Soltero
+347;770;88964;M;41;Guayaquil;Operaciones;$2541,13;11/03/2022;3;presencial;Soltero
+348;655;51254;F;34;Guayaquil;Marketing;$2070,75;Mar 12, 2020;3;presencial;Soltero
+349;638;37798;m;50;GYE;Finanzas;$3202,92;2015-04-19;5;presencial;Casado
+350;346;22269;M;45;quito;Marketing;$2040,28;2018-02-07;3;presencial;Casado
+351;466;89574;F;31;UIO;Ventas;$3655,87;2018-04-27;3;presencial;Union Libre
+352;68;81774;M;33;Guayaquil;Tecnologia;$4589,56;2022-02-09;4;remoto;Soltero
+353;264;75951;female;33;quito;Marketing;$1405,7;2022-05-10;5;presencial;Union Libre
+354;555;80255;F;34;Guayaquil;Tecnologia;$3232,07;2017-01-31;3;remoto;Union Libre
+355;499;15200;female;28;quito;Ventas;$2495,47;11/12/2025;3;presencial;Union Libre
+356;767;82007;F;39;UIO;Tecnologia;$6986,38;Sep 16, 2022;3;hibrido;Soltero
+357;177;81027;F;31;GYE;Ventas;$1240,61;2015-02-21;3;presencial;Casado
+358;561;99592;female;39;guayaquil;Operaciones;$1322,33;2024-02-09;4;hibrido;Soltero
+359;354;54179;female;33;quito;Tecnologia;$1415,38;2019-06-22;5;remoto;Casado
+360;717;83830;m;39;GYE;RRHH;$1405,82;Jun 22, 2025;3;presencial;Soltero
+361;359;30242;m;38;guayaquil;Ventas;$4443,89;05/10/2017;3;hibrido;Casado
+362;893;57787;m;33;Guayaquil;Ventas;$2992,14;2019-06-15;4;remoto;Casado
+363;724;40992;female;39;Guayaquil;Marketing;$1261,05;25/07/2020;4;presencial;Soltero
+364;517;42689;female;41;UIO;Marketing;$1952,56;2025-11-22;3;presencial;Casado
+365;344;49927;M;32;UIO;Tecnologia;$4101,64;2024-09-07;4;remoto;Soltero
+366;797;66143;m;38;GYE;Ventas;$3015,82;2021-01-05;4;hibrido;Casado
+367;415;43014;m;33;GYE;Ventas;$2581,67;2018-07-26;4;hibrido;Casado
+368;89;92206;m;39;Guayaquil;Finanzas;$2032,69;31/01/2018;3;presencial;Casado
+369;120;27570;F;32;UIO;Marketing;$3964,71;11/02/2022;4;remoto;Union Libre
+370;196;11743;F;38;quito;Tecnologia;$3062,56;2020-05-23;4;hibrido;Soltero
+371;689;45127;female;36;Guayaquil;Ventas;$8000,0;Feb 10, 2025;3;hibrido;Soltero
+372;611;34665;F;42;Guayaquil;Finanzas;$3531,28;2015-08-19;3;remoto;Union Libre
+373;315;80865;m;36;GYE;Tecnologia;$6112,45;2019-11-17;5;presencial;Soltero
+374;219;94639;M;42;Guayaquil;Marketing;$1791,96;2016-09-22;4;presencial;Union Libre
+375;584;32881;m;36;UIO;Finanzas;$3865,6;2025-01-16;4;presencial;Soltero
+376;714;81950;F;37;quito;Tecnologia;$4099,13;Mar 05, 2016;2;remoto;Casado
+377;212;69323;M;51;GYE;Ventas;$3588,03;2019-05-12;3;presencial;Divorciado
+378;536;18387;M;40;quito;Ventas;$1936,95;27/11/2020;3;hibrido;Casado
+379;852;50359;female;35;quito;Ventas;$964,92;15/06/2015;4;presencial;Soltero
+380;136;73830;female;42;GYE;Finanzas;$2814,61;2021-03-11;5;hibrido;Union Libre
+381;328;21852;F;30;quito;Operaciones;$1738,7;13/06/2023;3;presencial;Casado
+382;58;80158;m;42;quito;Finanzas;$1910,35;29/08/2020;3;remoto;Soltero
+383;488;14414;female;30;UIO;Tecnologia;$5385,59;09/04/2019;3;remoto;Soltero
+384;33;95459;M;28;Guayaquil;Tecnologia;$2323,94;2020-03-10;4;remoto;Union Libre
+385;394;24806;female;41;guayaquil;Ventas;$2720,89;2021-02-11;2;hibrido;Casado
+386;743;93780;female;39;quito;Finanzas;$4508,33;2016-01-04;3;presencial;Casado
+387;605;79930;female;41;guayaquil;Tecnologia;$2423,75;2018-08-15;3;hibrido;Divorciado
+388;775;13153;m;49;UIO;Tecnologia;$8000,0;2021-09-03;2;remoto;Casado
+389;839;69602;female;41;Guayaquil;Operaciones;$1709,62;2018-04-03;5;presencial;Casado
+390;432;45845;F;24;quito;Ventas;$1056,78;2023-11-19;4;presencial;Casado
+391;232;68994;m;39;quito;Finanzas;$4594,85;10/08/2017;3;presencial;Casado
+392;759;61379;F;40;quito;Operaciones;$3790,36;30/06/2022;4;presencial;Casado
+393;705;67257;M;36;GYE;RRHH;$1669,25;2023-05-11;4;presencial;Union Libre
+394;719;43507;m;28;guayaquil;Operaciones;$1988,32;2017-09-24;3;presencial;Soltero
+395;313;99074;F;44;guayaquil;Tecnologia;$4284,93;Mar 25, 2015;3;remoto;Union Libre
+396;331;86021;m;37;guayaquil;RRHH;$916,62;Jul 14, 2019;3;presencial;Union Libre
+397;318;92771;M;26;Guayaquil;Ventas;$2823,41;26/09/2019;3;presencial;Union Libre
+398;556;80082;M;38;UIO;Ventas;$2681,89;2016-03-13;4;presencial;Union Libre
+399;591;98106;m;38;guayaquil;Tecnologia;$2585,47;08/06/2024;3;remoto;Union Libre
+400;53;82659;female;41;UIO;Tecnologia;$4342,87;Aug 30, 2025;3;remoto;Casado
+401;696;42857;female;41;quito;Tecnologia;$2656,99;2021-02-25;3;remoto;Casado
+402;883;86461;m;22;Guayaquil;Tecnologia;$4845,03;22/03/2019;3;presencial;Union Libre
+403;13;86614;F;29;guayaquil;Tecnologia;$1100,53;10/05/2025;3;remoto;Union Libre
+404;27;94757;F;42;Guayaquil;Operaciones;$2769,42;26/08/2017;5;presencial;Soltero
+405;450;84794;M;44;guayaquil;Ventas;$1306,01;2020-05-12;3;presencial;Casado
+406;602;85861;M;30;Guayaquil;Operaciones;$1568,81;25/08/2015;2;presencial;Union Libre
+407;742;39457;F;46;guayaquil;Finanzas;$3247,44;2016-11-06;2;presencial;Casado
+408;753;63242;m;39;quito;Ventas;$2024,43;13/12/2022;4;presencial;Soltero
+409;65;44528;female;48;Guayaquil;Tecnologia;$3217,9;2019-05-09;4;hibrido;Divorciado
+410;565;89646;m;21;quito;Operaciones;$1251,82;2019-07-08;3;presencial;Soltero
+411;441;24715;M;47;quito;Tecnologia;$3890,86;2021-09-29;1;remoto;Casado
+412;857;93419;m;33;guayaquil;Tecnologia;$2435,69;14/02/2023;4;remoto;Divorciado
+413;567;90074;M;32;Guayaquil;Operaciones;$2820,17;May 31, 2023;3;presencial;Soltero
+414;66;63610;F;36;quito;Ventas;$4658,66;2021-01-09;2;presencial;Casado
+415;395;29976;M;26;guayaquil;Ventas;$1388,77;2018-11-18;2;hibrido;Casado
+416;533;95904;female;42;guayaquil;Tecnologia;$3040,67;28/05/2025;3;remoto;Casado
+417;461;85608;female;36;guayaquil;Tecnologia;$1829,51;2018-12-06;4;remoto;Soltero
+418;97;13716;female;37;guayaquil;Tecnologia;$3196,12;2018-04-02;3;remoto;Soltero
+419;493;17947;m;46;GYE;Tecnologia;$2140,12;2023-04-19;2;remoto;Soltero
+420;213;22531;m;24;UIO;Ventas;$2281,43;19/03/2024;4;presencial;Soltero
+421;294;95304;M;32;quito;Finanzas;$4597,57;2024-08-09;2;hibrido;Union Libre
+422;365;61500;female;30;quito;Operaciones;$2192,04;2021-01-12;4;presencial;Soltero
+423;150;94067;M;48;guayaquil;Operaciones;$2858,58;2019-08-25;3;hibrido;Casado
+424;474;12246;m;32;UIO;Tecnologia;$4285,19;2015-11-09;5;presencial;Union Libre
+425;206;38748;M;27;guayaquil;Ventas;$3383,51;20/11/2020;4;hibrido;Soltero
+426;890;75324;female;31;GYE;Tecnologia;$3898,1;2023-09-30;4;remoto;Casado
+427;11;47643;m;43;Guayaquil;Marketing;$1674,58;02/06/2017;3;presencial;Soltero
+428;79;68428;F;40;quito;Operaciones;$3571,34;15/04/2018;3;presencial;Casado
+429;595;35099;M;39;Guayaquil;Tecnologia;$1813,54;2017-05-12;3;remoto;Casado
+430;457;17736;F;26;guayaquil;RRHH;$1547,78;2015-09-16;1;hibrido;Union Libre
+431;648;19429;m;34;GYE;Tecnologia;$2413,82;2025-02-22;2;remoto;Casado
+432;849;87335;female;26;guayaquil;RRHH;$1882,66;2021-02-17;4;presencial;Soltero
+433;21;42424;M;33;Guayaquil;Marketing;$2150,92;2020-02-21;4;presencial;Casado
+434;769;51495;M;30;Guayaquil;Marketing;$1073,88;2025-08-20;5;presencial;Divorciado
+435;781;56888;female;42;UIO;Finanzas;$2276,0;25/07/2023;2;presencial;Casado
+436;324;62481;m;38;Guayaquil;Ventas;$1544,52;2019-05-28;5;remoto;Casado
+437;424;48821;M;44;Guayaquil;Ventas;$4782,69;2021-10-25;3;presencial;Soltero
+438;511;21264;m;51;quito;Tecnologia;$3052,97;2023-12-19;1;hibrido;Casado
+439;468;83867;F;29;guayaquil;Tecnologia;$6549,14;2019-03-11;4;remoto;Casado
+440;653;80428;m;33;Guayaquil;Operaciones;$1888,5;2017-01-06;3;hibrido;Soltero
+441;225;69166;M;32;guayaquil;Tecnologia;$2001,56;14/03/2022;4;remoto;Union Libre
+442;566;30438;female;31;guayaquil;Ventas;$923,44;Jan 05, 2017;3;hibrido;Soltero
+443;822;49950;F;32;quito;Marketing;$1864,73;19/07/2018;4;presencial;Soltero
+444;490;53081;M;49;quito;Operaciones;$3202,61;30/05/2021;4;hibrido;Divorciado
+445;181;23265;M;36;guayaquil;Operaciones;$2291,04;2024-12-01;2;presencial;Casado
+446;269;98620;M;34;guayaquil;Ventas;$2748,16;2022-08-30;5;hibrido;Union Libre
+447;246;43981;female;37;Guayaquil;Ventas;$1859,84;13/11/2016;4;presencial;Soltero
+448;129;94077;m;43;UIO;Ventas;$1628,28;Dec 08, 2020;4;presencial;Union Libre
+449;385;24832;m;23;Guayaquil;Operaciones;$1506,25;22/08/2015;2;presencial;Union Libre
+450;530;54377;m;24;guayaquil;RRHH;$752,53;13/03/2023;4;hibrido;Soltero
+451;480;90663;F;44;quito;Ventas;$3031,73;2017-01-03;4;hibrido;Soltero
+452;665;49083;M;30;GYE;Finanzas;$1473,36;2018-01-06;2;presencial;Soltero
+453;305;25590;F;27;GYE;Operaciones;$1569,26;2015-07-14;2;presencial;Soltero
+454;380;48459;M;44;guayaquil;Marketing;$5201,51;08/08/2024;5;presencial;Casado
+455;82;62779;female;28;GYE;Operaciones;$891,17;2022-11-14;5;presencial;Union Libre
+456;538;92977;m;31;GYE;Finanzas;$1718,16;13/10/2017;2;presencial;Soltero
+457;739;12606;female;35;guayaquil;RRHH;$2302,83;2018-06-13;5;presencial;Casado
+458;903;13610;F;26;quito;Finanzas;$1883,96;2017-03-23;5;presencial;Soltero
+459;342;39623;M;36;quito;Finanzas;$2815,58;11/04/2025;1;presencial;Soltero
+460;785;21026;female;22;GYE;RRHH;$2615,5;Sep 23, 2016;3;presencial;Soltero
+461;299;47130;m;43;guayaquil;Ventas;$3449,41;29/04/2015;4;presencial;Casado
+462;519;93702;F;33;quito;Tecnologia;$2131,64;Aug 07, 2015;3;remoto;Casado
+463;856;59368;m;47;UIO;Operaciones;$2494,56;2025-10-22;3;presencial;Soltero
+464;454;25053;M;40;Guayaquil;Operaciones;$1286,92;27/09/2021;3;presencial;Union Libre
+465;796;46359;F;28;guayaquil;Operaciones;$2119,99;06/03/2024;3;hibrido;Soltero
+466;628;47313;female;37;guayaquil;Finanzas;$2993,54;31/03/2019;5;presencial;Soltero
+467;185;56942;M;38;guayaquil;Finanzas;$3941,67;2023-05-15;3;presencial;Soltero
+468;937;18992;F;41;GYE;RRHH;$859,67;10/11/2015;4;hibrido;Divorciado
+469;914;18406;F;40;UIO;Tecnologia;$1963,93;27/07/2022;1;hibrido;Union Libre
+470;535;69264;female;38;quito;Tecnologia;$2620,97;2015-08-27;2;remoto;Casado
+471;842;36792;F;31;guayaquil;Tecnologia;$4323,88;2016-03-14;1;remoto;Casado
+472;604;11246;female;40;quito;Ventas;$3550,5;2019-06-29;3;presencial;Soltero
+473;631;77722;M;35;quito;Ventas;$2836,83;2022-03-30;4;presencial;Soltero
+474;710;20531;F;34;Guayaquil;Tecnologia;$2703,98;04/01/2019;5;hibrido;Casado
+475;641;19470;F;47;Guayaquil;Operaciones;$2425,37;19/08/2021;4;presencial;Casado
+476;543;58702;m;33;GYE;Tecnologia;$3355,15;2019-06-17;4;hibrido;Soltero
+477;532;28122;m;37;guayaquil;Tecnologia;$8000,0;01/04/2018;3;remoto;Union Libre
+478;901;69062;m;35;GYE;Ventas;$2995,7;Mar 18, 2015;3;presencial;Casado
+479;576;52043;M;36;GYE;Operaciones;$2020,01;2022-02-07;3;presencial;Union Libre
+480;553;22872;female;42;guayaquil;Tecnologia;$3682,32;Feb 01, 2020;3;remoto;Soltero
+481;316;84238;female;42;Guayaquil;Tecnologia;$3007,2;2024-02-13;4;hibrido;Casado
+482;858;78693;m;46;Guayaquil;Ventas;$2076,5;2022-05-23;4;presencial;Soltero
+483;279;25645;m;30;UIO;Tecnologia;$2555,84;Jun 15, 2022;4;hibrido;Soltero
+484;524;74393;M;44;quito;Ventas;$5259,87;21/09/2017;3;hibrido;Union Libre
+485;211;57523;female;41;quito;Tecnologia;$3522,03;2025-12-03;3;remoto;Union Libre
+486;599;55300;m;32;guayaquil;Tecnologia;$2886,75;2016-10-06;3;hibrido;Union Libre
+487;848;35512;F;38;Guayaquil;Ventas;$1030,37;2020-12-09;4;presencial;Casado
+488;806;14643;F;33;GYE;Operaciones;$1355,18;2017-07-05;4;hibrido;Union Libre
+489;81;78220;M;31;quito;Tecnologia;$2571,46;10/09/2017;3;remoto;Divorciado
+490;0;68929;m;47;UIO;Operaciones;$2914,79;2024-11-16;4;presencial;Union Libre
+491;287;74912;m;23;Guayaquil;Tecnologia;$3467,08;09/01/2017;3;remoto;Union Libre
+492;495;78839;F;44;Guayaquil;Finanzas;$1919,95;2015-06-05;3;hibrido;Soltero
+493;43;35636;female;29;Guayaquil;Tecnologia;$1548,02;25/03/2025;3;remoto;Soltero
+494;731;52956;female;36;quito;Finanzas;$2210,12;2019-09-17;3;presencial;Union Libre
+495;366;31446;m;54;GYE;Tecnologia;$3013,0;18/05/2021;3;remoto;Casado
+496;402;95178;M;37;quito;RRHH;$701,31;14/09/2016;3;hibrido;Soltero
+497;281;71181;M;38;guayaquil;Marketing;$969,38;22/01/2022;3;presencial;Casado
+498;243;79090;female;39;GYE;Ventas;$1959,28;03/04/2025;5;hibrido;Soltero
+499;41;72410;F;43;Guayaquil;Operaciones;$3439,3;Jul 08, 2018;3;presencial;Divorciado
+500;91;12153;F;43;Guayaquil;Finanzas;$2441,53;16/06/2020;3;presencial;Casado
+501;238;19112;female;30;Guayaquil;Finanzas;$1976,52;2015-02-11;3;remoto;Union Libre
+502;760;19234;M;30;guayaquil;Marketing;$700,0;Aug 03, 2024;5;presencial;Casado
+503;736;30223;m;39;GYE;Operaciones;$2847,66;17/09/2019;3;presencial;Soltero
+504;92;71013;F;42;guayaquil;Ventas;$4263,47;Oct 29, 2020;1;presencial;Union Libre
+505;389;82150;m;39;guayaquil;Finanzas;$1950,1;2019-09-01;3;presencial;Soltero
+506;49;13903;M;37;UIO;Operaciones;$1290,52;2024-07-08;4;presencial;Soltero
+507;761;65122;F;27;UIO;Finanzas;$3682,68;2020-10-29;3;presencial;Soltero
+508;672;42289;m;26;Guayaquil;Marketing;$1441,91;2022-11-27;3;presencial;Union Libre
+509;167;95102;m;37;Guayaquil;Tecnologia;$3099,18;2017-06-22;1;remoto;Soltero
+510;748;22329;female;42;quito;Marketing;$2358,52;2024-02-17;3;hibrido;Casado
+511;812;14902;m;26;Guayaquil;Marketing;$1272,74;Jul 30, 2020;2;hibrido;Union Libre
+512;527;24828;m;31;UIO;Tecnologia;$3587,48;2020-06-23;4;remoto;Soltero
+513;688;79877;female;45;guayaquil;Marketing;$2489,28;11/05/2017;3;hibrido;Soltero
+514;875;16803;m;24;guayaquil;Operaciones;$2491,43;02/04/2016;4;remoto;Union Libre
+515;949;14657;F;32;GYE;Tecnologia;$3989,68;07/10/2024;2;remoto;Union Libre
+516;509;22490;female;37;guayaquil;Ventas;$1304,07;11/04/2019;4;hibrido;Soltero
+517;729;34292;F;41;UIO;Tecnologia;$3559,46;2018-04-07;5;hibrido;Soltero
+518;221;34986;M;33;quito;Operaciones;$1812,3;2021-07-07;4;presencial;Casado
+519;916;66282;M;35;guayaquil;Finanzas;$3072,14;2020-04-20;3;presencial;Union Libre
+520;74;72450;M;28;quito;Tecnologia;$1873,85;2025-03-16;4;remoto;Divorciado
+521;376;76256;female;29;quito;Ventas;$3629,36;23/01/2015;3;remoto;Soltero
+522;718;64931;female;40;quito;Tecnologia;$2711,23;2022-05-02;4;remoto;Soltero
+523;445;45578;female;40;quito;RRHH;$1782,61;2015-09-04;2;hibrido;Casado
+524;116;58585;female;45;Guayaquil;Marketing;$1628,21;2015-03-25;5;presencial;Casado
+525;377;77028;m;31;quito;Ventas;$4284,32;2020-03-27;3;presencial;Soltero
+526;713;54665;F;27;guayaquil;Tecnologia;$4116,69;04/04/2020;5;remoto;Casado
+527;59;22887;F;43;quito;Tecnologia;$3015,97;31/05/2015;3;hibrido;Casado
+528;578;25853;m;38;quito;Ventas;$1537,29;2017-05-21;5;presencial;Soltero
+529;906;32349;M;31;quito;Ventas;$927,2;19/01/2015;4;presencial;Soltero
+530;310;69276;m;28;quito;Operaciones;$913,07;Oct 24, 2016;5;hibrido;Soltero
+531;803;33169;M;39;guayaquil;Ventas;$725,0;Aug 29, 2018;4;hibrido;Casado
+532;851;21727;M;48;quito;Operaciones;$3356,03;2022-12-26;4;presencial;Casado
+533;452;49708;M;38;GYE;Tecnologia;$8000,0;2019-02-17;4;hibrido;Union Libre
+534;1;67346;M;35;guayaquil;Tecnologia;$2336,22;17/07/2023;4;hibrido;Casado
+535;271;69046;F;37;quito;Ventas;$1918,92;2023-01-31;4;hibrido;Soltero
+536;265;56911;M;27;guayaquil;Marketing;$1159,93;2025-12-03;4;presencial;Soltero
+537;319;47287;F;30;UIO;RRHH;$2245,93;06/02/2020;2;presencial;Divorciado
+538;291;82193;M;28;guayaquil;Tecnologia;$4002,91;2026-01-19;3;remoto;Soltero
+539;61;83714;M;47;GYE;Ventas;$1857,78;Nov 30, 2020;3;presencial;Casado
+540;859;89722;m;36;guayaquil;Operaciones;$1850,26;2022-10-10;3;hibrido;Soltero
+541;444;54185;m;32;quito;Operaciones;$1738,41;2015-02-02;3;presencial;Soltero
+542;80;14500;female;22;guayaquil;Tecnologia;$4305,64;2017-08-16;5;hibrido;Soltero
+543;222;55081;F;33;UIO;Finanzas;$5040,84;Dec 01, 2025;2;presencial;Divorciado
+544;214;22906;F;34;Guayaquil;Ventas;$2212,54;2017-01-12;2;presencial;Soltero
+545;783;47022;female;35;guayaquil;Marketing;$1414,67;28/03/2015;4;hibrido;Union Libre
+546;325;90360;M;42;GYE;Tecnologia;$5160,96;28/01/2022;1;hibrido;Union Libre
+547;834;23761;F;36;Guayaquil;Tecnologia;$2710,96;2018-08-20;3;remoto;Soltero
+548;282;66656;female;24;guayaquil;Marketing;$1691,69;2021-10-16;5;presencial;Casado
+549;270;22532;m;45;UIO;RRHH;$823,29;2017-07-29;4;presencial;Soltero
+550;610;38549;F;39;GYE;Marketing;$1828,79;2022-08-29;2;presencial;Union Libre
+551;614;16314;M;25;quito;Operaciones;$1858,06;Jun 30, 2017;5;presencial;Soltero
+552;630;55369;m;36;GYE;RRHH;$718,0;02/01/2022;3;presencial;Casado
+553;304;53055;female;50;guayaquil;Finanzas;$1755,47;2020-02-03;2;presencial;Union Libre
+554;137;69699;m;38;Guayaquil;Tecnologia;$4675,43;2019-12-18;3;remoto;Soltero
+555;276;93560;M;38;quito;Finanzas;$1808,12;Apr 09, 2015;4;presencial;Soltero
+556;926;79510;m;42;quito;Operaciones;$2701,07;2020-02-11;2;presencial;Divorciado
+557;122;38661;F;36;guayaquil;Ventas;$1172,34;20/10/2020;5;hibrido;Casado
+558;340;18666;F;41;Guayaquil;Tecnologia;$2865,12;Jan 28, 2026;4;remoto;Soltero
+559;102;40574;M;35;Guayaquil;Ventas;$795,45;03/11/2020;4;presencial;Soltero
+560;662;83289;m;51;GYE;Ventas;$2095,97;2020-01-23;4;presencial;Casado
+561;374;63275;female;31;guayaquil;Finanzas;$4506,41;26/07/2016;4;hibrido;Union Libre
+562;3;80010;F;32;GYE;Ventas;$1188,48;10/08/2019;4;presencial;Union Libre
+563;99;21793;F;34;quito;Tecnologia;$2328,62;2024-12-21;4;remoto;Union Libre
+564;676;78740;M;46;Guayaquil;Ventas;$2815,5;2015-02-05;4;presencial;Divorciado
+565;800;18447;M;36;Guayaquil;RRHH;$828,2;11/11/2023;4;presencial;Union Libre
+566;704;93583;m;47;quito;Tecnologia;$5632,15;27/05/2015;3;hibrido;Casado
+567;942;89770;M;54;guayaquil;Operaciones;$1621,74;Dec 30, 2016;5;presencial;Soltero
+568;37;58076;M;50;guayaquil;RRHH;$2214,36;05/03/2024;4;presencial;Casado
+569;870;86325;m;36;guayaquil;RRHH;$1811,08;21/07/2020;4;hibrido;Union Libre
+570;93;50742;m;45;UIO;Ventas;$2171,04;2015-04-19;3;presencial;Union Libre
+571;910;20184;female;36;GYE;RRHH;$1788,36;Jan 22, 2024;3;presencial;Union Libre
+572;369;46220;m;31;UIO;Ventas;$3235,46;2025-05-26;3;presencial;Casado
+573;779;58700;female;42;Guayaquil;Tecnologia;$3676,03;19/04/2021;3;remoto;Casado
+574;98;67352;m;33;Guayaquil;Finanzas;$1733,65;Jul 03, 2022;3;presencial;Soltero
+575;880;96217;female;40;Guayaquil;Marketing;$1956,67;13/01/2018;3;presencial;Casado
+576;548;85038;female;28;UIO;Tecnologia;$3574,3;13/04/2023;4;remoto;Soltero
+577;554;92227;m;25;guayaquil;RRHH;$874,28;26/08/2023;3;presencial;Soltero
+578;223;96505;M;37;UIO;Tecnologia;$2813,83;2017-03-27;2;remoto;Union Libre
+579;626;95525;female;37;Guayaquil;Ventas;$1620,1;Jun 17, 2018;3;presencial;Soltero
+580;448;34708;M;43;guayaquil;Finanzas;$2782,79;2025-12-29;5;presencial;Divorciado
+581;854;83134;female;34;quito;Ventas;$929,16;2016-01-24;4;presencial;Casado
+582;159;96324;M;45;Guayaquil;Ventas;$8000,0;2016-10-04;2;presencial;Casado
+583;262;26885;m;29;guayaquil;Operaciones;$1883,54;2025-07-23;5;presencial;Union Libre
+584;240;29711;m;35;quito;Tecnologia;$1866,7;16/10/2015;4;remoto;Soltero
+585;593;74748;m;31;guayaquil;Ventas;$4334,68;2021-01-28;3;presencial;Casado
+586;874;17540;m;35;Guayaquil;Tecnologia;$6432,53;2024-10-06;1;remoto;Union Libre
+587;121;30829;M;50;Guayaquil;Operaciones;$1557,07;Nov 23, 2016;4;remoto;Casado
+588;363;47305;M;35;quito;Finanzas;$2320,3;21/04/2016;3;presencial;Casado
+589;686;60312;F;21;GYE;Tecnologia;$4157,21;2021-08-13;5;presencial;Soltero
+590;403;31307;F;27;guayaquil;Marketing;$1524,32;02/07/2018;3;presencial;Casado
+591;88;32016;M;30;guayaquil;RRHH;$1525,84;2025-08-11;3;remoto;Soltero
+592;946;90086;m;32;GYE;RRHH;$2210,28;2023-01-15;4;remoto;Soltero
+593;190;76788;female;35;Guayaquil;Ventas;$1026,32;2025-02-27;3;presencial;Casado
+594;732;67082;m;34;quito;Tecnologia;$2719,26;19/04/2025;5;remoto;Casado
+595;288;15961;M;27;Guayaquil;Operaciones;$2307,47;Aug 16, 2016;2;presencial;Soltero
+596;702;60763;M;34;quito;Finanzas;$2111,37;18/03/2019;4;presencial;Soltero
+597;619;68026;m;36;Guayaquil;Operaciones;$1327,74;08/04/2017;4;remoto;Soltero
+598;210;14782;F;45;guayaquil;Finanzas;$2440,76;2022-09-05;3;presencial;Casado
+599;846;13250;M;34;UIO;Operaciones;$1875,61;2017-04-11;3;presencial;Soltero
+600;322;36536;female;48;guayaquil;Tecnologia;$3287,45;11/05/2025;4;hibrido;Divorciado
+601;823;90949;female;33;UIO;Operaciones;$2495,86;2024-04-24;5;presencial;Soltero
+602;720;92445;F;40;quito;Ventas;$2452,58;2021-10-25;5;hibrido;Casado
+603;127;14015;female;50;GYE;Operaciones;$1162,7;May 15, 2017;2;presencial;Union Libre
+604;571;25806;female;21;UIO;RRHH;$1743,34;2023-01-23;4;presencial;Casado
+605;204;32398;m;32;guayaquil;RRHH;$1146,81;06/01/2021;3;presencial;Soltero
+606;634;69223;female;54;guayaquil;Tecnologia;$4211,41;Oct 03, 2025;2;hibrido;Union Libre
+607;539;34340;M;34;Guayaquil;RRHH;$1721,75;2025-09-08;3;presencial;Union Libre
+608;940;12853;F;30;guayaquil;Finanzas;$3131,62;25/11/2021;3;hibrido;Soltero
+609;40;52582;F;29;Guayaquil;Tecnologia;$2165,75;2019-01-05;3;remoto;Soltero
+610;469;93809;F;33;guayaquil;Tecnologia;$2849,33;Nov 23, 2023;4;hibrido;Soltero
+611;351;66766;female;54;quito;Finanzas;$3267,91;2021-03-03;3;presencial;Casado
+612;187;21639;M;35;Guayaquil;RRHH;$3191,44;2020-01-29;4;presencial;Soltero
+613;947;81406;M;48;Guayaquil;Marketing;$3041,41;2022-06-12;2;hibrido;Divorciado
+614;321;81354;M;45;Guayaquil;Operaciones;$1375,96;2022-11-14;3;presencial;Soltero
+615;421;84259;M;36;quito;Tecnologia;$2468,73;13/10/2022;5;hibrido;Casado
+616;412;86402;M;34;UIO;Tecnologia;$3219,25;2018-02-10;4;hibrido;Casado
+617;458;27454;female;43;quito;Tecnologia;$1956,15;03/09/2017;4;remoto;Divorciado
+618;76;18604;m;40;GYE;Marketing;$2373,49;12/12/2018;4;presencial;Divorciado
+619;703;31215;F;38;Guayaquil;Tecnologia;$3805,06;2015-02-25;3;remoto;Soltero
+620;734;95211;M;29;guayaquil;Operaciones;$1092,53;24/08/2015;5;presencial;Soltero
+621;763;67585;m;23;Guayaquil;Ventas;$2371,84;2018-02-09;3;presencial;Soltero
+622;544;21578;F;36;guayaquil;Operaciones;$1368,5;12/12/2015;3;hibrido;Soltero
+623;300;91987;m;45;UIO;Operaciones;$2906,82;2020-07-27;4;presencial;Casado
+624;349;12908;m;51;UIO;Tecnologia;$6650,49;2020-08-03;3;remoto;Union Libre
+625;587;63618;female;34;quito;Tecnologia;$3981,49;2024-04-09;1;remoto;Soltero
+626;182;74421;female;36;guayaquil;Operaciones;$2309,55;2023-08-09;3;presencial;Soltero
+627;397;48580;m;31;quito;Operaciones;$1754,09;2024-06-09;4;presencial;Casado
+628;722;21410;m;31;Guayaquil;Finanzas;$1275,23;2020-10-07;5;presencial;Soltero
+629;506;11931;M;39;quito;Ventas;$3290,35;Aug 22, 2025;4;remoto;Casado
+630;360;76094;F;38;GYE;Tecnologia;$2344,01;2022-10-17;4;presencial;Soltero
+631;87;34063;M;32;guayaquil;Ventas;$967,0;Sep 16, 2024;2;presencial;Casado
+632;207;88225;M;53;Guayaquil;Ventas;$3051,12;May 12, 2023;2;remoto;Casado
+633;392;64702;F;31;Guayaquil;Tecnologia;$1689,95;2015-08-24;5;remoto;Casado
+634;501;74013;female;38;UIO;Tecnologia;$2577,43;2019-08-11;5;hibrido;Union Libre
+635;200;35850;female;41;GYE;Tecnologia;$1833,92;2018-11-06;5;remoto;Union Libre
+636;147;34301;F;47;guayaquil;Tecnologia;$3682,46;2015-04-02;4;hibrido;Casado
+637;913;37314;female;30;Guayaquil;Ventas;$1753,22;2018-05-31;5;remoto;Casado
+638;31;85257;female;38;Guayaquil;Tecnologia;$2955,73;2015-03-14;4;remoto;Casado
+639;884;93004;m;26;guayaquil;Tecnologia;$2947,31;08/11/2022;3;hibrido;Soltero
+640;158;40007;m;41;Guayaquil;Ventas;$2313,33;2016-08-11;3;presencial;Casado
+641;245;21608;m;40;Guayaquil;Finanzas;$3363,34;2015-05-13;3;presencial;Union Libre
+642;55;96665;F;28;guayaquil;Ventas;$3741,29;May 06, 2025;3;presencial;Soltero
+643;339;66133;M;39;guayaquil;Marketing;$875,93;03/08/2025;1;presencial;Soltero
+644;233;86250;m;30;quito;Tecnologia;$2812,53;2018-03-16;4;remoto;Soltero
+645;678;55496;M;47;Guayaquil;Tecnologia;$5208,56;2016-11-23;4;remoto;Union Libre
+646;20;20810;M;31;Guayaquil;Operaciones;$1818,67;2017-01-26;3;presencial;Soltero
+647;372;65589;female;40;guayaquil;Tecnologia;$3179,76;23/03/2018;4;hibrido;Soltero
+648;345;11309;m;28;Guayaquil;Ventas;$2704,31;Jan 31, 2021;4;remoto;Soltero
+649;143;72710;F;44;guayaquil;Ventas;$1924,45;Feb 12, 2015;3;presencial;Casado
+650;756;56393;M;48;UIO;Ventas;$2143,71;Dec 24, 2018;4;presencial;Casado
+651;135;76089;F;43;guayaquil;Marketing;$1023,87;Jan 24, 2026;4;presencial;Casado
+652;768;71793;female;40;Guayaquil;Tecnologia;$1310,3;13/05/2016;5;remoto;Casado
+653;440;37113;female;33;quito;Operaciones;$1228,17;2015-12-17;5;presencial;Union Libre
+654;861;96697;F;38;quito;Tecnologia;$2055,47;2017-05-16;4;presencial;Casado
+655;707;46682;M;44;GYE;Tecnologia;$2027,05;2019-07-30;4;remoto;Casado
+656;503;86078;M;40;UIO;Tecnologia;$4983,77;2021-11-18;2;remoto;Divorciado
+657;603;38659;M;28;UIO;Tecnologia;$2520,09;26/12/2016;3;remoto;Soltero
+658;379;75114;F;27;Guayaquil;Finanzas;$2867,68;26/01/2023;4;hibrido;Union Libre
+659;57;79913;female;31;guayaquil;Operaciones;$1232,96;26/02/2016;4;hibrido;Soltero
+660;398;64472;m;33;guayaquil;Ventas;$2151,37;2020-03-04;4;presencial;Soltero
+661;563;83145;female;30;UIO;Operaciones;$3018,03;14/07/2018;5;presencial;Soltero
+662;845;10474;F;26;guayaquil;Tecnologia;$2326,58;2020-06-22;4;hibrido;Soltero
+663;381;58873;female;41;GYE;Operaciones;$2291,85;2020-07-09;3;presencial;Divorciado
+664;286;86543;M;36;quito;Operaciones;$1466,99;Jan 21, 2023;4;presencial;Soltero
+665;302;75780;F;43;UIO;Ventas;$1518,46;2017-03-24;5;hibrido;Divorciado
+666;154;76240;female;35;guayaquil;Ventas;$2360,83;Aug 01, 2015;3;presencial;Casado
+667;582;55154;female;25;guayaquil;Finanzas;$6187,97;May 28, 2017;4;hibrido;Soltero
+668;455;92593;female;39;Guayaquil;Marketing;$3015,5;2025-02-10;3;presencial;Casado
+669;670;77456;m;37;quito;Finanzas;$2778,06;Nov 24, 2022;5;presencial;Casado
+670;744;44031;female;40;Guayaquil;Operaciones;$918,44;15/04/2025;5;presencial;Soltero
+671;740;79032;female;48;Guayaquil;Tecnologia;$3655,66;2023-09-30;4;hibrido;Casado
+672;130;24384;F;31;guayaquil;Finanzas;$2218,5;21/08/2015;4;hibrido;Soltero
+673;28;18595;m;42;UIO;Tecnologia;$2953,46;08/11/2019;3;remoto;Casado
+674;802;26154;female;50;Guayaquil;Tecnologia;$5331,91;2022-09-16;1;remoto;Divorciado
+675;408;66019;m;44;Guayaquil;Tecnologia;$2234,31;13/04/2016;3;hibrido;Casado
+676;585;70626;female;31;GYE;Ventas;$2017,21;18/11/2021;3;presencial;Casado
+677;155;17746;M;38;Guayaquil;Operaciones;$700,0;2015-12-29;3;presencial;Soltero
+678;100;53829;m;30;Guayaquil;Marketing;$1493,68;09/10/2022;3;presencial;Soltero
+679;824;63764;female;22;GYE;Ventas;$3696,46;2024-07-22;2;presencial;Soltero
+680;900;28158;F;41;Guayaquil;Tecnologia;$1945,56;2017-09-06;3;hibrido;Soltero
+681;494;78468;F;30;GYE;Tecnologia;$1944,23;2023-12-09;2;remoto;Soltero
+682;654;58503;M;44;quito;Tecnologia;$2802,12;2019-04-17;5;presencial;Union Libre
+683;393;76068;F;40;GYE;Operaciones;$2499,26;18/01/2025;2;presencial;Casado
+684;326;61937;M;31;Guayaquil;Ventas;$2369,29;Jan 06, 2019;4;remoto;Casado
+685;202;35298;m;36;guayaquil;Marketing;$1527,9;02/02/2023;3;presencial;Soltero
+686;414;92983;F;39;Guayaquil;RRHH;$1677,27;01/06/2018;3;presencial;Divorciado
+687;387;35703;F;37;Guayaquil;Tecnologia;$3044,16;25/07/2015;4;remoto;Divorciado
+688;357;65796;M;35;quito;Operaciones;$1102,59;2016-10-20;5;presencial;Soltero
+689;558;19628;female;40;Guayaquil;Ventas;$1441,07;2016-04-25;4;presencial;Casado
+690;2;48795;m;30;GYE;Tecnologia;$2575,0;2025-11-13;4;hibrido;Union Libre
+691;178;32428;F;51;guayaquil;Operaciones;$3004,03;Aug 17, 2018;5;hibrido;Casado
+692;314;79617;F;35;Guayaquil;Marketing;$1419,98;Jul 13, 2024;3;presencial;Divorciado
+693;236;44540;female;42;guayaquil;RRHH;$3259,85;2019-11-14;3;hibrido;Soltero
+694;95;26808;M;38;quito;Operaciones;$1017,69;2015-06-07;2;presencial;Union Libre
+695;166;18034;F;40;GYE;Ventas;$1111,99;2022-12-07;4;presencial;Union Libre
+696;534;61193;m;43;UIO;Marketing;$3300,66;2020-01-14;3;remoto;Casado
+697;821;76231;F;30;Guayaquil;RRHH;$2995,51;2020-08-19;4;presencial;Casado
+698;579;93895;M;37;Guayaquil;Operaciones;$1096,46;Aug 29, 2021;3;presencial;Casado
+699;157;46504;F;39;Guayaquil;Tecnologia;$2422,9;Sep 16, 2021;3;remoto;Casado
+700;711;56519;female;46;guayaquil;Tecnologia;$5444,77;16/05/2023;3;remoto;Casado
+701;573;84332;F;29;UIO;Ventas;$3665,61;21/04/2016;4;hibrido;Soltero
+702;449;31116;m;27;quito;Tecnologia;$2697,19;2015-04-28;4;hibrido;Soltero
+703;69;49812;female;29;guayaquil;Tecnologia;$6102,33;15/07/2020;4;remoto;Soltero
+704;51;55810;m;44;Guayaquil;Marketing;$1312,68;2024-02-03;3;presencial;Union Libre
+705;399;81737;female;26;Guayaquil;Operaciones;$1524,35;2017-09-25;2;presencial;Soltero
+706;17;96592;female;22;guayaquil;Tecnologia;$2790,03;2020-01-24;3;remoto;Soltero
+707;633;84059;female;29;guayaquil;Marketing;$1465,49;2018-10-05;3;presencial;Soltero
+708;388;35090;m;41;UIO;Tecnologia;$3595,12;2017-01-24;5;remoto;Casado
+709;934;85924;m;35;UIO;Ventas;$2405,78;2015-03-04;3;presencial;Casado
+710;162;20226;F;34;quito;Marketing;$4659,72;2016-05-02;3;presencial;Soltero
+711;164;23590;m;21;GYE;Operaciones;$2184,05;26/10/2015;2;remoto;Soltero
+712;598;50820;M;24;Guayaquil;Finanzas;$1895,36;2015-03-13;4;presencial;Union Libre
+713;459;31195;F;37;Guayaquil;Tecnologia;$1952,83;2018-01-21;2;remoto;Union Libre
+714;728;66603;F;36;quito;Ventas;$2802,53;2020-07-26;1;presencial;Casado
+715;430;31645;m;47;quito;Tecnologia;$3020,02;24/07/2024;5;hibrido;Union Libre
+716;104;50115;F;31;guayaquil;Finanzas;$3304,14;2016-08-23;5;presencial;Soltero
+717;197;18128;M;48;quito;Ventas;$2694,68;2017-07-21;4;hibrido;Casado
+718;867;23748;m;50;UIO;Ventas;$2283,36;19/11/2023;5;presencial;Casado
+719;215;85030;F;33;UIO;RRHH;$1427,24;2021-05-03;3;presencial;Union Libre
+720;443;22465;F;43;guayaquil;Operaciones;$1139,22;2015-12-19;5;hibrido;Casado
+721;829;42957;M;34;Guayaquil;Operaciones;$914,56;23/05/2025;5;presencial;Union Libre
+722;361;15481;F;29;Guayaquil;Tecnologia;$6103,92;2020-02-14;3;remoto;Soltero
+723;437;43413;F;36;Guayaquil;Finanzas;$5841,2;2017-09-01;4;presencial;Soltero
+724;645;46437;M;40;GYE;Ventas;$2294,68;Apr 03, 2023;3;presencial;Divorciado
+725;312;58852;female;42;Guayaquil;RRHH;$1856,55;2022-06-29;3;presencial;Casado
+726;370;72333;m;36;guayaquil;Finanzas;$2464,89;Aug 27, 2025;3;presencial;Union Libre
+727;463;30866;m;43;guayaquil;Tecnologia;$2835,89;2023-03-24;3;hibrido;Casado
+728;746;17236;female;43;UIO;Tecnologia;$2210,48;28/06/2015;2;remoto;Casado
+729;407;55292;female;34;guayaquil;Operaciones;$3057,31;14/10/2021;3;remoto;Soltero
+730;891;66011;m;40;Guayaquil;Ventas;$1619,97;2018-05-26;3;hibrido;Soltero
+731;489;68356;m;33;UIO;Tecnologia;$2441,96;2016-05-27;5;hibrido;Casado
+732;518;96492;M;28;quito;Tecnologia;$2046,28;2023-05-04;4;remoto;Soltero
+733;706;56630;female;44;GYE;RRHH;$1476,27;2017-10-29;4;presencial;Soltero
+734;752;92188;F;35;UIO;Tecnologia;$1342,5;Oct 11, 2017;2;remoto;Soltero
+735;660;35874;female;24;guayaquil;Tecnologia;$7234,5;08/07/2020;3;remoto;Union Libre
+736;453;82245;m;38;Guayaquil;Ventas;$4919,78;2018-06-05;5;presencial;Casado
+737;904;31133;F;46;Guayaquil;Finanzas;$3359,8;2021-02-08;3;hibrido;Soltero
+738;790;54226;m;41;GYE;Finanzas;$3368,74;13/02/2015;3;presencial;Divorciado
+739;600;62154;m;28;GYE;Tecnologia;$4197,67;2018-03-11;3;hibrido;Soltero
+740;695;24053;M;44;UIO;Finanzas;$2173,96;2021-05-01;1;presencial;Divorciado
+741;172;37128;M;38;UIO;Operaciones;$1526,52;Mar 04, 2024;1;presencial;Divorciado
+742;183;84169;F;32;Guayaquil;Operaciones;$1466,88;2026-02-08;3;presencial;Casado
+743;735;55711;M;48;quito;Tecnologia;$3383,58;07/06/2025;3;presencial;Casado
+744;63;73901;M;38;quito;Tecnologia;$4158,4;Mar 15, 2016;3;remoto;Union Libre
+745;231;65301;m;47;quito;Tecnologia;$4677,87;01/10/2019;5;remoto;Soltero
+746;572;17822;F;38;UIO;Tecnologia;$7414,37;27/06/2017;5;remoto;Soltero
+747;193;54113;M;38;guayaquil;Tecnologia;$7139,95;Jul 08, 2025;1;hibrido;Soltero
+748;701;33892;m;29;guayaquil;Tecnologia;$6312,15;Apr 22, 2019;4;hibrido;Soltero
+749;267;79610;female;32;guayaquil;Finanzas;$3850,06;2023-05-02;5;presencial;Union Libre
+750;418;54676;M;44;quito;Ventas;$1535,79;May 27, 2023;3;presencial;Soltero
+751;173;20646;m;30;guayaquil;RRHH;$955,22;2026-01-05;4;remoto;Casado
+752;356;33309;F;42;quito;Finanzas;$2472,73;Mar 19, 2016;3;remoto;Casado
+753;559;84703;m;29;GYE;Tecnologia;$3153,85;2017-09-13;3;remoto;Casado
+754;887;22561;F;41;guayaquil;Ventas;$915,78;2023-12-14;4;presencial;Casado
+755;896;99875;female;27;GYE;Tecnologia;$2457,94;May 25, 2015;3;remoto;Soltero
+756;485;38209;M;28;quito;Operaciones;$1188,61;2018-03-20;3;presencial;Soltero
+757;908;42843;M;28;quito;Tecnologia;$3362,7;Jan 23, 2026;2;remoto;Soltero
+758;141;88516;m;43;Guayaquil;Tecnologia;$5705,94;2018-07-28;1;hibrido;Casado
+759;278;48561;m;52;quito;Operaciones;$1867,9;May 09, 2021;5;remoto;Casado
+760;175;25235;M;24;guayaquil;Operaciones;$1166,42;2018-10-12;4;remoto;Soltero
+761;669;53885;m;42;Guayaquil;Marketing;$1682,37;10/09/2022;5;presencial;Divorciado
+762;90;70865;F;38;UIO;Marketing;$846,56;2019-12-02;3;presencial;Union Libre
+763;918;81897;F;35;GYE;Tecnologia;$3935,12;2023-04-14;3;remoto;Union Libre
+764;329;61727;m;27;Guayaquil;Tecnologia;$2308,04;28/07/2021;5;hibrido;Soltero
+765;229;34544;female;21;UIO;Tecnologia;$1455,97;2024-10-12;3;remoto;Soltero
+766;930;23709;F;36;Guayaquil;Tecnologia;$3755,95;2016-08-04;4;remoto;Casado
+767;208;68419;female;42;guayaquil;Tecnologia;$2895,66;04/03/2017;3;remoto;Union Libre
+768;510;86889;F;40;Guayaquil;Tecnologia;$2484,29;27/07/2018;5;hibrido;Union Libre
+769;804;15145;female;33;Guayaquil;RRHH;$1667,73;2025-03-30;3;presencial;Union Libre
+770;83;38249;m;22;guayaquil;Tecnologia;$1132,98;2017-05-07;3;remoto;Casado
+771;75;90574;female;27;guayaquil;Ventas;$1060,55;Apr 11, 2024;3;hibrido;Soltero
+772;897;60711;m;39;guayaquil;Tecnologia;$2061,23;2023-05-05;4;hibrido;Casado
+773;850;69512;female;24;guayaquil;Finanzas;$3811,2;2021-08-13;5;remoto;Soltero
+774;170;48742;M;26;Guayaquil;Operaciones;$1489,67;2017-07-01;2;presencial;Union Libre
+775;30;17874;female;24;UIO;Tecnologia;$6331,45;2017-10-13;3;hibrido;Casado
+776;142;82622;m;45;quito;Operaciones;$3267,15;2015-11-04;4;hibrido;Soltero
+777;126;36932;m;48;Guayaquil;Tecnologia;$4293,22;2022-07-05;3;remoto;Soltero
+778;332;13343;female;41;Guayaquil;Tecnologia;$1674,41;14/04/2024;3;hibrido;Soltero
+779;564;24896;m;33;Guayaquil;Tecnologia;$2407,7;23/01/2024;3;remoto;Union Libre
+780;71;48963;F;41;guayaquil;Tecnologia;$2041,49;2018-05-09;3;remoto;Union Libre
+781;254;12026;M;38;quito;Tecnologia;$2069,77;2023-09-24;3;hibrido;Union Libre
+782;936;45269;M;38;guayaquil;Tecnologia;$6857,96;Feb 10, 2015;4;remoto;Soltero
+783;338;70072;F;31;Guayaquil;RRHH;$1366,94;2025-09-29;3;presencial;Union Libre
+784;77;22520;F;47;quito;Tecnologia;$4777,06;2020-02-14;3;hibrido;Casado
+785;228;20899;M;39;Guayaquil;Finanzas;$4555,59;24/09/2022;3;hibrido;Divorciado
+786;531;26244;F;34;quito;Operaciones;$1393,8;10/05/2025;1;presencial;Casado
+787;692;87221;M;43;guayaquil;Tecnologia;$3149,95;11/02/2022;5;hibrido;Union Libre
+788;383;84749;F;36;guayaquil;Operaciones;$1316,72;2015-02-01;4;presencial;Union Libre
+789;171;59871;female;36;guayaquil;Tecnologia;$1113,45;2020-09-22;3;hibrido;Soltero
+790;508;79422;m;33;Guayaquil;Marketing;$2064,62;2024-12-02;5;hibrido;Casado
+791;500;62964;female;34;UIO;Tecnologia;$958,57;12/12/2024;3;hibrido;Soltero
+792;284;71524;m;46;quito;Operaciones;$1660,0;2018-04-15;4;presencial;Union Libre
+793;472;75532;M;38;guayaquil;Finanzas;$2958,28;2016-12-16;4;presencial;Soltero
+794;335;30575;M;40;guayaquil;Ventas;$2226,03;14/07/2024;4;presencial;Casado
+795;75;90574;female;27;guayaquil;Ventas;$1060,55;Apr 11, 2024;3;hibrido;Soltero
+796;844;28151;M;35;Guayaquil;Ventas;$3660,86;30/11/2024;4;presencial;Casado
+797;134;62112;female;31;UIO;Ventas;$5509,04;Apr 08, 2022;4;presencial;Casado
+798;679;20642;m;43;guayaquil;Finanzas;$2006,75;18/08/2019;5;presencial;Union Libre
+799;507;72871;female;36;Guayaquil;Tecnologia;$2143,3;Mar 07, 2025;4;remoto;Casado
+800;862;78572;M;42;Guayaquil;Tecnologia;$1175,48;2023-11-01;4;hibrido;Casado
+801;721;84156;female;26;guayaquil;Tecnologia;$1710,64;22/11/2018;5;remoto;Union Libre
+802;923;97153;female;37;guayaquil;Ventas;$2125,39;2016-05-02;4;presencial;Soltero
+803;256;52397;M;40;guayaquil;Ventas;$2123,11;2022-10-17;3;presencial;Casado
+804;201;51586;m;48;UIO;Finanzas;$5913,18;2022-08-14;4;presencial;Casado
+805;334;56948;F;38;UIO;Marketing;$2134,08;2015-11-05;5;presencial;Soltero
+806;772;68381;female;27;guayaquil;Ventas;$5166,45;2018-11-06;2;presencial;Soltero
+807;643;56323;F;37;Guayaquil;Tecnologia;$2313,33;2016-01-20;3;remoto;Soltero
+808;117;72418;M;36;quito;Ventas;$1062,57;07/11/2022;2;hibrido;Soltero
+809;888;17390;female;31;GYE;Operaciones;$1143,62;20/07/2017;4;presencial;Casado
+810;259;13322;F;47;GYE;Tecnologia;$3311,22;2015-03-01;1;remoto;Casado
+811;12;59507;M;43;quito;Marketing;$1388,7;Apr 19, 2017;5;presencial;Union Libre
+812;343;48680;M;31;quito;Tecnologia;$1847,38;2023-12-21;4;hibrido;Union Libre
+813;816;81867;M;24;Guayaquil;Tecnologia;$3023,58;2022-11-18;3;remoto;Soltero
+814;62;13969;female;46;Guayaquil;Tecnologia;$4916,1;Jan 28, 2024;3;remoto;Soltero
+815;123;57664;F;21;quito;Tecnologia;$3372,38;2020-05-19;2;hibrido;Soltero
+816;869;71500;female;36;Guayaquil;Ventas;$1035,64;2019-06-28;3;hibrido;Union Libre
+817;9;11596;F;31;guayaquil;Marketing;$1250,26;Jun 22, 2021;4;remoto;Divorciado
+818;838;90914;M;45;UIO;Tecnologia;$6915,34;11/04/2021;3;presencial;Casado
+819;72;35026;F;30;Guayaquil;Operaciones;$2904,85;2020-06-29;4;hibrido;Union Libre
+820;84;95621;F;37;UIO;Operaciones;$4044,09;2015-12-27;3;presencial;Divorciado
+821;915;89677;female;34;Guayaquil;Ventas;$6075,6;2021-11-21;3;presencial;Union Libre
+822;931;15802;m;41;UIO;RRHH;$988,4;2016-04-04;3;remoto;Casado
+823;115;48749;M;36;Guayaquil;Tecnologia;$5020,33;2015-10-07;5;hibrido;Casado
+824;36;23092;M;50;quito;Ventas;$1181,26;2025-05-18;1;presencial;Casado
+825;529;37560;m;42;guayaquil;Tecnologia;$5580,7;2015-03-26;4;remoto;Union Libre
+826;303;40331;m;30;Guayaquil;Finanzas;$2487,66;16/08/2015;3;presencial;Soltero
+827;784;74744;F;31;quito;Tecnologia;$2916,71;2025-03-07;1;hibrido;Union Libre
+828;712;86462;M;41;Guayaquil;Tecnologia;$2342,46;2016-10-05;3;remoto;Union Libre
+829;165;84219;m;28;Guayaquil;Tecnologia;$3134,06;2017-07-26;4;hibrido;Casado
+830;939;11105;M;38;guayaquil;Tecnologia;$7951,52;21/04/2022;4;hibrido;Soltero
+831;639;49411;M;42;quito;Ventas;$2454,98;Sep 08, 2023;4;hibrido;Soltero
+832;597;69825;M;32;guayaquil;Operaciones;$2296,96;10/12/2023;1;presencial;Casado
+833;747;58826;female;33;guayaquil;Tecnologia;$1523,2;2025-04-17;3;remoto;Soltero
+834;327;62957;female;35;guayaquil;Operaciones;$3052,73;2019-01-01;1;presencial;Union Libre
+835;409;96889;F;33;UIO;Tecnologia;$1797,34;2017-05-31;4;hibrido;Casado
+836;515;63255;m;40;Guayaquil;Ventas;$3401,14;Jan 14, 2022;3;hibrido;Union Libre
+837;649;58545;F;50;GYE;Marketing;$1651,27;Oct 17, 2022;4;presencial;Soltero
+838;19;22625;M;26;UIO;Tecnologia;$3506,48;2022-09-11;5;hibrido;Union Libre
+839;560;39429;M;36;quito;Marketing;$2088,51;25/04/2022;3;presencial;Casado
+840;56;58443;m;32;UIO;Tecnologia;$6481,24;20/05/2021;5;remoto;Union Libre
+841;67;95441;m;37;guayaquil;Ventas;$2852,77;2015-01-03;2;presencial;Casado
+842;504;65005;m;32;Guayaquil;Marketing;$1002,67;2016-06-25;4;hibrido;Soltero
+843;659;89531;m;36;GYE;Tecnologia;$3488,18;Sep 03, 2019;4;remoto;Soltero
+844;107;89256;female;37;guayaquil;Ventas;$718,61;2017-09-02;3;remoto;Casado
+845;516;99888;M;40;UIO;Finanzas;$3052,28;17/11/2019;4;hibrido;Divorciado
+846;766;16051;female;34;guayaquil;Tecnologia;$3676,89;2017-08-22;4;remoto;Union Libre
+847;442;38235;m;28;UIO;Operaciones;$1795,39;May 31, 2024;3;presencial;Soltero
+848;831;13895;M;31;guayaquil;Finanzas;$3436,79;19/07/2017;3;presencial;Soltero
+849;184;80910;M;37;quito;Operaciones;$2048,37;10/07/2016;3;presencial;Casado
+850;828;21074;M;39;UIO;Ventas;$2760,96;2022-01-19;3;presencial;Soltero
+851;258;87604;M;43;guayaquil;Tecnologia;$4352,51;02/07/2017;3;hibrido;Union Libre
+852;460;26404;F;45;UIO;Finanzas;$4074,29;2017-10-15;3;presencial;Casado
+853;764;34641;female;43;UIO;Ventas;$791,08;2018-12-07;4;presencial;Soltero
+854;5;32895;F;41;GYE;Tecnologia;$4317,03;2019-12-13;4;remoto;Divorciado
+855;297;83731;female;29;Guayaquil;Marketing;$1310,79;28/08/2020;4;presencial;Soltero
+856;391;60419;M;25;UIO;Tecnologia;$6849,0;2022-07-02;3;remoto;Casado
+857;813;32339;M;47;Guayaquil;Finanzas;$3422,22;29/11/2021;3;presencial;Casado
+858;467;48137;female;48;Guayaquil;Finanzas;$1605,18;2017-01-18;5;presencial;Casado
+859;257;70991;M;40;UIO;Tecnologia;$3442,2;2025-06-15;4;presencial;Casado
+860;762;30545;F;44;Guayaquil;Marketing;$1480,09;2016-12-13;4;hibrido;Casado
+861;148;10488;m;33;Guayaquil;Tecnologia;$2060,18;2022-04-13;3;hibrido;Casado
+862;945;33471;F;33;GYE;RRHH;$2536,53;30/08/2024;5;presencial;Soltero
+863;436;10634;m;29;quito;Ventas;$1971,41;2020-06-04;4;hibrido;Soltero
+864;820;71510;F;41;Guayaquil;Ventas;$8000,0;Oct 06, 2023;4;presencial;Divorciado
+865;386;75432;F;42;Guayaquil;Tecnologia;$1451,95;25/12/2019;5;remoto;Divorciado
+866;840;97602;M;41;quito;Marketing;$1622,21;05/08/2019;4;hibrido;Casado
+867;218;48898;M;34;Guayaquil;Ventas;$1489,41;2020-08-21;3;presencial;Union Libre
+868;938;50826;m;38;UIO;Ventas;$1555,53;26/02/2019;3;presencial;Casado
+869;801;72171;female;46;Guayaquil;Tecnologia;$2745,62;2019-08-17;4;hibrido;Casado
+870;15;72771;female;37;guayaquil;Marketing;$1828,25;2024-07-30;5;presencial;Casado
+871;131;73849;F;38;guayaquil;Tecnologia;$1885,44;20/01/2020;4;hibrido;Soltero
+872;522;17581;m;35;Guayaquil;Operaciones;$1487,68;Nov 07, 2015;3;presencial;Union Libre
+873;694;50816;M;43;quito;Tecnologia;$1374,41;2017-05-03;3;hibrido;Casado
+874;22;47351;F;33;guayaquil;Tecnologia;$4545,76;2023-01-16;4;remoto;Casado
+875;198;66274;female;38;quito;Tecnologia;$1524,58;2017-01-06;3;remoto;Union Libre
+876;588;65436;m;29;Guayaquil;Tecnologia;$1276,97;2016-05-05;4;remoto;Soltero
+877;912;31159;F;30;guayaquil;Marketing;$938,71;2020-05-30;5;presencial;Casado
+878;103;12224;m;31;Guayaquil;RRHH;$1095,24;12/09/2020;3;presencial;Union Libre
+879;574;86115;M;40;Guayaquil;Finanzas;$1759,59;2020-10-01;5;presencial;Divorciado
+880;24;14768;F;36;Guayaquil;Finanzas;$3105,92;2015-10-25;5;presencial;Soltero
+881;473;17062;M;48;quito;Operaciones;$1699,67;21/01/2015;3;hibrido;Divorciado
+882;168;13094;female;37;Guayaquil;Tecnologia;$1726,53;16/09/2015;1;hibrido;Union Libre
+883;778;36906;m;40;quito;Tecnologia;$3144,95;2023-04-29;3;remoto;Casado
+884;189;96043;m;53;guayaquil;Ventas;$941,78;2016-02-29;3;presencial;Divorciado
+885;505;35131;M;41;guayaquil;Tecnologia;$4104,3;2017-09-01;5;hibrido;Soltero
+886;932;59404;female;43;Guayaquil;Finanzas;$2392,72;2025-11-11;4;presencial;Casado
+887;435;79919;F;32;quito;Tecnologia;$2035,59;31/03/2022;4;hibrido;Soltero
+888;382;78552;F;43;UIO;Finanzas;$1640,46;23/01/2016;3;presencial;Casado
+889;671;84209;female;25;quito;Tecnologia;$2681,42;13/08/2025;4;remoto;Soltero
+890;368;51846;female;25;Guayaquil;Marketing;$958,6;Apr 23, 2015;3;hibrido;Soltero
+891;481;56103;M;34;Guayaquil;RRHH;$1387,79;2018-09-29;1;remoto;Soltero
+892;465;95848;F;39;Guayaquil;Ventas;$5963,37;Oct 26, 2022;5;presencial;Soltero
+893;608;68290;F;22;quito;Finanzas;$2201,09;2021-10-04;5;presencial;Soltero
+894;347;59842;F;44;Guayaquil;Operaciones;$1488,98;10/07/2017;3;remoto;Casado
+895;921;25646;female;41;GYE;Marketing;$2685,26;01/10/2015;4;presencial;Soltero
+896;220;76332;F;54;Guayaquil;Marketing;$2309,82;2020-11-15;5;presencial;Casado
+897;195;64187;F;33;UIO;Finanzas;$1921,58;May 02, 2017;3;presencial;Union Libre
+898;423;70842;female;28;guayaquil;Operaciones;$1394,24;2019-10-20;5;presencial;Soltero
+899;596;99273;female;36;Guayaquil;Finanzas;$3269,04;Oct 07, 2021;4;hibrido;Soltero
+900;483;96720;m;33;quito;Operaciones;$1466,65;2018-01-25;3;presencial;Divorciado
+901;551;92524;m;42;Guayaquil;Tecnologia;$2091,9;Jan 23, 2019;4;remoto;Soltero
+902;774;21233;M;46;quito;Operaciones;$3753,94;04/07/2017;3;presencial;Casado
+903;52;76284;m;40;quito;Tecnologia;$2575,77;2020-09-07;3;hibrido;Union Libre
+904;146;69829;F;23;guayaquil;Ventas;$1565,44;2016-05-04;1;presencial;Union Libre
+905;723;44001;F;44;quito;Tecnologia;$6988,33;2016-11-10;2;remoto;Casado
+906;50;36625;m;35;GYE;RRHH;$3738,35;May 10, 2015;4;presencial;Soltero
+907;637;55746;m;40;guayaquil;Tecnologia;$2310,53;2017-03-22;4;remoto;Casado
+908;929;53724;M;38;quito;RRHH;$852,56;2021-03-13;3;presencial;Casado
+909;575;26033;M;26;GYE;Marketing;$836,8;29/07/2015;5;presencial;Soltero
+910;353;72168;female;38;guayaquil;RRHH;$1958,31;2015-10-25;3;presencial;Casado
+911;635;74918;M;39;UIO;Finanzas;$3898,02;Oct 20, 2018;3;presencial;Soltero
+912;298;90059;F;37;guayaquil;Marketing;$1185,91;Oct 08, 2019;4;presencial;Union Libre
+913;431;78509;F;37;Guayaquil;Operaciones;$2332,79;2019-11-05;4;presencial;Casado
+914;475;70160;m;39;Guayaquil;Tecnologia;$4020,25;2022-01-31;5;hibrido;Union Libre
+915;285;61710;m;30;GYE;Operaciones;$2012,15;2024-03-19;2;hibrido;Soltero
+916;248;42053;female;30;guayaquil;Tecnologia;$4673,12;24/02/2023;4;hibrido;Soltero
+917;23;53473;M;32;guayaquil;Operaciones;$3400,79;2015-12-20;4;presencial;Casado
+918;699;80231;m;34;UIO;Tecnologia;$3759,82;2020-05-15;3;hibrido;Union Libre
+919;808;74969;female;23;guayaquil;Operaciones;$1392,27;01/04/2017;3;presencial;Casado
+920;577;18086;m;34;Guayaquil;RRHH;$1529,66;Nov 22, 2019;5;remoto;Union Libre
+921;860;39956;M;47;UIO;Tecnologia;$8000,0;17/05/2015;2;hibrido;Divorciado
+922;174;36005;female;36;UIO;Ventas;$2541,06;2024-01-03;3;hibrido;Soltero
+923;691;76125;M;43;Guayaquil;Tecnologia;$3609,17;2026-01-29;4;remoto;Casado
+924;777;82156;M;27;guayaquil;Marketing;$1337,58;2017-09-07;3;presencial;Soltero
+925;795;95646;F;51;quito;Marketing;$1955,93;21/05/2025;4;remoto;Casado
+926;788;51355;female;40;guayaquil;Finanzas;$2979,09;08/08/2020;4;presencial;Soltero
+927;853;95035;female;31;Guayaquil;Marketing;$1500,91;08/02/2016;4;hibrido;Casado
+928;280;36713;female;42;quito;RRHH;$4665,15;2023-12-30;5;hibrido;Casado
+929;140;97811;female;30;Guayaquil;Marketing;$1571,84;Jan 08, 2024;3;presencial;Casado
+930;306;77707;F;46;Guayaquil;Finanzas;$2811,49;Jun 14, 2024;4;presencial;Divorciado
+931;624;81341;m;28;quito;Ventas;$916,1;2023-07-17;4;hibrido;Soltero
+932;540;23958;F;36;guayaquil;Tecnologia;$1594,71;2022-04-02;4;hibrido;Union Libre
+933;18;51841;M;38;quito;Finanzas;$1893,77;2021-05-06;3;presencial;Union Libre
+934;179;38108;F;36;Guayaquil;Marketing;$2144,87;2017-03-21;5;presencial;Union Libre
+935;818;59693;female;42;quito;Marketing;$1588,46;02/02/2021;3;presencial;Soltero
+936;60;81744;female;35;quito;Marketing;$1680,4;2015-12-03;4;remoto;Casado
+937;289;16500;female;44;quito;Tecnologia;$4619,69;2024-10-14;4;hibrido;Union Libre
+938;745;84186;m;26;guayaquil;Finanzas;$4934,84;2024-01-16;4;hibrido;Soltero
+939;149;10393;M;30;Guayaquil;Tecnologia;$2272,88;2019-06-05;2;remoto;Union Libre
+940;618;46943;M;40;guayaquil;Marketing;$3645,39;05/09/2022;3;presencial;Union Libre
+941;651;59691;female;36;quito;Finanzas;$3793,43;2022-10-02;3;presencial;Soltero
+942;476;98208;M;21;GYE;Operaciones;$1072,83;2021-07-24;3;presencial;Soltero
+943;562;20512;F;42;guayaquil;Marketing;$2754,42;2022-09-18;3;presencial;Union Libre
+944;569;18455;m;37;UIO;Finanzas;$1987,51;2019-02-14;3;presencial;Casado
+945;417;32102;m;38;Guayaquil;Operaciones;$2480,45;17/09/2019;3;presencial;Soltero
+946;96;44424;female;40;Guayaquil;Tecnologia;$2963,31;2018-01-22;3;hibrido;Casado
+947;667;28144;female;29;GYE;Tecnologia;$1978,88;22/02/2017;1;hibrido;Casado
+948;617;74237;M;49;guayaquil;Tecnologia;$4241,74;2020-08-02;3;remoto;Casado
+949;787;36189;female;37;Guayaquil;Tecnologia;$2784,68;2023-05-18;4;hibrido;Soltero
+950;715;27822;female;48;GYE;Tecnologia;$3455,47;2020-11-29;4;hibrido;Union Libre
+951;456;49741;m;30;UIO;Marketing;$904,53;14/12/2023;1;presencial;Casado
+952;38;56232;F;24;Guayaquil;Tecnologia;$3636,99;2024-11-02;3;remoto;Soltero
+953;725;25782;F;34;UIO;Operaciones;$1511,15;Mar 09, 2016;5;presencial;Union Libre
+954;652;81100;F;36;Guayaquil;Tecnologia;$5506,46;29/12/2019;3;remoto;Union Libre
+955;621;47583;female;21;Guayaquil;Tecnologia;$1524,95;05/06/2015;3;hibrido;Soltero
