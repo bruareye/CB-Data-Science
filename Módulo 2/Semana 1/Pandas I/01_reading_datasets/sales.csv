@@ -1,0 +1,12 @@
+Datos de ventas por region - 2024
+,producto,cantidad,precio,region
+0,Laptop,15,1200,Norte
+1,Mouse,45,25,Sur
+2,Teclado,32,75,Este
+3,Monitor,18,350,Oeste
+4,Laptop,22,1200,Centro
+5,Mouse,38,25,Norte
+6,Webcam,12,80,Sur
+7,Teclado,28,75,Centro
+8,Monitor,14,350,Norte
+9,Laptop,19,1200,Sur

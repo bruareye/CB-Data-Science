@@ -1,0 +1,957 @@
+Unnamed: 0.1,Unnamed: 0,id_empleado,sexo,edad,ciudad,departamento,salario,fecha_ingreso,evaluacion_desempeno,modalidad,estado_civil
+0,661,96097,female,41,guayaquil,Ventas,335503.0,09/05/2024,3,presencial,Union Libre
+1,478,24153,m,34,Guayaquil,Tecnologia,239325.0,"Apr 09, 2015",3,presencial,Divorciado
+2,320,11977,M,38,GYE,Ventas,242375.0,2015-07-15,3,presencial,Casado
+3,105,80203,F,27,GYE,Operaciones,105884.0,25/08/2025,5,presencial,Soltero
+4,311,54186,M,32,quito,RRHH,197549.0,2020-08-12,3,hibrido,Casado
+5,251,85308,female,35,guayaquil,Ventas,518354.0,18/11/2024,2,presencial,Soltero
+6,878,83368,M,23,Guayaquil,Operaciones,116581.0,2018-03-02,4,presencial,Soltero
+7,451,18076,female,30,UIO,Tecnologia,778472.0,15/07/2015,5,remoto,Divorciado
+8,568,85617,M,28,Guayaquil,Tecnologia,491488.0,2020-09-30,4,hibrido,Soltero
+9,682,42494,F,44,guayaquil,Tecnologia,411838.0,2024-06-17,3,presencial,Divorciado
+10,636,92549,F,39,Guayaquil,Operaciones,169202.0,09/12/2016,5,hibrido,Casado
+11,773,17551,m,35,quito,Marketing,309824.0,2018-12-11,4,presencial,Soltero
+12,815,59609,female,42,Guayaquil,Tecnologia,644382.0,2015-01-14,4,remoto,Casado
+13,26,98625,M,25,Guayaquil,Tecnologia,278448.0,2021-07-30,3,hibrido,Soltero
+14,433,38348,female,22,UIO,Tecnologia,216034.0,18/07/2022,3,presencial,Soltero
+15,64,51282,m,30,Guayaquil,Ventas,13841.0,01/12/2017,4,presencial,Union Libre
+16,160,39926,m,27,quito,Finanzas,365513.0,04/08/2022,1,presencial,Soltero
+17,307,83713,F,31,Guayaquil,Marketing,295228.0,23/11/2024,3,hibrido,Casado
+18,426,61241,female,26,quito,Operaciones,79304.0,18/01/2024,2,hibrido,Casado
+19,263,37704,M,35,quito,Operaciones,387403.0,17/12/2019,4,presencial,Casado
+20,697,63428,female,38,guayaquil,Marketing,138505.0,2025-12-10,3,presencial,Soltero
+21,666,86479,female,38,guayaquil,Operaciones,99318.0,2023-11-01,2,hibrido,Casado
+22,6,39824,m,40,GYE,Tecnologia,312145.0,2022-09-07,4,remoto,Casado
+23,922,27224,female,35,guayaquil,Ventas,25770.0,"Dec 19, 2019",3,presencial,Union Libre
+24,390,42702,female,29,quito,Finanzas,268912.0,09/03/2023,1,presencial,Casado
+25,757,26025,F,44,quito,Operaciones,211524.0,2016-09-02,1,presencial,Soltero
+26,237,60404,m,26,quito,Marketing,349867.0,2016-07-24,4,presencial,Soltero
+27,411,50918,F,45,UIO,Tecnologia,507164.0,25/01/2015,1,hibrido,Casado
+28,656,58026,M,33,quito,Tecnologia,312576.0,08/07/2015,3,remoto,Casado
+29,911,20622,F,29,Guayaquil,RRHH,23317.0,"Mar 18, 2024",4,presencial,Soltero
+30,798,49200,m,30,UIO,Finanzas,355755.0,2022-04-17,4,hibrido,Soltero
+31,367,79819,female,34,GYE,Ventas,155821.0,02/01/2018,3,presencial,Casado
+32,726,77640,M,39,Guayaquil,Tecnologia,42270.0,14/09/2016,4,hibrido,Soltero
+33,364,24720,female,31,GYE,Ventas,198304.0,"Jul 08, 2019",3,presencial,Soltero
+34,737,99430,F,26,quito,Tecnologia,287146.0,28/05/2021,3,remoto,Soltero
+35,138,43804,M,26,Guayaquil,Ventas,155334.0,2017-09-25,2,presencial,Union Libre
+36,590,33730,M,38,guayaquil,Operaciones,134501.0,2015-05-23,4,presencial,Soltero
+37,497,95118,female,44,Guayaquil,Ventas,259246.0,2017-09-12,3,presencial,Divorciado
+38,836,23057,female,36,guayaquil,Finanzas,47074.0,"May 26, 2018",5,presencial,Casado
+39,843,18129,female,35,Guayaquil,Operaciones,299355.0,02/10/2023,4,presencial,Soltero
+40,644,32739,female,26,guayaquil,Tecnologia,123504.0,01/11/2024,3,remoto,Soltero
+41,807,61897,female,32,Guayaquil,Operaciones,262322.0,2018-11-06,4,remoto,Casado
+42,935,26264,M,46,guayaquil,Tecnologia,442869.0,15/04/2021,5,remoto,Soltero
+43,580,58061,M,34,UIO,Tecnologia,189212.0,2019-03-06,4,presencial,Union Libre
+44,439,54566,F,25,quito,Marketing,106984.0,2022-02-05,3,presencial,Union Libre
+45,54,38078,m,31,UIO,Operaciones,177984.0,2015-12-15,2,presencial,Casado
+46,384,77406,female,42,Guayaquil,Tecnologia,443093.0,10/09/2016,3,remoto,Union Libre
+47,817,46254,m,47,UIO,Tecnologia,357179.0,"Apr 05, 2015",4,remoto,Union Libre
+48,447,70522,F,42,guayaquil,Tecnologia,237701.0,2024-06-06,3,hibrido,Casado
+49,894,95945,female,28,Guayaquil,Marketing,194662.0,2018-06-08,5,remoto,Soltero
+50,230,66777,m,27,Guayaquil,Tecnologia,146599.0,2022-01-16,4,hibrido,Union Libre
+51,805,18532,M,54,Guayaquil,Tecnologia,581525.0,16/01/2016,3,remoto,Soltero
+52,727,17653,F,36,quito,Operaciones,133213.0,30/06/2021,4,presencial,Casado
+53,348,81957,m,40,guayaquil,Ventas,276188.0,2025-10-02,2,presencial,Casado
+54,681,62009,F,34,Guayaquil,Tecnologia,29471.0,2015-10-29,4,remoto,Casado
+55,885,66747,m,51,quito,Operaciones,354206.0,18/11/2021,4,presencial,Soltero
+56,586,51210,F,41,GYE,Ventas,147566.0,20/08/2017,4,presencial,Casado
+57,771,31793,F,37,guayaquil,Operaciones,141476.0,16/10/2019,4,remoto,Casado
+58,925,78444,M,30,Guayaquil,Tecnologia,164541.0,2017-09-09,1,remoto,Soltero
+59,892,10582,female,37,GYE,Ventas,10636.0,2021-05-17,3,hibrido,Casado
+60,252,73990,female,29,GYE,Operaciones,150316.0,08/04/2023,3,presencial,Soltero
+61,176,82054,F,47,guayaquil,RRHH,398932.0,02/07/2024,4,hibrido,Soltero
+62,738,43388,m,24,quito,Ventas,142481.0,2015-01-03,2,presencial,Soltero
+63,814,19937,m,37,guayaquil,Tecnologia,238372.0,2021-08-31,3,hibrido,Casado
+64,537,35424,female,36,guayaquil,Marketing,138296.0,2025-10-31,1,presencial,Casado
+65,609,36327,F,32,Guayaquil,Finanzas,529843.0,2016-12-20,3,presencial,Soltero
+66,673,10656,m,26,Guayaquil,Tecnologia,203137.0,2015-04-11,5,hibrido,Soltero
+67,877,93598,F,28,GYE,Operaciones,7000.0,2016-06-19,4,presencial,Soltero
+68,470,37843,M,37,GYE,Marketing,161543.0,18/01/2026,3,presencial,Soltero
+69,94,34351,M,36,Guayaquil,Marketing,90295.0,"Aug 25, 2021",5,presencial,Soltero
+70,274,52718,F,34,guayaquil,Operaciones,255292.0,2022-03-04,3,hibrido,Soltero
+71,416,76932,M,40,UIO,Tecnologia,272012.0,2016-05-31,4,remoto,Casado
+72,615,86269,M,27,quito,Tecnologia,603473.0,2017-03-08,4,remoto,Casado
+73,362,98166,m,39,Guayaquil,Operaciones,198671.0,"Jun 30, 2019",3,presencial,Soltero
+74,616,48912,m,41,Guayaquil,Ventas,186021.0,29/08/2024,4,presencial,Casado
+75,496,75591,F,26,Guayaquil,Tecnologia,220043.0,2023-10-26,4,remoto,Soltero
+76,14,18207,m,30,UIO,RRHH,186283.0,11/06/2021,3,hibrido,Casado
+77,680,75872,F,24,quito,Tecnologia,185992.0,2020-03-28,4,remoto,Soltero
+78,410,91091,M,32,Guayaquil,Operaciones,12028.0,17/11/2025,4,presencial,Union Libre
+79,145,37001,m,21,Guayaquil,Finanzas,207597.0,2022-05-17,1,presencial,Soltero
+80,292,25574,m,38,quito,Ventas,257842.0,2016-02-15,4,hibrido,Casado
+81,594,29139,m,35,Guayaquil,Operaciones,198141.0,17/02/2017,5,presencial,Casado
+82,163,11606,female,21,Guayaquil,Ventas,311814.0,12/10/2021,4,presencial,Soltero
+83,629,22568,female,45,guayaquil,Finanzas,34155.0,"Jul 05, 2022",3,presencial,Soltero
+84,642,68992,m,33,quito,Tecnologia,294569.0,2019-06-12,4,remoto,Casado
+85,902,47516,F,21,Guayaquil,Tecnologia,609742.0,10/01/2022,3,remoto,Soltero
+86,290,77538,m,33,Guayaquil,Operaciones,100403.0,2024-12-14,4,presencial,Soltero
+87,199,89005,M,46,UIO,Tecnologia,193524.0,"Jan 09, 2024",4,remoto,Casado
+88,627,69407,female,43,Guayaquil,Operaciones,192573.0,28/10/2019,5,presencial,Divorciado
+89,622,52671,female,37,quito,Tecnologia,23157.0,2019-11-26,3,hibrido,Union Libre
+90,873,35954,F,38,Guayaquil,Finanzas,278968.0,28/09/2017,2,hibrido,Soltero
+91,250,23271,female,45,guayaquil,Operaciones,107667.0,25/07/2025,4,presencial,Casado
+92,546,12036,female,34,guayaquil,Ventas,165317.0,"Feb 28, 2019",3,presencial,Soltero
+93,837,39370,female,29,Guayaquil,Tecnologia,144329.0,2019-05-18,3,remoto,Soltero
+94,928,97084,F,39,GYE,Tecnologia,363108.0,2020-01-05,5,remoto,Soltero
+95,10,97650,m,34,UIO,Marketing,223542.0,08/01/2022,4,hibrido,Casado
+96,216,59542,F,21,guayaquil,Tecnologia,359357.0,2025-07-01,4,remoto,Union Libre
+97,863,76783,female,41,Guayaquil,Tecnologia,499729.0,2020-02-24,3,remoto,Casado
+98,234,51724,F,35,Guayaquil,Tecnologia,12697.0,2015-07-30,3,remoto,Divorciado
+99,741,83908,m,35,Guayaquil,Tecnologia,455669.0,05/09/2018,3,remoto,Soltero
+100,528,72850,m,45,quito,Tecnologia,604321.0,2015-06-03,2,hibrido,Divorciado
+101,249,60707,F,35,Guayaquil,RRHH,117674.0,08/05/2019,3,hibrido,Soltero
+102,830,74451,female,38,Guayaquil,Tecnologia,87655.0,2024-11-25,3,hibrido,Casado
+103,419,68555,M,32,Guayaquil,Operaciones,258465.0,16/07/2021,3,hibrido,Soltero
+104,765,55208,M,34,Guayaquil,Finanzas,232005.0,24/06/2025,3,presencial,Casado
+105,255,99788,F,33,Guayaquil,Operaciones,91969.0,2016-08-26,2,presencial,Casado
+106,272,53836,F,54,Guayaquil,Tecnologia,172804.0,31/07/2018,5,remoto,Casado
+107,48,72134,m,45,Guayaquil,Operaciones,193374.0,2021-12-24,4,presencial,Casado
+108,358,86366,female,49,guayaquil,Tecnologia,97497.0,27/07/2021,3,hibrido,Casado
+109,378,85348,M,29,Guayaquil,Marketing,134682.0,2024-07-13,3,presencial,Union Libre
+110,194,19567,M,26,GYE,Tecnologia,190762.0,27/06/2020,4,remoto,Union Libre
+111,583,91751,M,32,guayaquil,Tecnologia,87121.0,2022-07-09,2,hibrido,Union Libre
+112,835,74471,m,51,Guayaquil,Ventas,13572.0,2020-02-06,3,remoto,Soltero
+113,241,63355,female,40,GYE,Tecnologia,631988.0,27/07/2016,3,presencial,Casado
+114,180,80893,m,44,Guayaquil,Tecnologia,85806.0,2020-11-15,3,remoto,Soltero
+115,693,70971,m,46,GYE,Finanzas,43992.0,2020-10-08,3,presencial,Union Libre
+116,4,59304,F,44,Guayaquil,Tecnologia,171889.0,12/05/2017,4,hibrido,Divorciado
+117,872,33851,female,33,quito,Ventas,137491.0,"Apr 12, 2017",5,presencial,Union Libre
+118,112,18251,F,44,guayaquil,Operaciones,225049.0,23/02/2016,3,hibrido,Union Libre
+119,401,51454,M,30,Guayaquil,Tecnologia,267905.0,06/10/2015,3,hibrido,Union Libre
+120,492,48950,m,32,UIO,Tecnologia,264073.0,"Feb 27, 2022",1,remoto,Union Libre
+121,886,66972,m,28,Guayaquil,Tecnologia,113059.0,2025-01-17,3,hibrido,Union Libre
+122,521,76813,M,41,UIO,Tecnologia,210185.0,"Jul 24, 2024",4,remoto,Union Libre
+123,111,66247,M,25,guayaquil,Operaciones,291402.0,30/04/2015,4,presencial,Soltero
+124,793,57789,F,36,quito,Operaciones,210163.0,2018-10-27,2,presencial,Union Libre
+125,406,74783,m,26,GYE,Operaciones,118063.0,2015-09-21,5,presencial,Soltero
+126,428,63824,m,53,GYE,Ventas,304403.0,2019-07-01,2,presencial,Union Libre
+127,109,49215,F,42,Guayaquil,Marketing,105197.0,2016-11-01,3,presencial,Casado
+128,192,20370,female,35,guayaquil,Tecnologia,80000.0,"Feb 02, 2022",4,remoto,Union Libre
+129,557,81041,m,37,UIO,Finanzas,293095.0,28/07/2019,4,presencial,Casado
+130,8,28698,F,40,UIO,Operaciones,153752.0,2022-01-30,2,presencial,Casado
+131,266,39452,F,33,GYE,Ventas,208768.0,2023-10-11,5,presencial,Soltero
+132,647,72116,F,37,UIO,RRHH,243897.0,2025-06-02,3,presencial,Soltero
+133,35,55051,m,35,Guayaquil,Finanzas,327424.0,2020-11-08,3,presencial,Casado
+134,275,13883,m,36,GYE,Ventas,123169.0,2018-07-05,4,presencial,Soltero
+135,545,20748,F,34,guayaquil,Operaciones,23116.0,07/09/2024,2,presencial,Soltero
+136,235,24389,m,36,guayaquil,Operaciones,7000.0,2016-09-09,5,presencial,Casado
+137,496,75591,F,26,Guayaquil,Tecnologia,220043.0,2023-10-26,4,remoto,Soltero
+138,405,28065,F,44,quito,Operaciones,431675.0,2018-11-20,3,presencial,Casado
+139,866,53134,m,34,guayaquil,Marketing,107269.0,02/11/2015,5,presencial,Casado
+140,352,78921,m,34,quito,Operaciones,188684.0,2020-12-11,3,presencial,Soltero
+141,811,93587,M,54,Guayaquil,Ventas,49468.0,"Nov 26, 2024",4,presencial,Casado
+142,446,87698,F,44,Guayaquil,Ventas,110376.0,14/02/2023,3,presencial,Casado
+143,336,71636,M,36,GYE,Tecnologia,408816.0,2023-03-29,1,remoto,Soltero
+144,864,75527,F,41,quito,Marketing,120851.0,28/08/2020,3,presencial,Casado
+145,438,26260,M,41,guayaquil,Tecnologia,363811.0,2017-12-11,4,hibrido,Soltero
+146,283,89096,M,42,quito,Marketing,102158.0,"Oct 23, 2023",2,presencial,Divorciado
+147,106,43027,M,43,GYE,Operaciones,158842.0,23/03/2025,2,presencial,Casado
+148,920,51304,M,40,quito,Marketing,270711.0,2016-06-29,4,presencial,Divorciado
+149,404,75263,m,35,UIO,Finanzas,42595.0,2017-06-14,3,presencial,Union Libre
+150,153,52009,M,34,Guayaquil,Operaciones,223727.0,2023-04-14,3,presencial,Casado
+151,794,77012,female,38,GYE,Ventas,32105.0,2021-01-18,1,presencial,Casado
+152,39,68537,F,54,Guayaquil,Tecnologia,163279.0,2019-07-08,2,remoto,Soltero
+153,268,52851,M,31,GYE,Operaciones,206968.0,2025-10-10,3,presencial,Casado
+154,226,54793,M,31,quito,Finanzas,19721.0,28/06/2025,4,presencial,Soltero
+155,675,51258,m,51,GYE,Tecnologia,318677.0,2019-08-09,3,remoto,Soltero
+156,879,42403,M,37,guayaquil,Finanzas,182692.0,13/02/2015,2,remoto,Soltero
+157,244,10886,M,44,Guayaquil,Tecnologia,26918.0,2023-01-22,5,remoto,Casado
+158,144,66785,M,30,GYE,Ventas,273504.0,2022-01-13,3,presencial,Union Libre
+159,224,20346,F,43,guayaquil,Tecnologia,310379.0,28/01/2019,5,hibrido,Casado
+160,927,12748,female,39,GYE,Ventas,384347.0,2023-08-26,3,presencial,Union Libre
+161,552,59592,m,49,Guayaquil,Operaciones,123375.0,2021-01-21,5,remoto,Casado
+162,161,56042,F,42,UIO,Operaciones,122542.0,22/01/2020,1,presencial,Soltero
+163,698,23962,F,37,quito,Operaciones,195449.0,14/04/2024,4,presencial,Casado
+164,471,50687,M,28,quito,Operaciones,167406.0,2019-05-13,4,presencial,Soltero
+165,108,92711,F,30,Guayaquil,Ventas,104167.0,2016-04-12,3,hibrido,Union Libre
+166,664,24322,M,47,UIO,Tecnologia,555095.0,"Sep 24, 2020",3,hibrido,Union Libre
+167,396,31355,M,29,guayaquil,Finanzas,365431.0,"Apr 05, 2019",4,hibrido,Soltero
+168,751,22855,m,39,guayaquil,Operaciones,13928.0,"Nov 14, 2017",4,hibrido,Soltero
+169,482,58917,M,35,Guayaquil,RRHH,113848.0,03/12/2021,2,hibrido,Divorciado
+170,658,43859,m,32,quito,Finanzas,206699.0,2025-02-12,4,presencial,Casado
+171,78,86792,m,36,UIO,Marketing,130504.0,2024-07-15,1,hibrido,Union Libre
+172,277,75928,female,39,Guayaquil,Tecnologia,378141.0,13/02/2026,5,remoto,Soltero
+173,486,80307,m,43,guayaquil,Tecnologia,238289.0,04/09/2020,5,remoto,Soltero
+174,242,76366,F,27,GYE,Ventas,340516.0,15/08/2021,4,hibrido,Union Libre
+175,151,78212,female,45,UIO,Ventas,270547.0,2017-12-02,3,presencial,Casado
+176,477,64262,female,36,Guayaquil,Ventas,440275.0,2022-02-26,4,presencial,Union Libre
+177,227,19563,M,44,UIO,Ventas,35006.0,24/08/2017,4,presencial,Union Libre
+178,606,26510,m,29,Guayaquil,Marketing,116474.0,2015-07-17,5,presencial,Soltero
+179,716,21388,m,35,guayaquil,Finanzas,240311.0,"Jan 22, 2016",5,presencial,Soltero
+180,646,54355,M,31,Guayaquil,Ventas,228785.0,13/02/2024,3,presencial,Divorciado
+181,462,21832,female,25,guayaquil,Tecnologia,408607.0,"Oct 02, 2021",1,presencial,Union Libre
+182,709,38337,m,40,quito,Ventas,18127.0,04/10/2021,3,presencial,Soltero
+183,205,14005,m,30,guayaquil,Finanzas,353851.0,2017-01-03,4,presencial,Casado
+184,663,94899,F,41,UIO,Tecnologia,306585.0,"Aug 27, 2022",5,hibrido,Casado
+185,113,50111,m,32,Guayaquil,Ventas,7000.0,19/03/2022,3,hibrido,Casado
+186,217,46497,F,44,guayaquil,RRHH,177455.0,"Nov 30, 2019",3,presencial,Union Libre
+187,868,23532,F,29,guayaquil,Ventas,178839.0,28/07/2022,4,presencial,Soltero
+188,253,80267,m,32,guayaquil,Operaciones,493609.0,29/04/2023,3,presencial,Casado
+189,169,19702,F,51,Guayaquil,Tecnologia,183668.0,2025-09-05,3,hibrido,Soltero
+190,750,20728,female,37,GYE,Tecnologia,30609.0,2022-04-21,5,remoto,Union Libre
+191,810,89885,M,43,Guayaquil,RRHH,159585.0,2022-12-05,4,presencial,Soltero
+192,612,97050,F,31,Guayaquil,Marketing,237023.0,19/02/2023,3,presencial,Union Libre
+193,592,50648,m,50,GYE,Operaciones,222845.0,2015-07-02,2,presencial,Casado
+194,46,18530,M,40,quito,Tecnologia,613121.0,12/03/2025,3,remoto,Union Libre
+195,882,81758,M,40,quito,Tecnologia,541379.0,2023-07-16,4,hibrido,Union Libre
+196,895,59664,M,38,Guayaquil,Tecnologia,308105.0,20/03/2017,4,remoto,Casado
+197,674,63599,female,40,guayaquil,Finanzas,539453.0,13/06/2024,3,presencial,Casado
+198,730,27361,female,31,Guayaquil,RRHH,291536.0,01/09/2015,1,presencial,Casado
+199,422,73980,F,41,guayaquil,Tecnologia,253986.0,2023-10-14,3,remoto,Union Libre
+200,758,70167,m,30,Guayaquil,Ventas,116436.0,2024-03-19,3,presencial,Union Libre
+201,625,95237,female,36,UIO,Finanzas,766269.0,2023-10-09,1,presencial,Casado
+202,317,56719,M,37,Guayaquil,Finanzas,247216.0,2015-11-13,2,presencial,Casado
+203,413,96484,M,44,quito,Marketing,80000.0,25/07/2020,3,presencial,Casado
+204,44,93523,M,40,Guayaquil,Operaciones,183809.0,12/07/2016,1,presencial,Soltero
+205,792,15685,female,37,guayaquil,Tecnologia,295945.0,2024-12-26,3,hibrido,Union Libre
+206,124,49325,m,39,UIO,Tecnologia,34169.0,"Jul 03, 2022",3,hibrido,Soltero
+207,755,79539,m,31,UIO,Tecnologia,260389.0,14/12/2018,3,remoto,Casado
+208,400,88406,F,25,Guayaquil,Marketing,245669.0,2019-09-22,4,presencial,Soltero
+209,542,40250,F,22,Guayaquil,Operaciones,311301.0,2022-09-18,3,presencial,Union Libre
+210,668,25200,M,34,Guayaquil,Tecnologia,291367.0,01/07/2017,4,remoto,Casado
+211,786,20978,M,39,guayaquil,RRHH,184759.0,"May 24, 2021",4,presencial,Soltero
+212,337,96932,m,39,Guayaquil,Ventas,120838.0,2017-12-20,3,hibrido,Soltero
+213,479,50176,F,30,Guayaquil,Ventas,422245.0,11/11/2019,4,hibrido,Union Libre
+214,341,22458,F,31,Guayaquil,Finanzas,177684.0,16/03/2019,4,presencial,Soltero
+215,657,43485,M,43,GYE,RRHH,108797.0,2024-06-05,1,presencial,Casado
+216,754,18364,F,34,quito,Tecnologia,247477.0,02/04/2017,3,hibrido,Casado
+217,525,57555,m,42,guayaquil,Tecnologia,389559.0,20/08/2020,4,hibrido,Casado
+218,898,96998,female,54,UIO,Finanzas,206252.0,2024-02-10,3,presencial,Casado
+219,514,48068,F,54,Guayaquil,Finanzas,80000.0,2021-09-19,5,presencial,Union Libre
+220,589,48882,F,34,GYE,Operaciones,155591.0,23/03/2018,3,remoto,Casado
+221,301,37758,M,31,quito,Operaciones,197794.0,2017-08-21,4,hibrido,Soltero
+222,708,92963,m,34,quito,Operaciones,97424.0,07/10/2022,3,presencial,Casado
+223,541,65028,female,36,guayaquil,Tecnologia,391672.0,"May 29, 2019",3,hibrido,Soltero
+224,333,56999,female,40,Guayaquil,Ventas,210542.0,2020-11-18,4,remoto,Casado
+225,919,87686,m,34,GYE,Tecnologia,702164.0,"May 08, 2017",3,hibrido,Union Libre
+226,687,27342,M,34,Guayaquil,Finanzas,18190.0,2024-01-14,2,presencial,Union Libre
+227,876,70401,M,36,guayaquil,Operaciones,230549.0,2018-03-29,3,presencial,Union Libre
+228,308,47383,female,51,Guayaquil,Tecnologia,357247.0,29/11/2023,3,hibrido,Divorciado
+229,749,91866,F,30,GYE,Finanzas,533674.0,2019-01-02,2,hibrido,Union Libre
+230,132,43153,F,26,Guayaquil,Finanzas,481822.0,2021-12-15,4,presencial,Soltero
+231,570,22068,female,36,guayaquil,Operaciones,159116.0,08/05/2022,4,presencial,Casado
+232,429,79520,M,44,guayaquil,Operaciones,162389.0,2015-10-12,1,hibrido,Casado
+233,889,49904,M,37,Guayaquil,Tecnologia,331577.0,2021-07-19,3,remoto,Casado
+234,948,48796,M,31,guayaquil,Operaciones,43830.0,18/01/2016,3,presencial,Soltero
+235,909,54707,female,27,Guayaquil,Operaciones,243386.0,20/09/2018,3,presencial,Soltero
+236,833,72966,M,44,quito,Operaciones,232811.0,2026-02-02,3,presencial,Casado
+237,425,33521,F,39,guayaquil,Operaciones,118458.0,"Jun 07, 2021",4,hibrido,Soltero
+238,29,25373,female,42,Guayaquil,Operaciones,234744.0,2016-06-27,1,hibrido,Soltero
+239,156,11416,M,48,guayaquil,Finanzas,445157.0,2021-03-05,3,remoto,Casado
+240,28,18595,m,42,UIO,Tecnologia,295346.0,08/11/2019,3,remoto,Casado
+241,70,92898,female,25,Guayaquil,Tecnologia,200156.0,14/09/2025,4,remoto,Union Libre
+242,260,77789,F,43,Guayaquil,Tecnologia,359243.0,2019-01-06,4,hibrido,Soltero
+243,296,98392,M,27,quito,Ventas,550612.0,2020-07-15,4,presencial,Soltero
+244,683,38492,F,40,guayaquil,Ventas,120061.0,04/09/2020,2,hibrido,Union Libre
+245,273,79574,m,37,UIO,Finanzas,755433.0,2018-09-06,3,hibrido,Casado
+246,640,31503,M,24,quito,Tecnologia,262709.0,2015-01-22,4,remoto,Casado
+247,513,79837,F,43,GYE,Tecnologia,613494.0,2024-12-25,5,remoto,Casado
+248,133,38966,female,31,Guayaquil,Tecnologia,348567.0,2024-02-18,2,remoto,Soltero
+249,118,30855,m,27,Guayaquil,Tecnologia,345732.0,2019-01-16,4,remoto,Soltero
+250,799,70266,female,32,GYE,Tecnologia,431201.0,2025-09-10,3,remoto,Union Libre
+251,139,19771,m,34,GYE,Finanzas,250105.0,2022-06-27,4,presencial,Union Libre
+252,110,61994,F,32,GYE,Ventas,94834.0,"Dec 31, 2021",3,presencial,Soltero
+253,601,66745,m,23,guayaquil,Tecnologia,124767.0,30/06/2025,3,hibrido,Soltero
+254,323,99440,M,42,guayaquil,Ventas,471519.0,05/01/2021,3,presencial,Casado
+255,261,31550,F,29,guayaquil,Operaciones,106063.0,31/12/2017,5,hibrido,Soltero
+256,491,49498,M,42,GYE,Operaciones,176296.0,2026-01-05,3,presencial,Soltero
+257,203,84452,female,54,guayaquil,Tecnologia,284012.0,2021-02-10,4,remoto,Union Libre
+258,375,20212,M,39,guayaquil,Ventas,386354.0,2025-01-27,1,presencial,Soltero
+259,700,51119,M,27,GYE,Finanzas,18805.0,03/05/2019,3,presencial,Soltero
+260,293,22063,m,32,quito,Ventas,206707.0,2024-12-17,3,remoto,Casado
+261,239,14962,M,38,UIO,Tecnologia,318277.0,2022-09-15,4,remoto,Soltero
+262,502,51020,female,32,guayaquil,Tecnologia,227779.0,2024-04-27,3,hibrido,Union Libre
+263,613,42672,female,44,GYE,RRHH,168451.0,18/11/2017,3,presencial,Divorciado
+264,933,82013,m,43,GYE,Operaciones,152313.0,23/11/2021,5,presencial,Union Libre
+265,373,72105,M,41,quito,Finanzas,28860.0,2021-09-14,3,presencial,Soltero
+266,119,56472,F,40,GYE,Operaciones,182866.0,2018-03-01,3,presencial,Soltero
+267,125,58368,F,51,UIO,Tecnologia,38663.0,2021-12-09,5,hibrido,Casado
+268,855,51543,m,25,quito,Ventas,327378.0,20/09/2016,3,presencial,Soltero
+269,333,56999,female,40,Guayaquil,Ventas,210542.0,2020-11-18,4,remoto,Casado
+270,523,92625,m,37,Guayaquil,Tecnologia,168072.0,2023-03-13,3,remoto,Casado
+271,128,86119,M,28,quito,Finanzas,155857.0,23/07/2016,4,presencial,Union Libre
+272,827,16049,m,31,quito,Ventas,375377.0,2021-06-23,4,presencial,Divorciado
+273,832,27942,M,29,UIO,RRHH,121639.0,23/10/2017,3,presencial,Casado
+274,85,27815,m,21,Guayaquil,Tecnologia,208262.0,03/11/2016,1,presencial,Soltero
+275,607,35969,female,34,guayaquil,Operaciones,130276.0,03/01/2021,3,presencial,Union Libre
+276,917,11894,female,40,guayaquil,Ventas,118143.0,2017-02-22,5,presencial,Divorciado
+277,7,32195,m,34,guayaquil,Finanzas,255853.0,2023-02-03,4,presencial,Union Libre
+278,841,96154,m,45,Guayaquil,Tecnologia,692703.0,2018-12-03,3,hibrido,Casado
+279,650,40981,m,51,UIO,Marketing,129854.0,08/12/2020,3,presencial,Soltero
+280,825,18884,F,42,Guayaquil,Finanzas,281008.0,"Feb 04, 2019",4,presencial,Casado
+281,847,46612,F,46,Guayaquil,Tecnologia,199713.0,"Feb 25, 2022",4,remoto,Casado
+282,520,83291,m,32,guayaquil,Marketing,156976.0,2020-11-01,4,presencial,Union Libre
+283,526,21488,female,35,UIO,Operaciones,277948.0,25/10/2024,4,hibrido,Casado
+284,905,85826,m,30,Guayaquil,Tecnologia,739357.0,2025-10-17,4,hibrido,Casado
+285,487,13809,F,21,guayaquil,Operaciones,10312.0,"Feb 09, 2020",3,hibrido,Soltero
+286,547,51826,m,40,Guayaquil,Operaciones,308244.0,"Apr 17, 2021",3,presencial,Union Libre
+287,152,10704,F,36,Guayaquil,Operaciones,340876.0,2022-12-27,2,remoto,Soltero
+288,690,73522,m,32,quito,Operaciones,291424.0,19/01/2017,4,presencial,Union Libre
+289,47,98723,female,38,guayaquil,Operaciones,16164.0,2024-05-22,2,presencial,Casado
+290,780,39035,M,41,guayaquil,Tecnologia,175983.0,2023-08-10,2,presencial,Casado
+291,512,24857,M,43,Guayaquil,Finanzas,256595.0,24/03/2015,4,presencial,Casado
+292,420,64004,F,36,Guayaquil,Tecnologia,222323.0,12/04/2025,3,presencial,Casado
+293,101,23548,m,39,quito,Finanzas,295806.0,2019-11-05,3,remoto,Casado
+294,871,27874,F,39,UIO,Ventas,133403.0,2015-10-29,3,presencial,Union Libre
+295,350,10492,F,35,UIO,Finanzas,422767.0,28/04/2025,3,hibrido,Casado
+296,865,67228,female,39,UIO,Operaciones,258997.0,2023-05-07,3,presencial,Casado
+297,899,96204,M,46,Guayaquil,RRHH,269875.0,01/04/2022,3,presencial,Casado
+298,427,36530,F,45,guayaquil,Tecnologia,177948.0,"Jul 28, 2020",3,remoto,Casado
+299,25,58402,m,32,GYE,Operaciones,375864.0,2016-10-12,4,presencial,Casado
+300,73,65249,F,54,UIO,Operaciones,250576.0,28/11/2015,5,presencial,Casado
+301,247,34655,M,35,Guayaquil,Tecnologia,432249.0,28/03/2023,4,hibrido,Union Libre
+302,950,52301,m,24,guayaquil,Ventas,191426.0,2025-12-13,2,presencial,Union Libre
+303,32,53995,m,41,Guayaquil,Tecnologia,482825.0,2023-12-25,3,remoto,Soltero
+304,114,51984,F,33,guayaquil,Finanzas,439188.0,16/08/2016,3,remoto,Union Libre
+305,191,88864,F,48,UIO,Tecnologia,287781.0,2018-04-14,4,hibrido,Casado
+306,941,98539,F,41,UIO,Operaciones,90758.0,"Oct 19, 2023",5,presencial,Divorciado
+307,684,10439,M,26,UIO,Marketing,156367.0,26/09/2025,4,presencial,Soltero
+308,881,79353,M,40,Guayaquil,Tecnologia,736934.0,"Jan 19, 2023",4,remoto,Casado
+309,782,90622,M,39,quito,Tecnologia,51281.0,2015-06-09,4,remoto,Union Libre
+310,464,20952,F,33,guayaquil,Tecnologia,312628.0,"Jun 15, 2025",4,presencial,Casado
+311,776,98162,female,41,UIO,Operaciones,117242.0,2024-08-19,4,presencial,Soltero
+312,789,91856,M,26,guayaquil,Tecnologia,123891.0,2015-01-26,3,remoto,Soltero
+313,819,62846,female,36,Guayaquil,Tecnologia,308121.0,2026-02-14,4,remoto,Casado
+314,188,85207,F,31,guayaquil,Finanzas,28031.0,01/02/2016,3,presencial,Soltero
+315,295,41585,female,42,GYE,RRHH,22600.0,16/07/2023,2,presencial,Casado
+316,943,80541,m,33,guayaquil,Tecnologia,294785.0,2017-02-17,3,remoto,Soltero
+317,186,49833,m,30,guayaquil,Ventas,263358.0,22/01/2023,3,presencial,Union Libre
+318,498,98862,m,33,Guayaquil,Operaciones,8069.0,25/05/2022,2,hibrido,Soltero
+319,581,90697,F,24,Guayaquil,Tecnologia,368731.0,28/04/2019,3,remoto,Soltero
+320,86,38657,m,26,guayaquil,Tecnologia,368255.0,"Dec 20, 2025",4,hibrido,Soltero
+321,944,67597,M,37,GYE,Ventas,213925.0,06/12/2020,5,hibrido,Soltero
+322,45,61076,female,35,Guayaquil,Tecnologia,224464.0,2024-06-21,5,remoto,Casado
+323,330,11086,M,39,GYE,Operaciones,213376.0,2017-12-08,4,presencial,Soltero
+324,371,24210,m,40,Guayaquil,Ventas,133457.0,2025-01-21,5,presencial,Casado
+325,826,37107,M,45,Guayaquil,Tecnologia,360338.0,"Mar 13, 2016",5,remoto,Casado
+326,484,93980,female,22,GYE,Tecnologia,417174.0,2022-05-03,5,hibrido,Soltero
+327,16,58962,m,49,quito,Operaciones,170649.0,2021-12-16,3,remoto,Casado
+328,907,35778,M,35,quito,Tecnologia,327053.0,2021-06-03,3,remoto,Union Libre
+329,623,23357,M,33,quito,Operaciones,308542.0,2018-08-19,3,remoto,Casado
+330,632,50126,m,44,Guayaquil,Tecnologia,683421.0,2015-08-14,1,hibrido,Divorciado
+331,549,50152,female,24,Guayaquil,RRHH,151891.0,2015-12-03,3,presencial,Soltero
+332,809,96137,M,46,quito,Ventas,133591.0,2021-08-14,5,presencial,Casado
+333,685,93679,M,41,guayaquil,Tecnologia,229534.0,2020-03-03,4,presencial,Casado
+334,42,64179,m,43,guayaquil,Finanzas,294323.0,2018-05-24,4,hibrido,Casado
+335,791,79291,m,51,guayaquil,RRHH,202063.0,13/06/2022,4,presencial,Casado
+336,209,80558,m,33,UIO,Operaciones,111787.0,2017-07-31,3,presencial,Casado
+337,677,69952,m,22,guayaquil,Operaciones,11522.0,10/06/2021,1,hibrido,Union Libre
+338,578,25853,m,38,quito,Ventas,153729.0,2017-05-21,5,presencial,Soltero
+339,434,35506,m,38,GYE,Ventas,623587.0,08/01/2015,4,presencial,Union Libre
+340,620,19478,F,21,guayaquil,Finanzas,7000.0,2015-08-19,2,presencial,Union Libre
+341,733,92745,M,24,Guayaquil,Finanzas,251062.0,"Nov 16, 2022",5,hibrido,Soltero
+342,355,51199,female,39,GYE,Tecnologia,466845.0,2021-03-09,4,remoto,Union Libre
+343,924,92499,F,30,Guayaquil,Finanzas,15303.0,25/09/2018,2,presencial,Union Libre
+344,34,58692,F,36,UIO,Ventas,123873.0,"Dec 15, 2016",3,presencial,Union Libre
+345,550,17074,female,33,quito,Operaciones,226292.0,2023-01-11,3,presencial,Soltero
+346,309,31889,M,40,UIO,Tecnologia,46629.0,2018-05-07,5,remoto,Soltero
+347,770,88964,M,41,Guayaquil,Operaciones,254113.0,11/03/2022,3,presencial,Soltero
+348,655,51254,F,34,Guayaquil,Marketing,207075.0,"Mar 12, 2020",3,presencial,Soltero
+349,638,37798,m,50,GYE,Finanzas,320292.0,2015-04-19,5,presencial,Casado
+350,346,22269,M,45,quito,Marketing,204028.0,2018-02-07,3,presencial,Casado
+351,466,89574,F,31,UIO,Ventas,365587.0,2018-04-27,3,presencial,Union Libre
+352,68,81774,M,33,Guayaquil,Tecnologia,458956.0,2022-02-09,4,remoto,Soltero
+353,264,75951,female,33,quito,Marketing,14057.0,2022-05-10,5,presencial,Union Libre
+354,555,80255,F,34,Guayaquil,Tecnologia,323207.0,2017-01-31,3,remoto,Union Libre
+355,499,15200,female,28,quito,Ventas,249547.0,11/12/2025,3,presencial,Union Libre
+356,767,82007,F,39,UIO,Tecnologia,698638.0,"Sep 16, 2022",3,hibrido,Soltero
+357,177,81027,F,31,GYE,Ventas,124061.0,2015-02-21,3,presencial,Casado
+358,561,99592,female,39,guayaquil,Operaciones,132233.0,2024-02-09,4,hibrido,Soltero
+359,354,54179,female,33,quito,Tecnologia,141538.0,2019-06-22,5,remoto,Casado
+360,717,83830,m,39,GYE,RRHH,140582.0,"Jun 22, 2025",3,presencial,Soltero
+361,359,30242,m,38,guayaquil,Ventas,444389.0,05/10/2017,3,hibrido,Casado
+362,893,57787,m,33,Guayaquil,Ventas,299214.0,2019-06-15,4,remoto,Casado
+363,724,40992,female,39,Guayaquil,Marketing,126105.0,25/07/2020,4,presencial,Soltero
+364,517,42689,female,41,UIO,Marketing,195256.0,2025-11-22,3,presencial,Casado
+365,344,49927,M,32,UIO,Tecnologia,410164.0,2024-09-07,4,remoto,Soltero
+366,797,66143,m,38,GYE,Ventas,301582.0,2021-01-05,4,hibrido,Casado
+367,415,43014,m,33,GYE,Ventas,258167.0,2018-07-26,4,hibrido,Casado
+368,89,92206,m,39,Guayaquil,Finanzas,203269.0,31/01/2018,3,presencial,Casado
+369,120,27570,F,32,UIO,Marketing,396471.0,11/02/2022,4,remoto,Union Libre
+370,196,11743,F,38,quito,Tecnologia,306256.0,2020-05-23,4,hibrido,Soltero
+371,689,45127,female,36,Guayaquil,Ventas,80000.0,"Feb 10, 2025",3,hibrido,Soltero
+372,611,34665,F,42,Guayaquil,Finanzas,353128.0,2015-08-19,3,remoto,Union Libre
+373,315,80865,m,36,GYE,Tecnologia,611245.0,2019-11-17,5,presencial,Soltero
+374,219,94639,M,42,Guayaquil,Marketing,179196.0,2016-09-22,4,presencial,Union Libre
+375,584,32881,m,36,UIO,Finanzas,38656.0,2025-01-16,4,presencial,Soltero
+376,714,81950,F,37,quito,Tecnologia,409913.0,"Mar 05, 2016",2,remoto,Casado
+377,212,69323,M,51,GYE,Ventas,358803.0,2019-05-12,3,presencial,Divorciado
+378,536,18387,M,40,quito,Ventas,193695.0,27/11/2020,3,hibrido,Casado
+379,852,50359,female,35,quito,Ventas,96492.0,15/06/2015,4,presencial,Soltero
+380,136,73830,female,42,GYE,Finanzas,281461.0,2021-03-11,5,hibrido,Union Libre
+381,328,21852,F,30,quito,Operaciones,17387.0,13/06/2023,3,presencial,Casado
+382,58,80158,m,42,quito,Finanzas,191035.0,29/08/2020,3,remoto,Soltero
+383,488,14414,female,30,UIO,Tecnologia,538559.0,09/04/2019,3,remoto,Soltero
+384,33,95459,M,28,Guayaquil,Tecnologia,232394.0,2020-03-10,4,remoto,Union Libre
+385,394,24806,female,41,guayaquil,Ventas,272089.0,2021-02-11,2,hibrido,Casado
+386,743,93780,female,39,quito,Finanzas,450833.0,2016-01-04,3,presencial,Casado
+387,605,79930,female,41,guayaquil,Tecnologia,242375.0,2018-08-15,3,hibrido,Divorciado
+388,775,13153,m,49,UIO,Tecnologia,80000.0,2021-09-03,2,remoto,Casado
+389,839,69602,female,41,Guayaquil,Operaciones,170962.0,2018-04-03,5,presencial,Casado
+390,432,45845,F,24,quito,Ventas,105678.0,2023-11-19,4,presencial,Casado
+391,232,68994,m,39,quito,Finanzas,459485.0,10/08/2017,3,presencial,Casado
+392,759,61379,F,40,quito,Operaciones,379036.0,30/06/2022,4,presencial,Casado
+393,705,67257,M,36,GYE,RRHH,166925.0,2023-05-11,4,presencial,Union Libre
+394,719,43507,m,28,guayaquil,Operaciones,198832.0,2017-09-24,3,presencial,Soltero
+395,313,99074,F,44,guayaquil,Tecnologia,428493.0,"Mar 25, 2015",3,remoto,Union Libre
+396,331,86021,m,37,guayaquil,RRHH,91662.0,"Jul 14, 2019",3,presencial,Union Libre
+397,318,92771,M,26,Guayaquil,Ventas,282341.0,26/09/2019,3,presencial,Union Libre
+398,556,80082,M,38,UIO,Ventas,268189.0,2016-03-13,4,presencial,Union Libre
+399,591,98106,m,38,guayaquil,Tecnologia,258547.0,08/06/2024,3,remoto,Union Libre
+400,53,82659,female,41,UIO,Tecnologia,434287.0,"Aug 30, 2025",3,remoto,Casado
+401,696,42857,female,41,quito,Tecnologia,265699.0,2021-02-25,3,remoto,Casado
+402,883,86461,m,22,Guayaquil,Tecnologia,484503.0,22/03/2019,3,presencial,Union Libre
+403,13,86614,F,29,guayaquil,Tecnologia,110053.0,10/05/2025,3,remoto,Union Libre
+404,27,94757,F,42,Guayaquil,Operaciones,276942.0,26/08/2017,5,presencial,Soltero
+405,450,84794,M,44,guayaquil,Ventas,130601.0,2020-05-12,3,presencial,Casado
+406,602,85861,M,30,Guayaquil,Operaciones,156881.0,25/08/2015,2,presencial,Union Libre
+407,742,39457,F,46,guayaquil,Finanzas,324744.0,2016-11-06,2,presencial,Casado
+408,753,63242,m,39,quito,Ventas,202443.0,13/12/2022,4,presencial,Soltero
+409,65,44528,female,48,Guayaquil,Tecnologia,32179.0,2019-05-09,4,hibrido,Divorciado
+410,565,89646,m,21,quito,Operaciones,125182.0,2019-07-08,3,presencial,Soltero
+411,441,24715,M,47,quito,Tecnologia,389086.0,2021-09-29,1,remoto,Casado
+412,857,93419,m,33,guayaquil,Tecnologia,243569.0,14/02/2023,4,remoto,Divorciado
+413,567,90074,M,32,Guayaquil,Operaciones,282017.0,"May 31, 2023",3,presencial,Soltero
+414,66,63610,F,36,quito,Ventas,465866.0,2021-01-09,2,presencial,Casado
+415,395,29976,M,26,guayaquil,Ventas,138877.0,2018-11-18,2,hibrido,Casado
+416,533,95904,female,42,guayaquil,Tecnologia,304067.0,28/05/2025,3,remoto,Casado
+417,461,85608,female,36,guayaquil,Tecnologia,182951.0,2018-12-06,4,remoto,Soltero
+418,97,13716,female,37,guayaquil,Tecnologia,319612.0,2018-04-02,3,remoto,Soltero
+419,493,17947,m,46,GYE,Tecnologia,214012.0,2023-04-19,2,remoto,Soltero
+420,213,22531,m,24,UIO,Ventas,228143.0,19/03/2024,4,presencial,Soltero
+421,294,95304,M,32,quito,Finanzas,459757.0,2024-08-09,2,hibrido,Union Libre
+422,365,61500,female,30,quito,Operaciones,219204.0,2021-01-12,4,presencial,Soltero
+423,150,94067,M,48,guayaquil,Operaciones,285858.0,2019-08-25,3,hibrido,Casado
+424,474,12246,m,32,UIO,Tecnologia,428519.0,2015-11-09,5,presencial,Union Libre
+425,206,38748,M,27,guayaquil,Ventas,338351.0,20/11/2020,4,hibrido,Soltero
+426,890,75324,female,31,GYE,Tecnologia,38981.0,2023-09-30,4,remoto,Casado
+427,11,47643,m,43,Guayaquil,Marketing,167458.0,02/06/2017,3,presencial,Soltero
+428,79,68428,F,40,quito,Operaciones,357134.0,15/04/2018,3,presencial,Casado
+429,595,35099,M,39,Guayaquil,Tecnologia,181354.0,2017-05-12,3,remoto,Casado
+430,457,17736,F,26,guayaquil,RRHH,154778.0,2015-09-16,1,hibrido,Union Libre
+431,648,19429,m,34,GYE,Tecnologia,241382.0,2025-02-22,2,remoto,Casado
+432,849,87335,female,26,guayaquil,RRHH,188266.0,2021-02-17,4,presencial,Soltero
+433,21,42424,M,33,Guayaquil,Marketing,215092.0,2020-02-21,4,presencial,Casado
+434,769,51495,M,30,Guayaquil,Marketing,107388.0,2025-08-20,5,presencial,Divorciado
+435,781,56888,female,42,UIO,Finanzas,22760.0,25/07/2023,2,presencial,Casado
+436,324,62481,m,38,Guayaquil,Ventas,154452.0,2019-05-28,5,remoto,Casado
+437,424,48821,M,44,Guayaquil,Ventas,478269.0,2021-10-25,3,presencial,Soltero
+438,511,21264,m,51,quito,Tecnologia,305297.0,2023-12-19,1,hibrido,Casado
+439,468,83867,F,29,guayaquil,Tecnologia,654914.0,2019-03-11,4,remoto,Casado
+440,653,80428,m,33,Guayaquil,Operaciones,18885.0,2017-01-06,3,hibrido,Soltero
+441,225,69166,M,32,guayaquil,Tecnologia,200156.0,14/03/2022,4,remoto,Union Libre
+442,566,30438,female,31,guayaquil,Ventas,92344.0,"Jan 05, 2017",3,hibrido,Soltero
+443,822,49950,F,32,quito,Marketing,186473.0,19/07/2018,4,presencial,Soltero
+444,490,53081,M,49,quito,Operaciones,320261.0,30/05/2021,4,hibrido,Divorciado
+445,181,23265,M,36,guayaquil,Operaciones,229104.0,2024-12-01,2,presencial,Casado
+446,269,98620,M,34,guayaquil,Ventas,274816.0,2022-08-30,5,hibrido,Union Libre
+447,246,43981,female,37,Guayaquil,Ventas,185984.0,13/11/2016,4,presencial,Soltero
+448,129,94077,m,43,UIO,Ventas,162828.0,"Dec 08, 2020",4,presencial,Union Libre
+449,385,24832,m,23,Guayaquil,Operaciones,150625.0,22/08/2015,2,presencial,Union Libre
+450,530,54377,m,24,guayaquil,RRHH,75253.0,13/03/2023,4,hibrido,Soltero
+451,480,90663,F,44,quito,Ventas,303173.0,2017-01-03,4,hibrido,Soltero
+452,665,49083,M,30,GYE,Finanzas,147336.0,2018-01-06,2,presencial,Soltero
+453,305,25590,F,27,GYE,Operaciones,156926.0,2015-07-14,2,presencial,Soltero
+454,380,48459,M,44,guayaquil,Marketing,520151.0,08/08/2024,5,presencial,Casado
+455,82,62779,female,28,GYE,Operaciones,89117.0,2022-11-14,5,presencial,Union Libre
+456,538,92977,m,31,GYE,Finanzas,171816.0,13/10/2017,2,presencial,Soltero
+457,739,12606,female,35,guayaquil,RRHH,230283.0,2018-06-13,5,presencial,Casado
+458,903,13610,F,26,quito,Finanzas,188396.0,2017-03-23,5,presencial,Soltero
+459,342,39623,M,36,quito,Finanzas,281558.0,11/04/2025,1,presencial,Soltero
+460,785,21026,female,22,GYE,RRHH,26155.0,"Sep 23, 2016",3,presencial,Soltero
+461,299,47130,m,43,guayaquil,Ventas,344941.0,29/04/2015,4,presencial,Casado
+462,519,93702,F,33,quito,Tecnologia,213164.0,"Aug 07, 2015",3,remoto,Casado
+463,856,59368,m,47,UIO,Operaciones,249456.0,2025-10-22,3,presencial,Soltero
+464,454,25053,M,40,Guayaquil,Operaciones,128692.0,27/09/2021,3,presencial,Union Libre
+465,796,46359,F,28,guayaquil,Operaciones,211999.0,06/03/2024,3,hibrido,Soltero
+466,628,47313,female,37,guayaquil,Finanzas,299354.0,31/03/2019,5,presencial,Soltero
+467,185,56942,M,38,guayaquil,Finanzas,394167.0,2023-05-15,3,presencial,Soltero
+468,937,18992,F,41,GYE,RRHH,85967.0,10/11/2015,4,hibrido,Divorciado
+469,914,18406,F,40,UIO,Tecnologia,196393.0,27/07/2022,1,hibrido,Union Libre
+470,535,69264,female,38,quito,Tecnologia,262097.0,2015-08-27,2,remoto,Casado
+471,842,36792,F,31,guayaquil,Tecnologia,432388.0,2016-03-14,1,remoto,Casado
+472,604,11246,female,40,quito,Ventas,35505.0,2019-06-29,3,presencial,Soltero
+473,631,77722,M,35,quito,Ventas,283683.0,2022-03-30,4,presencial,Soltero
+474,710,20531,F,34,Guayaquil,Tecnologia,270398.0,04/01/2019,5,hibrido,Casado
+475,641,19470,F,47,Guayaquil,Operaciones,242537.0,19/08/2021,4,presencial,Casado
+476,543,58702,m,33,GYE,Tecnologia,335515.0,2019-06-17,4,hibrido,Soltero
+477,532,28122,m,37,guayaquil,Tecnologia,80000.0,01/04/2018,3,remoto,Union Libre
+478,901,69062,m,35,GYE,Ventas,29957.0,"Mar 18, 2015",3,presencial,Casado
+479,576,52043,M,36,GYE,Operaciones,202001.0,2022-02-07,3,presencial,Union Libre
+480,553,22872,female,42,guayaquil,Tecnologia,368232.0,"Feb 01, 2020",3,remoto,Soltero
+481,316,84238,female,42,Guayaquil,Tecnologia,30072.0,2024-02-13,4,hibrido,Casado
+482,858,78693,m,46,Guayaquil,Ventas,20765.0,2022-05-23,4,presencial,Soltero
+483,279,25645,m,30,UIO,Tecnologia,255584.0,"Jun 15, 2022",4,hibrido,Soltero
+484,524,74393,M,44,quito,Ventas,525987.0,21/09/2017,3,hibrido,Union Libre
+485,211,57523,female,41,quito,Tecnologia,352203.0,2025-12-03,3,remoto,Union Libre
+486,599,55300,m,32,guayaquil,Tecnologia,288675.0,2016-10-06,3,hibrido,Union Libre
+487,848,35512,F,38,Guayaquil,Ventas,103037.0,2020-12-09,4,presencial,Casado
+488,806,14643,F,33,GYE,Operaciones,135518.0,2017-07-05,4,hibrido,Union Libre
+489,81,78220,M,31,quito,Tecnologia,257146.0,10/09/2017,3,remoto,Divorciado
+490,0,68929,m,47,UIO,Operaciones,291479.0,2024-11-16,4,presencial,Union Libre
+491,287,74912,m,23,Guayaquil,Tecnologia,346708.0,09/01/2017,3,remoto,Union Libre
+492,495,78839,F,44,Guayaquil,Finanzas,191995.0,2015-06-05,3,hibrido,Soltero
+493,43,35636,female,29,Guayaquil,Tecnologia,154802.0,25/03/2025,3,remoto,Soltero
+494,731,52956,female,36,quito,Finanzas,221012.0,2019-09-17,3,presencial,Union Libre
+495,366,31446,m,54,GYE,Tecnologia,30130.0,18/05/2021,3,remoto,Casado
+496,402,95178,M,37,quito,RRHH,70131.0,14/09/2016,3,hibrido,Soltero
+497,281,71181,M,38,guayaquil,Marketing,96938.0,22/01/2022,3,presencial,Casado
+498,243,79090,female,39,GYE,Ventas,195928.0,03/04/2025,5,hibrido,Soltero
+499,41,72410,F,43,Guayaquil,Operaciones,34393.0,"Jul 08, 2018",3,presencial,Divorciado
+500,91,12153,F,43,Guayaquil,Finanzas,244153.0,16/06/2020,3,presencial,Casado
+501,238,19112,female,30,Guayaquil,Finanzas,197652.0,2015-02-11,3,remoto,Union Libre
+502,760,19234,M,30,guayaquil,Marketing,7000.0,"Aug 03, 2024",5,presencial,Casado
+503,736,30223,m,39,GYE,Operaciones,284766.0,17/09/2019,3,presencial,Soltero
+504,92,71013,F,42,guayaquil,Ventas,426347.0,"Oct 29, 2020",1,presencial,Union Libre
+505,389,82150,m,39,guayaquil,Finanzas,19501.0,2019-09-01,3,presencial,Soltero
+506,49,13903,M,37,UIO,Operaciones,129052.0,2024-07-08,4,presencial,Soltero
+507,761,65122,F,27,UIO,Finanzas,368268.0,2020-10-29,3,presencial,Soltero
+508,672,42289,m,26,Guayaquil,Marketing,144191.0,2022-11-27,3,presencial,Union Libre
+509,167,95102,m,37,Guayaquil,Tecnologia,309918.0,2017-06-22,1,remoto,Soltero
+510,748,22329,female,42,quito,Marketing,235852.0,2024-02-17,3,hibrido,Casado
+511,812,14902,m,26,Guayaquil,Marketing,127274.0,"Jul 30, 2020",2,hibrido,Union Libre
+512,527,24828,m,31,UIO,Tecnologia,358748.0,2020-06-23,4,remoto,Soltero
+513,688,79877,female,45,guayaquil,Marketing,248928.0,11/05/2017,3,hibrido,Soltero
+514,875,16803,m,24,guayaquil,Operaciones,249143.0,02/04/2016,4,remoto,Union Libre
+515,949,14657,F,32,GYE,Tecnologia,398968.0,07/10/2024,2,remoto,Union Libre
+516,509,22490,female,37,guayaquil,Ventas,130407.0,11/04/2019,4,hibrido,Soltero
+517,729,34292,F,41,UIO,Tecnologia,355946.0,2018-04-07,5,hibrido,Soltero
+518,221,34986,M,33,quito,Operaciones,18123.0,2021-07-07,4,presencial,Casado
+519,916,66282,M,35,guayaquil,Finanzas,307214.0,2020-04-20,3,presencial,Union Libre
+520,74,72450,M,28,quito,Tecnologia,187385.0,2025-03-16,4,remoto,Divorciado
+521,376,76256,female,29,quito,Ventas,362936.0,23/01/2015,3,remoto,Soltero
+522,718,64931,female,40,quito,Tecnologia,271123.0,2022-05-02,4,remoto,Soltero
+523,445,45578,female,40,quito,RRHH,178261.0,2015-09-04,2,hibrido,Casado
+524,116,58585,female,45,Guayaquil,Marketing,162821.0,2015-03-25,5,presencial,Casado
+525,377,77028,m,31,quito,Ventas,428432.0,2020-03-27,3,presencial,Soltero
+526,713,54665,F,27,guayaquil,Tecnologia,411669.0,04/04/2020,5,remoto,Casado
+527,59,22887,F,43,quito,Tecnologia,301597.0,31/05/2015,3,hibrido,Casado
+528,578,25853,m,38,quito,Ventas,153729.0,2017-05-21,5,presencial,Soltero
+529,906,32349,M,31,quito,Ventas,9272.0,19/01/2015,4,presencial,Soltero
+530,310,69276,m,28,quito,Operaciones,91307.0,"Oct 24, 2016",5,hibrido,Soltero
+531,803,33169,M,39,guayaquil,Ventas,7250.0,"Aug 29, 2018",4,hibrido,Casado
+532,851,21727,M,48,quito,Operaciones,335603.0,2022-12-26,4,presencial,Casado
+533,452,49708,M,38,GYE,Tecnologia,80000.0,2019-02-17,4,hibrido,Union Libre
+534,1,67346,M,35,guayaquil,Tecnologia,233622.0,17/07/2023,4,hibrido,Casado
+535,271,69046,F,37,quito,Ventas,191892.0,2023-01-31,4,hibrido,Soltero
+536,265,56911,M,27,guayaquil,Marketing,115993.0,2025-12-03,4,presencial,Soltero
+537,319,47287,F,30,UIO,RRHH,224593.0,06/02/2020,2,presencial,Divorciado
+538,291,82193,M,28,guayaquil,Tecnologia,400291.0,2026-01-19,3,remoto,Soltero
+539,61,83714,M,47,GYE,Ventas,185778.0,"Nov 30, 2020",3,presencial,Casado
+540,859,89722,m,36,guayaquil,Operaciones,185026.0,2022-10-10,3,hibrido,Soltero
+541,444,54185,m,32,quito,Operaciones,173841.0,2015-02-02,3,presencial,Soltero
+542,80,14500,female,22,guayaquil,Tecnologia,430564.0,2017-08-16,5,hibrido,Soltero
+543,222,55081,F,33,UIO,Finanzas,504084.0,"Dec 01, 2025",2,presencial,Divorciado
+544,214,22906,F,34,Guayaquil,Ventas,221254.0,2017-01-12,2,presencial,Soltero
+545,783,47022,female,35,guayaquil,Marketing,141467.0,28/03/2015,4,hibrido,Union Libre
+546,325,90360,M,42,GYE,Tecnologia,516096.0,28/01/2022,1,hibrido,Union Libre
+547,834,23761,F,36,Guayaquil,Tecnologia,271096.0,2018-08-20,3,remoto,Soltero
+548,282,66656,female,24,guayaquil,Marketing,169169.0,2021-10-16,5,presencial,Casado
+549,270,22532,m,45,UIO,RRHH,82329.0,2017-07-29,4,presencial,Soltero
+550,610,38549,F,39,GYE,Marketing,182879.0,2022-08-29,2,presencial,Union Libre
+551,614,16314,M,25,quito,Operaciones,185806.0,"Jun 30, 2017",5,presencial,Soltero
+552,630,55369,m,36,GYE,RRHH,7180.0,02/01/2022,3,presencial,Casado
+553,304,53055,female,50,guayaquil,Finanzas,175547.0,2020-02-03,2,presencial,Union Libre
+554,137,69699,m,38,Guayaquil,Tecnologia,467543.0,2019-12-18,3,remoto,Soltero
+555,276,93560,M,38,quito,Finanzas,180812.0,"Apr 09, 2015",4,presencial,Soltero
+556,926,79510,m,42,quito,Operaciones,270107.0,2020-02-11,2,presencial,Divorciado
+557,122,38661,F,36,guayaquil,Ventas,117234.0,20/10/2020,5,hibrido,Casado
+558,340,18666,F,41,Guayaquil,Tecnologia,286512.0,"Jan 28, 2026",4,remoto,Soltero
+559,102,40574,M,35,Guayaquil,Ventas,79545.0,03/11/2020,4,presencial,Soltero
+560,662,83289,m,51,GYE,Ventas,209597.0,2020-01-23,4,presencial,Casado
+561,374,63275,female,31,guayaquil,Finanzas,450641.0,26/07/2016,4,hibrido,Union Libre
+562,3,80010,F,32,GYE,Ventas,118848.0,10/08/2019,4,presencial,Union Libre
+563,99,21793,F,34,quito,Tecnologia,232862.0,2024-12-21,4,remoto,Union Libre
+564,676,78740,M,46,Guayaquil,Ventas,28155.0,2015-02-05,4,presencial,Divorciado
+565,800,18447,M,36,Guayaquil,RRHH,8282.0,11/11/2023,4,presencial,Union Libre
+566,704,93583,m,47,quito,Tecnologia,563215.0,27/05/2015,3,hibrido,Casado
+567,942,89770,M,54,guayaquil,Operaciones,162174.0,"Dec 30, 2016",5,presencial,Soltero
+568,37,58076,M,50,guayaquil,RRHH,221436.0,05/03/2024,4,presencial,Casado
+569,870,86325,m,36,guayaquil,RRHH,181108.0,21/07/2020,4,hibrido,Union Libre
+570,93,50742,m,45,UIO,Ventas,217104.0,2015-04-19,3,presencial,Union Libre
+571,910,20184,female,36,GYE,RRHH,178836.0,"Jan 22, 2024",3,presencial,Union Libre
+572,369,46220,m,31,UIO,Ventas,323546.0,2025-05-26,3,presencial,Casado
+573,779,58700,female,42,Guayaquil,Tecnologia,367603.0,19/04/2021,3,remoto,Casado
+574,98,67352,m,33,Guayaquil,Finanzas,173365.0,"Jul 03, 2022",3,presencial,Soltero
+575,880,96217,female,40,Guayaquil,Marketing,195667.0,13/01/2018,3,presencial,Casado
+576,548,85038,female,28,UIO,Tecnologia,35743.0,13/04/2023,4,remoto,Soltero
+577,554,92227,m,25,guayaquil,RRHH,87428.0,26/08/2023,3,presencial,Soltero
+578,223,96505,M,37,UIO,Tecnologia,281383.0,2017-03-27,2,remoto,Union Libre
+579,626,95525,female,37,Guayaquil,Ventas,16201.0,"Jun 17, 2018",3,presencial,Soltero
+580,448,34708,M,43,guayaquil,Finanzas,278279.0,2025-12-29,5,presencial,Divorciado
+581,854,83134,female,34,quito,Ventas,92916.0,2016-01-24,4,presencial,Casado
+582,159,96324,M,45,Guayaquil,Ventas,80000.0,2016-10-04,2,presencial,Casado
+583,262,26885,m,29,guayaquil,Operaciones,188354.0,2025-07-23,5,presencial,Union Libre
+584,240,29711,m,35,quito,Tecnologia,18667.0,16/10/2015,4,remoto,Soltero
+585,593,74748,m,31,guayaquil,Ventas,433468.0,2021-01-28,3,presencial,Casado
+586,874,17540,m,35,Guayaquil,Tecnologia,643253.0,2024-10-06,1,remoto,Union Libre
+587,121,30829,M,50,Guayaquil,Operaciones,155707.0,"Nov 23, 2016",4,remoto,Casado
+588,363,47305,M,35,quito,Finanzas,23203.0,21/04/2016,3,presencial,Casado
+589,686,60312,F,21,GYE,Tecnologia,415721.0,2021-08-13,5,presencial,Soltero
+590,403,31307,F,27,guayaquil,Marketing,152432.0,02/07/2018,3,presencial,Casado
+591,88,32016,M,30,guayaquil,RRHH,152584.0,2025-08-11,3,remoto,Soltero
+592,946,90086,m,32,GYE,RRHH,221028.0,2023-01-15,4,remoto,Soltero
+593,190,76788,female,35,Guayaquil,Ventas,102632.0,2025-02-27,3,presencial,Casado
+594,732,67082,m,34,quito,Tecnologia,271926.0,19/04/2025,5,remoto,Casado
+595,288,15961,M,27,Guayaquil,Operaciones,230747.0,"Aug 16, 2016",2,presencial,Soltero
+596,702,60763,M,34,quito,Finanzas,211137.0,18/03/2019,4,presencial,Soltero
+597,619,68026,m,36,Guayaquil,Operaciones,132774.0,08/04/2017,4,remoto,Soltero
+598,210,14782,F,45,guayaquil,Finanzas,244076.0,2022-09-05,3,presencial,Casado
+599,846,13250,M,34,UIO,Operaciones,187561.0,2017-04-11,3,presencial,Soltero
+600,322,36536,female,48,guayaquil,Tecnologia,328745.0,11/05/2025,4,hibrido,Divorciado
+601,823,90949,female,33,UIO,Operaciones,249586.0,2024-04-24,5,presencial,Soltero
+602,720,92445,F,40,quito,Ventas,245258.0,2021-10-25,5,hibrido,Casado
+603,127,14015,female,50,GYE,Operaciones,11627.0,"May 15, 2017",2,presencial,Union Libre
+604,571,25806,female,21,UIO,RRHH,174334.0,2023-01-23,4,presencial,Casado
+605,204,32398,m,32,guayaquil,RRHH,114681.0,06/01/2021,3,presencial,Soltero
+606,634,69223,female,54,guayaquil,Tecnologia,421141.0,"Oct 03, 2025",2,hibrido,Union Libre
+607,539,34340,M,34,Guayaquil,RRHH,172175.0,2025-09-08,3,presencial,Union Libre
+608,940,12853,F,30,guayaquil,Finanzas,313162.0,25/11/2021,3,hibrido,Soltero
+609,40,52582,F,29,Guayaquil,Tecnologia,216575.0,2019-01-05,3,remoto,Soltero
+610,469,93809,F,33,guayaquil,Tecnologia,284933.0,"Nov 23, 2023",4,hibrido,Soltero
+611,351,66766,female,54,quito,Finanzas,326791.0,2021-03-03,3,presencial,Casado
+612,187,21639,M,35,Guayaquil,RRHH,319144.0,2020-01-29,4,presencial,Soltero
+613,947,81406,M,48,Guayaquil,Marketing,304141.0,2022-06-12,2,hibrido,Divorciado
+614,321,81354,M,45,Guayaquil,Operaciones,137596.0,2022-11-14,3,presencial,Soltero
+615,421,84259,M,36,quito,Tecnologia,246873.0,13/10/2022,5,hibrido,Casado
+616,412,86402,M,34,UIO,Tecnologia,321925.0,2018-02-10,4,hibrido,Casado
+617,458,27454,female,43,quito,Tecnologia,195615.0,03/09/2017,4,remoto,Divorciado
+618,76,18604,m,40,GYE,Marketing,237349.0,12/12/2018,4,presencial,Divorciado
+619,703,31215,F,38,Guayaquil,Tecnologia,380506.0,2015-02-25,3,remoto,Soltero
+620,734,95211,M,29,guayaquil,Operaciones,109253.0,24/08/2015,5,presencial,Soltero
+621,763,67585,m,23,Guayaquil,Ventas,237184.0,2018-02-09,3,presencial,Soltero
+622,544,21578,F,36,guayaquil,Operaciones,13685.0,12/12/2015,3,hibrido,Soltero
+623,300,91987,m,45,UIO,Operaciones,290682.0,2020-07-27,4,presencial,Casado
+624,349,12908,m,51,UIO,Tecnologia,665049.0,2020-08-03,3,remoto,Union Libre
+625,587,63618,female,34,quito,Tecnologia,398149.0,2024-04-09,1,remoto,Soltero
+626,182,74421,female,36,guayaquil,Operaciones,230955.0,2023-08-09,3,presencial,Soltero
+627,397,48580,m,31,quito,Operaciones,175409.0,2024-06-09,4,presencial,Casado
+628,722,21410,m,31,Guayaquil,Finanzas,127523.0,2020-10-07,5,presencial,Soltero
+629,506,11931,M,39,quito,Ventas,329035.0,"Aug 22, 2025",4,remoto,Casado
+630,360,76094,F,38,GYE,Tecnologia,234401.0,2022-10-17,4,presencial,Soltero
+631,87,34063,M,32,guayaquil,Ventas,9670.0,"Sep 16, 2024",2,presencial,Casado
+632,207,88225,M,53,Guayaquil,Ventas,305112.0,"May 12, 2023",2,remoto,Casado
+633,392,64702,F,31,Guayaquil,Tecnologia,168995.0,2015-08-24,5,remoto,Casado
+634,501,74013,female,38,UIO,Tecnologia,257743.0,2019-08-11,5,hibrido,Union Libre
+635,200,35850,female,41,GYE,Tecnologia,183392.0,2018-11-06,5,remoto,Union Libre
+636,147,34301,F,47,guayaquil,Tecnologia,368246.0,2015-04-02,4,hibrido,Casado
+637,913,37314,female,30,Guayaquil,Ventas,175322.0,2018-05-31,5,remoto,Casado
+638,31,85257,female,38,Guayaquil,Tecnologia,295573.0,2015-03-14,4,remoto,Casado
+639,884,93004,m,26,guayaquil,Tecnologia,294731.0,08/11/2022,3,hibrido,Soltero
+640,158,40007,m,41,Guayaquil,Ventas,231333.0,2016-08-11,3,presencial,Casado
+641,245,21608,m,40,Guayaquil,Finanzas,336334.0,2015-05-13,3,presencial,Union Libre
+642,55,96665,F,28,guayaquil,Ventas,374129.0,"May 06, 2025",3,presencial,Soltero
+643,339,66133,M,39,guayaquil,Marketing,87593.0,03/08/2025,1,presencial,Soltero
+644,233,86250,m,30,quito,Tecnologia,281253.0,2018-03-16,4,remoto,Soltero
+645,678,55496,M,47,Guayaquil,Tecnologia,520856.0,2016-11-23,4,remoto,Union Libre
+646,20,20810,M,31,Guayaquil,Operaciones,181867.0,2017-01-26,3,presencial,Soltero
+647,372,65589,female,40,guayaquil,Tecnologia,317976.0,23/03/2018,4,hibrido,Soltero
+648,345,11309,m,28,Guayaquil,Ventas,270431.0,"Jan 31, 2021",4,remoto,Soltero
+649,143,72710,F,44,guayaquil,Ventas,192445.0,"Feb 12, 2015",3,presencial,Casado
+650,756,56393,M,48,UIO,Ventas,214371.0,"Dec 24, 2018",4,presencial,Casado
+651,135,76089,F,43,guayaquil,Marketing,102387.0,"Jan 24, 2026",4,presencial,Casado
+652,768,71793,female,40,Guayaquil,Tecnologia,13103.0,13/05/2016,5,remoto,Casado
+653,440,37113,female,33,quito,Operaciones,122817.0,2015-12-17,5,presencial,Union Libre
+654,861,96697,F,38,quito,Tecnologia,205547.0,2017-05-16,4,presencial,Casado
+655,707,46682,M,44,GYE,Tecnologia,202705.0,2019-07-30,4,remoto,Casado
+656,503,86078,M,40,UIO,Tecnologia,498377.0,2021-11-18,2,remoto,Divorciado
+657,603,38659,M,28,UIO,Tecnologia,252009.0,26/12/2016,3,remoto,Soltero
+658,379,75114,F,27,Guayaquil,Finanzas,286768.0,26/01/2023,4,hibrido,Union Libre
+659,57,79913,female,31,guayaquil,Operaciones,123296.0,26/02/2016,4,hibrido,Soltero
+660,398,64472,m,33,guayaquil,Ventas,215137.0,2020-03-04,4,presencial,Soltero
+661,563,83145,female,30,UIO,Operaciones,301803.0,14/07/2018,5,presencial,Soltero
+662,845,10474,F,26,guayaquil,Tecnologia,232658.0,2020-06-22,4,hibrido,Soltero
+663,381,58873,female,41,GYE,Operaciones,229185.0,2020-07-09,3,presencial,Divorciado
+664,286,86543,M,36,quito,Operaciones,146699.0,"Jan 21, 2023",4,presencial,Soltero
+665,302,75780,F,43,UIO,Ventas,151846.0,2017-03-24,5,hibrido,Divorciado
+666,154,76240,female,35,guayaquil,Ventas,236083.0,"Aug 01, 2015",3,presencial,Casado
+667,582,55154,female,25,guayaquil,Finanzas,618797.0,"May 28, 2017",4,hibrido,Soltero
+668,455,92593,female,39,Guayaquil,Marketing,30155.0,2025-02-10,3,presencial,Casado
+669,670,77456,m,37,quito,Finanzas,277806.0,"Nov 24, 2022",5,presencial,Casado
+670,744,44031,female,40,Guayaquil,Operaciones,91844.0,15/04/2025,5,presencial,Soltero
+671,740,79032,female,48,Guayaquil,Tecnologia,365566.0,2023-09-30,4,hibrido,Casado
+672,130,24384,F,31,guayaquil,Finanzas,22185.0,21/08/2015,4,hibrido,Soltero
+673,28,18595,m,42,UIO,Tecnologia,295346.0,08/11/2019,3,remoto,Casado
+674,802,26154,female,50,Guayaquil,Tecnologia,533191.0,2022-09-16,1,remoto,Divorciado
+675,408,66019,m,44,Guayaquil,Tecnologia,223431.0,13/04/2016,3,hibrido,Casado
+676,585,70626,female,31,GYE,Ventas,201721.0,18/11/2021,3,presencial,Casado
+677,155,17746,M,38,Guayaquil,Operaciones,7000.0,2015-12-29,3,presencial,Soltero
+678,100,53829,m,30,Guayaquil,Marketing,149368.0,09/10/2022,3,presencial,Soltero
+679,824,63764,female,22,GYE,Ventas,369646.0,2024-07-22,2,presencial,Soltero
+680,900,28158,F,41,Guayaquil,Tecnologia,194556.0,2017-09-06,3,hibrido,Soltero
+681,494,78468,F,30,GYE,Tecnologia,194423.0,2023-12-09,2,remoto,Soltero
+682,654,58503,M,44,quito,Tecnologia,280212.0,2019-04-17,5,presencial,Union Libre
+683,393,76068,F,40,GYE,Operaciones,249926.0,18/01/2025,2,presencial,Casado
+684,326,61937,M,31,Guayaquil,Ventas,236929.0,"Jan 06, 2019",4,remoto,Casado
+685,202,35298,m,36,guayaquil,Marketing,15279.0,02/02/2023,3,presencial,Soltero
+686,414,92983,F,39,Guayaquil,RRHH,167727.0,01/06/2018,3,presencial,Divorciado
+687,387,35703,F,37,Guayaquil,Tecnologia,304416.0,25/07/2015,4,remoto,Divorciado
+688,357,65796,M,35,quito,Operaciones,110259.0,2016-10-20,5,presencial,Soltero
+689,558,19628,female,40,Guayaquil,Ventas,144107.0,2016-04-25,4,presencial,Casado
+690,2,48795,m,30,GYE,Tecnologia,25750.0,2025-11-13,4,hibrido,Union Libre
+691,178,32428,F,51,guayaquil,Operaciones,300403.0,"Aug 17, 2018",5,hibrido,Casado
+692,314,79617,F,35,Guayaquil,Marketing,141998.0,"Jul 13, 2024",3,presencial,Divorciado
+693,236,44540,female,42,guayaquil,RRHH,325985.0,2019-11-14,3,hibrido,Soltero
+694,95,26808,M,38,quito,Operaciones,101769.0,2015-06-07,2,presencial,Union Libre
+695,166,18034,F,40,GYE,Ventas,111199.0,2022-12-07,4,presencial,Union Libre
+696,534,61193,m,43,UIO,Marketing,330066.0,2020-01-14,3,remoto,Casado
+697,821,76231,F,30,Guayaquil,RRHH,299551.0,2020-08-19,4,presencial,Casado
+698,579,93895,M,37,Guayaquil,Operaciones,109646.0,"Aug 29, 2021",3,presencial,Casado
+699,157,46504,F,39,Guayaquil,Tecnologia,24229.0,"Sep 16, 2021",3,remoto,Casado
+700,711,56519,female,46,guayaquil,Tecnologia,544477.0,16/05/2023,3,remoto,Casado
+701,573,84332,F,29,UIO,Ventas,366561.0,21/04/2016,4,hibrido,Soltero
+702,449,31116,m,27,quito,Tecnologia,269719.0,2015-04-28,4,hibrido,Soltero
+703,69,49812,female,29,guayaquil,Tecnologia,610233.0,15/07/2020,4,remoto,Soltero
+704,51,55810,m,44,Guayaquil,Marketing,131268.0,2024-02-03,3,presencial,Union Libre
+705,399,81737,female,26,Guayaquil,Operaciones,152435.0,2017-09-25,2,presencial,Soltero
+706,17,96592,female,22,guayaquil,Tecnologia,279003.0,2020-01-24,3,remoto,Soltero
+707,633,84059,female,29,guayaquil,Marketing,146549.0,2018-10-05,3,presencial,Soltero
+708,388,35090,m,41,UIO,Tecnologia,359512.0,2017-01-24,5,remoto,Casado
+709,934,85924,m,35,UIO,Ventas,240578.0,2015-03-04,3,presencial,Casado
+710,162,20226,F,34,quito,Marketing,465972.0,2016-05-02,3,presencial,Soltero
+711,164,23590,m,21,GYE,Operaciones,218405.0,26/10/2015,2,remoto,Soltero
+712,598,50820,M,24,Guayaquil,Finanzas,189536.0,2015-03-13,4,presencial,Union Libre
+713,459,31195,F,37,Guayaquil,Tecnologia,195283.0,2018-01-21,2,remoto,Union Libre
+714,728,66603,F,36,quito,Ventas,280253.0,2020-07-26,1,presencial,Casado
+715,430,31645,m,47,quito,Tecnologia,302002.0,24/07/2024,5,hibrido,Union Libre
+716,104,50115,F,31,guayaquil,Finanzas,330414.0,2016-08-23,5,presencial,Soltero
+717,197,18128,M,48,quito,Ventas,269468.0,2017-07-21,4,hibrido,Casado
+718,867,23748,m,50,UIO,Ventas,228336.0,19/11/2023,5,presencial,Casado
+719,215,85030,F,33,UIO,RRHH,142724.0,2021-05-03,3,presencial,Union Libre
+720,443,22465,F,43,guayaquil,Operaciones,113922.0,2015-12-19,5,hibrido,Casado
+721,829,42957,M,34,Guayaquil,Operaciones,91456.0,23/05/2025,5,presencial,Union Libre
+722,361,15481,F,29,Guayaquil,Tecnologia,610392.0,2020-02-14,3,remoto,Soltero
+723,437,43413,F,36,Guayaquil,Finanzas,58412.0,2017-09-01,4,presencial,Soltero
+724,645,46437,M,40,GYE,Ventas,229468.0,"Apr 03, 2023",3,presencial,Divorciado
+725,312,58852,female,42,Guayaquil,RRHH,185655.0,2022-06-29,3,presencial,Casado
+726,370,72333,m,36,guayaquil,Finanzas,246489.0,"Aug 27, 2025",3,presencial,Union Libre
+727,463,30866,m,43,guayaquil,Tecnologia,283589.0,2023-03-24,3,hibrido,Casado
+728,746,17236,female,43,UIO,Tecnologia,221048.0,28/06/2015,2,remoto,Casado
+729,407,55292,female,34,guayaquil,Operaciones,305731.0,14/10/2021,3,remoto,Soltero
+730,891,66011,m,40,Guayaquil,Ventas,161997.0,2018-05-26,3,hibrido,Soltero
+731,489,68356,m,33,UIO,Tecnologia,244196.0,2016-05-27,5,hibrido,Casado
+732,518,96492,M,28,quito,Tecnologia,204628.0,2023-05-04,4,remoto,Soltero
+733,706,56630,female,44,GYE,RRHH,147627.0,2017-10-29,4,presencial,Soltero
+734,752,92188,F,35,UIO,Tecnologia,13425.0,"Oct 11, 2017",2,remoto,Soltero
+735,660,35874,female,24,guayaquil,Tecnologia,72345.0,08/07/2020,3,remoto,Union Libre
+736,453,82245,m,38,Guayaquil,Ventas,491978.0,2018-06-05,5,presencial,Casado
+737,904,31133,F,46,Guayaquil,Finanzas,33598.0,2021-02-08,3,hibrido,Soltero
+738,790,54226,m,41,GYE,Finanzas,336874.0,13/02/2015,3,presencial,Divorciado
+739,600,62154,m,28,GYE,Tecnologia,419767.0,2018-03-11,3,hibrido,Soltero
+740,695,24053,M,44,UIO,Finanzas,217396.0,2021-05-01,1,presencial,Divorciado
+741,172,37128,M,38,UIO,Operaciones,152652.0,"Mar 04, 2024",1,presencial,Divorciado
+742,183,84169,F,32,Guayaquil,Operaciones,146688.0,2026-02-08,3,presencial,Casado
+743,735,55711,M,48,quito,Tecnologia,338358.0,07/06/2025,3,presencial,Casado
+744,63,73901,M,38,quito,Tecnologia,41584.0,"Mar 15, 2016",3,remoto,Union Libre
+745,231,65301,m,47,quito,Tecnologia,467787.0,01/10/2019,5,remoto,Soltero
+746,572,17822,F,38,UIO,Tecnologia,741437.0,27/06/2017,5,remoto,Soltero
+747,193,54113,M,38,guayaquil,Tecnologia,713995.0,"Jul 08, 2025",1,hibrido,Soltero
+748,701,33892,m,29,guayaquil,Tecnologia,631215.0,"Apr 22, 2019",4,hibrido,Soltero
+749,267,79610,female,32,guayaquil,Finanzas,385006.0,2023-05-02,5,presencial,Union Libre
+750,418,54676,M,44,quito,Ventas,153579.0,"May 27, 2023",3,presencial,Soltero
+751,173,20646,m,30,guayaquil,RRHH,95522.0,2026-01-05,4,remoto,Casado
+752,356,33309,F,42,quito,Finanzas,247273.0,"Mar 19, 2016",3,remoto,Casado
+753,559,84703,m,29,GYE,Tecnologia,315385.0,2017-09-13,3,remoto,Casado
+754,887,22561,F,41,guayaquil,Ventas,91578.0,2023-12-14,4,presencial,Casado
+755,896,99875,female,27,GYE,Tecnologia,245794.0,"May 25, 2015",3,remoto,Soltero
+756,485,38209,M,28,quito,Operaciones,118861.0,2018-03-20,3,presencial,Soltero
+757,908,42843,M,28,quito,Tecnologia,33627.0,"Jan 23, 2026",2,remoto,Soltero
+758,141,88516,m,43,Guayaquil,Tecnologia,570594.0,2018-07-28,1,hibrido,Casado
+759,278,48561,m,52,quito,Operaciones,18679.0,"May 09, 2021",5,remoto,Casado
+760,175,25235,M,24,guayaquil,Operaciones,116642.0,2018-10-12,4,remoto,Soltero
+761,669,53885,m,42,Guayaquil,Marketing,168237.0,10/09/2022,5,presencial,Divorciado
+762,90,70865,F,38,UIO,Marketing,84656.0,2019-12-02,3,presencial,Union Libre
+763,918,81897,F,35,GYE,Tecnologia,393512.0,2023-04-14,3,remoto,Union Libre
+764,329,61727,m,27,Guayaquil,Tecnologia,230804.0,28/07/2021,5,hibrido,Soltero
+765,229,34544,female,21,UIO,Tecnologia,145597.0,2024-10-12,3,remoto,Soltero
+766,930,23709,F,36,Guayaquil,Tecnologia,375595.0,2016-08-04,4,remoto,Casado
+767,208,68419,female,42,guayaquil,Tecnologia,289566.0,04/03/2017,3,remoto,Union Libre
+768,510,86889,F,40,Guayaquil,Tecnologia,248429.0,27/07/2018,5,hibrido,Union Libre
+769,804,15145,female,33,Guayaquil,RRHH,166773.0,2025-03-30,3,presencial,Union Libre
+770,83,38249,m,22,guayaquil,Tecnologia,113298.0,2017-05-07,3,remoto,Casado
+771,75,90574,female,27,guayaquil,Ventas,106055.0,"Apr 11, 2024",3,hibrido,Soltero
+772,897,60711,m,39,guayaquil,Tecnologia,206123.0,2023-05-05,4,hibrido,Casado
+773,850,69512,female,24,guayaquil,Finanzas,38112.0,2021-08-13,5,remoto,Soltero
+774,170,48742,M,26,Guayaquil,Operaciones,148967.0,2017-07-01,2,presencial,Union Libre
+775,30,17874,female,24,UIO,Tecnologia,633145.0,2017-10-13,3,hibrido,Casado
+776,142,82622,m,45,quito,Operaciones,326715.0,2015-11-04,4,hibrido,Soltero
+777,126,36932,m,48,Guayaquil,Tecnologia,429322.0,2022-07-05,3,remoto,Soltero
+778,332,13343,female,41,Guayaquil,Tecnologia,167441.0,14/04/2024,3,hibrido,Soltero
+779,564,24896,m,33,Guayaquil,Tecnologia,24077.0,23/01/2024,3,remoto,Union Libre
+780,71,48963,F,41,guayaquil,Tecnologia,204149.0,2018-05-09,3,remoto,Union Libre
+781,254,12026,M,38,quito,Tecnologia,206977.0,2023-09-24,3,hibrido,Union Libre
+782,936,45269,M,38,guayaquil,Tecnologia,685796.0,"Feb 10, 2015",4,remoto,Soltero
+783,338,70072,F,31,Guayaquil,RRHH,136694.0,2025-09-29,3,presencial,Union Libre
+784,77,22520,F,47,quito,Tecnologia,477706.0,2020-02-14,3,hibrido,Casado
+785,228,20899,M,39,Guayaquil,Finanzas,455559.0,24/09/2022,3,hibrido,Divorciado
+786,531,26244,F,34,quito,Operaciones,13938.0,10/05/2025,1,presencial,Casado
+787,692,87221,M,43,guayaquil,Tecnologia,314995.0,11/02/2022,5,hibrido,Union Libre
+788,383,84749,F,36,guayaquil,Operaciones,131672.0,2015-02-01,4,presencial,Union Libre
+789,171,59871,female,36,guayaquil,Tecnologia,111345.0,2020-09-22,3,hibrido,Soltero
+790,508,79422,m,33,Guayaquil,Marketing,206462.0,2024-12-02,5,hibrido,Casado
+791,500,62964,female,34,UIO,Tecnologia,95857.0,12/12/2024,3,hibrido,Soltero
+792,284,71524,m,46,quito,Operaciones,16600.0,2018-04-15,4,presencial,Union Libre
+793,472,75532,M,38,guayaquil,Finanzas,295828.0,2016-12-16,4,presencial,Soltero
+794,335,30575,M,40,guayaquil,Ventas,222603.0,14/07/2024,4,presencial,Casado
+795,75,90574,female,27,guayaquil,Ventas,106055.0,"Apr 11, 2024",3,hibrido,Soltero
+796,844,28151,M,35,Guayaquil,Ventas,366086.0,30/11/2024,4,presencial,Casado
+797,134,62112,female,31,UIO,Ventas,550904.0,"Apr 08, 2022",4,presencial,Casado
+798,679,20642,m,43,guayaquil,Finanzas,200675.0,18/08/2019,5,presencial,Union Libre
+799,507,72871,female,36,Guayaquil,Tecnologia,21433.0,"Mar 07, 2025",4,remoto,Casado
+800,862,78572,M,42,Guayaquil,Tecnologia,117548.0,2023-11-01,4,hibrido,Casado
+801,721,84156,female,26,guayaquil,Tecnologia,171064.0,22/11/2018,5,remoto,Union Libre
+802,923,97153,female,37,guayaquil,Ventas,212539.0,2016-05-02,4,presencial,Soltero
+803,256,52397,M,40,guayaquil,Ventas,212311.0,2022-10-17,3,presencial,Casado
+804,201,51586,m,48,UIO,Finanzas,591318.0,2022-08-14,4,presencial,Casado
+805,334,56948,F,38,UIO,Marketing,213408.0,2015-11-05,5,presencial,Soltero
+806,772,68381,female,27,guayaquil,Ventas,516645.0,2018-11-06,2,presencial,Soltero
+807,643,56323,F,37,Guayaquil,Tecnologia,231333.0,2016-01-20,3,remoto,Soltero
+808,117,72418,M,36,quito,Ventas,106257.0,07/11/2022,2,hibrido,Soltero
+809,888,17390,female,31,GYE,Operaciones,114362.0,20/07/2017,4,presencial,Casado
+810,259,13322,F,47,GYE,Tecnologia,331122.0,2015-03-01,1,remoto,Casado
+811,12,59507,M,43,quito,Marketing,13887.0,"Apr 19, 2017",5,presencial,Union Libre
+812,343,48680,M,31,quito,Tecnologia,184738.0,2023-12-21,4,hibrido,Union Libre
+813,816,81867,M,24,Guayaquil,Tecnologia,302358.0,2022-11-18,3,remoto,Soltero
+814,62,13969,female,46,Guayaquil,Tecnologia,49161.0,"Jan 28, 2024",3,remoto,Soltero
+815,123,57664,F,21,quito,Tecnologia,337238.0,2020-05-19,2,hibrido,Soltero
+816,869,71500,female,36,Guayaquil,Ventas,103564.0,2019-06-28,3,hibrido,Union Libre
+817,9,11596,F,31,guayaquil,Marketing,125026.0,"Jun 22, 2021",4,remoto,Divorciado
+818,838,90914,M,45,UIO,Tecnologia,691534.0,11/04/2021,3,presencial,Casado
+819,72,35026,F,30,Guayaquil,Operaciones,290485.0,2020-06-29,4,hibrido,Union Libre
+820,84,95621,F,37,UIO,Operaciones,404409.0,2015-12-27,3,presencial,Divorciado
+821,915,89677,female,34,Guayaquil,Ventas,60756.0,2021-11-21,3,presencial,Union Libre
+822,931,15802,m,41,UIO,RRHH,9884.0,2016-04-04,3,remoto,Casado
+823,115,48749,M,36,Guayaquil,Tecnologia,502033.0,2015-10-07,5,hibrido,Casado
+824,36,23092,M,50,quito,Ventas,118126.0,2025-05-18,1,presencial,Casado
+825,529,37560,m,42,guayaquil,Tecnologia,55807.0,2015-03-26,4,remoto,Union Libre
+826,303,40331,m,30,Guayaquil,Finanzas,248766.0,16/08/2015,3,presencial,Soltero
+827,784,74744,F,31,quito,Tecnologia,291671.0,2025-03-07,1,hibrido,Union Libre
+828,712,86462,M,41,Guayaquil,Tecnologia,234246.0,2016-10-05,3,remoto,Union Libre
+829,165,84219,m,28,Guayaquil,Tecnologia,313406.0,2017-07-26,4,hibrido,Casado
+830,939,11105,M,38,guayaquil,Tecnologia,795152.0,21/04/2022,4,hibrido,Soltero
+831,639,49411,M,42,quito,Ventas,245498.0,"Sep 08, 2023",4,hibrido,Soltero
+832,597,69825,M,32,guayaquil,Operaciones,229696.0,10/12/2023,1,presencial,Casado
+833,747,58826,female,33,guayaquil,Tecnologia,15232.0,2025-04-17,3,remoto,Soltero
+834,327,62957,female,35,guayaquil,Operaciones,305273.0,2019-01-01,1,presencial,Union Libre
+835,409,96889,F,33,UIO,Tecnologia,179734.0,2017-05-31,4,hibrido,Casado
+836,515,63255,m,40,Guayaquil,Ventas,340114.0,"Jan 14, 2022",3,hibrido,Union Libre
+837,649,58545,F,50,GYE,Marketing,165127.0,"Oct 17, 2022",4,presencial,Soltero
+838,19,22625,M,26,UIO,Tecnologia,350648.0,2022-09-11,5,hibrido,Union Libre
+839,560,39429,M,36,quito,Marketing,208851.0,25/04/2022,3,presencial,Casado
+840,56,58443,m,32,UIO,Tecnologia,648124.0,20/05/2021,5,remoto,Union Libre
+841,67,95441,m,37,guayaquil,Ventas,285277.0,2015-01-03,2,presencial,Casado
+842,504,65005,m,32,Guayaquil,Marketing,100267.0,2016-06-25,4,hibrido,Soltero
+843,659,89531,m,36,GYE,Tecnologia,348818.0,"Sep 03, 2019",4,remoto,Soltero
+844,107,89256,female,37,guayaquil,Ventas,71861.0,2017-09-02,3,remoto,Casado
+845,516,99888,M,40,UIO,Finanzas,305228.0,17/11/2019,4,hibrido,Divorciado
+846,766,16051,female,34,guayaquil,Tecnologia,367689.0,2017-08-22,4,remoto,Union Libre
+847,442,38235,m,28,UIO,Operaciones,179539.0,"May 31, 2024",3,presencial,Soltero
+848,831,13895,M,31,guayaquil,Finanzas,343679.0,19/07/2017,3,presencial,Soltero
+849,184,80910,M,37,quito,Operaciones,204837.0,10/07/2016,3,presencial,Casado
+850,828,21074,M,39,UIO,Ventas,276096.0,2022-01-19,3,presencial,Soltero
+851,258,87604,M,43,guayaquil,Tecnologia,435251.0,02/07/2017,3,hibrido,Union Libre
+852,460,26404,F,45,UIO,Finanzas,407429.0,2017-10-15,3,presencial,Casado
+853,764,34641,female,43,UIO,Ventas,79108.0,2018-12-07,4,presencial,Soltero
+854,5,32895,F,41,GYE,Tecnologia,431703.0,2019-12-13,4,remoto,Divorciado
+855,297,83731,female,29,Guayaquil,Marketing,131079.0,28/08/2020,4,presencial,Soltero
+856,391,60419,M,25,UIO,Tecnologia,68490.0,2022-07-02,3,remoto,Casado
+857,813,32339,M,47,Guayaquil,Finanzas,342222.0,29/11/2021,3,presencial,Casado
+858,467,48137,female,48,Guayaquil,Finanzas,160518.0,2017-01-18,5,presencial,Casado
+859,257,70991,M,40,UIO,Tecnologia,34422.0,2025-06-15,4,presencial,Casado
+860,762,30545,F,44,Guayaquil,Marketing,148009.0,2016-12-13,4,hibrido,Casado
+861,148,10488,m,33,Guayaquil,Tecnologia,206018.0,2022-04-13,3,hibrido,Casado
+862,945,33471,F,33,GYE,RRHH,253653.0,30/08/2024,5,presencial,Soltero
+863,436,10634,m,29,quito,Ventas,197141.0,2020-06-04,4,hibrido,Soltero
+864,820,71510,F,41,Guayaquil,Ventas,80000.0,"Oct 06, 2023",4,presencial,Divorciado
+865,386,75432,F,42,Guayaquil,Tecnologia,145195.0,25/12/2019,5,remoto,Divorciado
+866,840,97602,M,41,quito,Marketing,162221.0,05/08/2019,4,hibrido,Casado
+867,218,48898,M,34,Guayaquil,Ventas,148941.0,2020-08-21,3,presencial,Union Libre
+868,938,50826,m,38,UIO,Ventas,155553.0,26/02/2019,3,presencial,Casado
+869,801,72171,female,46,Guayaquil,Tecnologia,274562.0,2019-08-17,4,hibrido,Casado
+870,15,72771,female,37,guayaquil,Marketing,182825.0,2024-07-30,5,presencial,Casado
+871,131,73849,F,38,guayaquil,Tecnologia,188544.0,20/01/2020,4,hibrido,Soltero
+872,522,17581,m,35,Guayaquil,Operaciones,148768.0,"Nov 07, 2015",3,presencial,Union Libre
+873,694,50816,M,43,quito,Tecnologia,137441.0,2017-05-03,3,hibrido,Casado
+874,22,47351,F,33,guayaquil,Tecnologia,454576.0,2023-01-16,4,remoto,Casado
+875,198,66274,female,38,quito,Tecnologia,152458.0,2017-01-06,3,remoto,Union Libre
+876,588,65436,m,29,Guayaquil,Tecnologia,127697.0,2016-05-05,4,remoto,Soltero
+877,912,31159,F,30,guayaquil,Marketing,93871.0,2020-05-30,5,presencial,Casado
+878,103,12224,m,31,Guayaquil,RRHH,109524.0,12/09/2020,3,presencial,Union Libre
+879,574,86115,M,40,Guayaquil,Finanzas,175959.0,2020-10-01,5,presencial,Divorciado
+880,24,14768,F,36,Guayaquil,Finanzas,310592.0,2015-10-25,5,presencial,Soltero
+881,473,17062,M,48,quito,Operaciones,169967.0,21/01/2015,3,hibrido,Divorciado
+882,168,13094,female,37,Guayaquil,Tecnologia,172653.0,16/09/2015,1,hibrido,Union Libre
+883,778,36906,m,40,quito,Tecnologia,314495.0,2023-04-29,3,remoto,Casado
+884,189,96043,m,53,guayaquil,Ventas,94178.0,2016-02-29,3,presencial,Divorciado
+885,505,35131,M,41,guayaquil,Tecnologia,41043.0,2017-09-01,5,hibrido,Soltero
+886,932,59404,female,43,Guayaquil,Finanzas,239272.0,2025-11-11,4,presencial,Casado
+887,435,79919,F,32,quito,Tecnologia,203559.0,31/03/2022,4,hibrido,Soltero
+888,382,78552,F,43,UIO,Finanzas,164046.0,23/01/2016,3,presencial,Casado
+889,671,84209,female,25,quito,Tecnologia,268142.0,13/08/2025,4,remoto,Soltero
+890,368,51846,female,25,Guayaquil,Marketing,9586.0,"Apr 23, 2015",3,hibrido,Soltero
+891,481,56103,M,34,Guayaquil,RRHH,138779.0,2018-09-29,1,remoto,Soltero
+892,465,95848,F,39,Guayaquil,Ventas,596337.0,"Oct 26, 2022",5,presencial,Soltero
+893,608,68290,F,22,quito,Finanzas,220109.0,2021-10-04,5,presencial,Soltero
+894,347,59842,F,44,Guayaquil,Operaciones,148898.0,10/07/2017,3,remoto,Casado
+895,921,25646,female,41,GYE,Marketing,268526.0,01/10/2015,4,presencial,Soltero
+896,220,76332,F,54,Guayaquil,Marketing,230982.0,2020-11-15,5,presencial,Casado
+897,195,64187,F,33,UIO,Finanzas,192158.0,"May 02, 2017",3,presencial,Union Libre
+898,423,70842,female,28,guayaquil,Operaciones,139424.0,2019-10-20,5,presencial,Soltero
+899,596,99273,female,36,Guayaquil,Finanzas,326904.0,"Oct 07, 2021",4,hibrido,Soltero
+900,483,96720,m,33,quito,Operaciones,146665.0,2018-01-25,3,presencial,Divorciado
+901,551,92524,m,42,Guayaquil,Tecnologia,20919.0,"Jan 23, 2019",4,remoto,Soltero
+902,774,21233,M,46,quito,Operaciones,375394.0,04/07/2017,3,presencial,Casado
+903,52,76284,m,40,quito,Tecnologia,257577.0,2020-09-07,3,hibrido,Union Libre
+904,146,69829,F,23,guayaquil,Ventas,156544.0,2016-05-04,1,presencial,Union Libre
+905,723,44001,F,44,quito,Tecnologia,698833.0,2016-11-10,2,remoto,Casado
+906,50,36625,m,35,GYE,RRHH,373835.0,"May 10, 2015",4,presencial,Soltero
+907,637,55746,m,40,guayaquil,Tecnologia,231053.0,2017-03-22,4,remoto,Casado
+908,929,53724,M,38,quito,RRHH,85256.0,2021-03-13,3,presencial,Casado
+909,575,26033,M,26,GYE,Marketing,8368.0,29/07/2015,5,presencial,Soltero
+910,353,72168,female,38,guayaquil,RRHH,195831.0,2015-10-25,3,presencial,Casado
+911,635,74918,M,39,UIO,Finanzas,389802.0,"Oct 20, 2018",3,presencial,Soltero
+912,298,90059,F,37,guayaquil,Marketing,118591.0,"Oct 08, 2019",4,presencial,Union Libre
+913,431,78509,F,37,Guayaquil,Operaciones,233279.0,2019-11-05,4,presencial,Casado
+914,475,70160,m,39,Guayaquil,Tecnologia,402025.0,2022-01-31,5,hibrido,Union Libre
+915,285,61710,m,30,GYE,Operaciones,201215.0,2024-03-19,2,hibrido,Soltero
+916,248,42053,female,30,guayaquil,Tecnologia,467312.0,24/02/2023,4,hibrido,Soltero
+917,23,53473,M,32,guayaquil,Operaciones,340079.0,2015-12-20,4,presencial,Casado
+918,699,80231,m,34,UIO,Tecnologia,375982.0,2020-05-15,3,hibrido,Union Libre
+919,808,74969,female,23,guayaquil,Operaciones,139227.0,01/04/2017,3,presencial,Casado
+920,577,18086,m,34,Guayaquil,RRHH,152966.0,"Nov 22, 2019",5,remoto,Union Libre
+921,860,39956,M,47,UIO,Tecnologia,80000.0,17/05/2015,2,hibrido,Divorciado
+922,174,36005,female,36,UIO,Ventas,254106.0,2024-01-03,3,hibrido,Soltero
+923,691,76125,M,43,Guayaquil,Tecnologia,360917.0,2026-01-29,4,remoto,Casado
+924,777,82156,M,27,guayaquil,Marketing,133758.0,2017-09-07,3,presencial,Soltero
+925,795,95646,F,51,quito,Marketing,195593.0,21/05/2025,4,remoto,Casado
+926,788,51355,female,40,guayaquil,Finanzas,297909.0,08/08/2020,4,presencial,Soltero
+927,853,95035,female,31,Guayaquil,Marketing,150091.0,08/02/2016,4,hibrido,Casado
+928,280,36713,female,42,quito,RRHH,466515.0,2023-12-30,5,hibrido,Casado
+929,140,97811,female,30,Guayaquil,Marketing,157184.0,"Jan 08, 2024",3,presencial,Casado
+930,306,77707,F,46,Guayaquil,Finanzas,281149.0,"Jun 14, 2024",4,presencial,Divorciado
+931,624,81341,m,28,quito,Ventas,9161.0,2023-07-17,4,hibrido,Soltero
+932,540,23958,F,36,guayaquil,Tecnologia,159471.0,2022-04-02,4,hibrido,Union Libre
+933,18,51841,M,38,quito,Finanzas,189377.0,2021-05-06,3,presencial,Union Libre
+934,179,38108,F,36,Guayaquil,Marketing,214487.0,2017-03-21,5,presencial,Union Libre
+935,818,59693,female,42,quito,Marketing,158846.0,02/02/2021,3,presencial,Soltero
+936,60,81744,female,35,quito,Marketing,16804.0,2015-12-03,4,remoto,Casado
+937,289,16500,female,44,quito,Tecnologia,461969.0,2024-10-14,4,hibrido,Union Libre
+938,745,84186,m,26,guayaquil,Finanzas,493484.0,2024-01-16,4,hibrido,Soltero
+939,149,10393,M,30,Guayaquil,Tecnologia,227288.0,2019-06-05,2,remoto,Union Libre
+940,618,46943,M,40,guayaquil,Marketing,364539.0,05/09/2022,3,presencial,Union Libre
+941,651,59691,female,36,quito,Finanzas,379343.0,2022-10-02,3,presencial,Soltero
+942,476,98208,M,21,GYE,Operaciones,107283.0,2021-07-24,3,presencial,Soltero
+943,562,20512,F,42,guayaquil,Marketing,275442.0,2022-09-18,3,presencial,Union Libre
+944,569,18455,m,37,UIO,Finanzas,198751.0,2019-02-14,3,presencial,Casado
+945,417,32102,m,38,Guayaquil,Operaciones,248045.0,17/09/2019,3,presencial,Soltero
+946,96,44424,female,40,Guayaquil,Tecnologia,296331.0,2018-01-22,3,hibrido,Casado
+947,667,28144,female,29,GYE,Tecnologia,197888.0,22/02/2017,1,hibrido,Casado
+948,617,74237,M,49,guayaquil,Tecnologia,424174.0,2020-08-02,3,remoto,Casado
+949,787,36189,female,37,Guayaquil,Tecnologia,278468.0,2023-05-18,4,hibrido,Soltero
+950,715,27822,female,48,GYE,Tecnologia,345547.0,2020-11-29,4,hibrido,Union Libre
+951,456,49741,m,30,UIO,Marketing,90453.0,14/12/2023,1,presencial,Casado
+952,38,56232,F,24,Guayaquil,Tecnologia,363699.0,2024-11-02,3,remoto,Soltero
+953,725,25782,F,34,UIO,Operaciones,151115.0,"Mar 09, 2016",5,presencial,Union Libre
+954,652,81100,F,36,Guayaquil,Tecnologia,550646.0,29/12/2019,3,remoto,Union Libre
+955,621,47583,female,21,Guayaquil,Tecnologia,152495.0,05/06/2015,3,hibrido,Soltero
