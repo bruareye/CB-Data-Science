@@ -1,4 +1,4 @@
-# 📊 Portafolio de Data Science - [Nombre del Bootcamp]
+# Portafolio de Coding Bootcamp Data Science
 
 Bienvenido a mi repositorio de proyectos. Aquí documento las actividades, ejercicios prácticos y análisis realizados durante mi formación en el bootcamp, combinando mi base analítica en Economía con herramientas técnicas para la resolución de problemas de datos.
 
